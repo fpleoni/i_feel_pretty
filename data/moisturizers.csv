@@ -1,0 +1,836 @@
+,brand,name,price,n_of_reviews,n_of_loves,review_score,size,clean_product,category
+0,Drunk Elephant,Protini Polypeptide Moisturizer,68,1000,136008,4.2097,1.69 oz,1,Moisturizers
+1,La Mer,Crreme de la Mer,175,493,61648,4.0974,1 oz,0,Moisturizers
+2,IT Cosmetics,CC+ Cream with SPF 50+,39,2000,188389,4.0403,1.08 oz,0,BB & CC Cream
+3,Tatcha,The Water Cream,68,1000,149323,4.2447,1.7 oz,1,Moisturizers
+4,SK-II,Facial Treatment Essence,179,788,68880,4.0622,None,0,Mists & Essences
+5,Drunk Elephant,Lala Retro Whipped Moisturizer,60,1000,103949,4.2228,1.69 oz,1,Moisturizers
+6,Tatcha,The Dewy Skin Cream,68,222,31907,4.3694,1.7 oz,1,Moisturizers
+7,Drunk Elephant,Virgin Marula Luxury Facial Oil,72,1000,117305,4.4188,1 oz,1,Face Oils
+8,The Ordinary,Hyaluronic Acid 2% + B5,6.8,501,84567,4.1896,1 oz,0,Face Serums
+9,Kiehl's Since 1851,Ultra Facial Cream,30,756,60343,4.3915,1.7 oz,0,Moisturizers
+10,belif,The True Cream Aqua Bomb,38,3000,142491,4.4863,1.68 oz,0,Moisturizers
+11,IT Cosmetics,Your Skin But Better CC+ Kit! Pick Your CC+ & Drop IT In,40,15,7769,4.3333,None,0,Value & Gift Sets
+12,bareMinerals,COMPLEXION RESCUE� Tinted Moisturizer Broad Spectrum SPF 30,32,2000,120569,3.9608,None,0,BB & CC Cream
+13,SEPHORA COLLECTION,Sleeping Mask,4,1000,193307,4.2452,0.27oz,0,Face Masks
+14,belif,The True Cream Moisturizing Bomb,38,1000,72877,4.5539,1.68 oz,0,Moisturizers
+15,The Ordinary,100% Organic Cold-Pressed Rose Hip Seed Oil,9.8,358,65034,4.4581,1 oz,0,Face Oils
+16,La Mer,The Moisturizing Soft Cream,175,179,21388,3.8436,1 oz,0,Moisturizers
+17,Fresh,Lotus Youth Preserve Moisturizer,46,2000,119862,4.2875,1.6 oz,0,Moisturizers
+18,Farmacy,HONEYMOON GLOW AHA Resurfacing Night Serum with Hydrating Honey + Gentle Flower Acids,58,516,58631,4.5426,1 oz,0,Night Creams
+19,IT Cosmetics,CC+ Cream Oil-Free Matte with SPF 40,39,857,40767,3.8985,1.08 oz,0,BB & CC Cream
+20,CLINIQUE,Moisture Surge 72-Hour Auto-Replenishing Hydrator,39,740,51950,4.3703,1.7 oz,0,Moisturizers
+21,First Aid Beauty,Ultra Repair-Cream Intense Hydration,32,6000,144337,4.5827,6 oz,0,Moisturizers
+22,OLEHENRIKSEN,"C-Rush, Vitamin C Gel Moisturizer",45,2000,38496,4.5275,1.7 oz,0,Moisturizers
+23,IT Cosmetics,Your Skin But Better� CC+Illumination�  Cream with SPF 50+,39,455,38337,3.811,1.08 oz,0,BB & CC Cream
+24,Fresh,Rose Deep Hydration Moisturizer,42,969,73660,4.3375,1.6 oz,0,Moisturizers
+25,Supergoop!,Everyday Sunscreen Broad Spectrum SPF 50,19,388,30550,4.3196,2.4 oz,1,Face Sunscreen
+26,Tatcha,Pure One Step Camellia Oil Cleanser,48,1000,72453,4.5224,5.1 oz,1,Face Oils
+27,Tatcha,Luminous Dewy Skin Mist,48,1000,138462,3.9479,1.35 oz,1,Mists & Essences
+28,Dr. Jart+,Cicapair Tiger Grass Color Correcting Treatment SPF 30,52,1000,68346,4.2025,1.7 fl. oz,0,BB & CC Cream
+29,SUNDAY RILEY,Luna Retinol Sleeping Night Oil,105,1000,112116,4.1146,1.18 oz,0,Face Oils
+30,Kiehl's Since 1851,Midnight Recovery Concentrate,49,566,66439,4.3233,1 oz,0,Night Creams
+31,Glow Recipe,Watermelon Glow Ultra-Fine Mist,28,139,30693,4.4173,2.53 oz,1,Mists & Essences
+33,CLINIQUE,Dramatically Different Moisturizing Gel,28,3000,76158,4.4662,None,0,Moisturizers
+34,The Ordinary,Natural Moisturizing Factors + HA,5.8,276,36155,4.1594,1 oz,0,Face Serums
+35,SK-II,Facial Treatment Essence Mini,99,70,18195,3.9571,None,0,Mists & Essences
+36,OLEHENRIKSEN,Sheer Transformation - Perfecting Moisturizer,40,2000,62322,4.2227,1.7 oz,0,Moisturizers
+37,Caudalie,Vinoperfect Brightening Glycolic Overnight Cream,65,137,12438,4.8394,None,1,Night Creams
+38,Supergoop!,CC Cream Daily Correct Broad Spectrum SPF 35+ Sunscreen,34,542,32289,4.3413,1.6 oz,1,BB & CC Creams
+39,Tatcha,The Essence Plumping Skin Softener,95,1000,45534,4.5357,5.1 oz,1,Mists & Essences
+40,Caudalie,Beauty Elixir,18,3000,80381,4.2971,1 oz,1,Mists & Essences
+41,Drunk Elephant,Virgin Marula Luxury Facial Oil Mini,40,45,0,4.2444,None,1,Face Oils
+42,Erborian,CC Creme High Definition Radiance Face Cream Skin Perfector,44,513,33175,4.1111,1.5 oz,0,BB & CC Cream
+43,Youth To The People,Superberry Hydrate + Glow Dream Mask,48,326,28972,4.7301,2 oz,1,Face Masks
+44,Dr. Jart+,Premium Beauty Balm SPF 45,39,2000,51471,4.2411,1.5 oz,0,Moisturizers
+45,Charlotte Tilbury,Charlotte's Magic Cream,100,499,14067,4.2986,1.7 oz,0,Moisturizers
+46,Fresh,Lotus Youth Preserve Dream Night Cream,48,208,24352,4.6538,1.6 oz,0,Moisturizers
+47,LANEIGE,Water Sleeping Mask,25,1000,103268,4.3255,2.3 oz,0,Face Masks
+48,Bobbi Brown,Vitamin Enriched Face Base Priming Moisturizer,60,804,76177,4.5323,1.7 oz,0,Moisturizers
+49,Josie Maran,100 percent Pure Argan Oil,49,7000,122161,4.5261,1.7 oz,1,Face Oils
+50,Origins,GinZing� Energy-Boosting Gel Moisturizer,29.5,2000,69203,4.4265,1.7 oz,0,Moisturizers
+51,tarte,BB Tinted Treatment 12-Hour Primer Broad Spectrum SPF 30 Sunscreen,37,3000,95331,4.2684,1 oz,0,BB & CC Cream
+52,CLINIQUE,Dramatically Different Moisturizing Lotion+,28,1000,67346,3.8784,4.2 oz ,0,Moisturizers
+53,Biossance,Squalane + Vitamin C Rose Oil,72,316,38037,4.3956,1 oz,1,Face Oils
+54,SUNDAY RILEY,U.F.O. Ultra-Clarifying Face Oil,80,1000,81319,4.1595,1.18 oz,0,Face Oils
+55,tarte,Amazonian Clay BB Tinted Moisturizer Broad Spectrum SPF 20 Sunscreen,36,2000,63423,4.2498,1.7 oz,0,Tinted Moisturizer
+56,FARSALI,Unicorn Essence Antioxidant Primer Serum,54,1000,133987,3.8928,1 oz,0,Face Primer
+57,SUNDAY RILEY,C.E.O Glow Vitamin C + Turmeric Face Oil,40,100,10975,4.22,0.5 oz,0,Face Oils
+58,Origins,Dr. Andrew Weil For Origins� Mega-Mushroom Relief & Resilience Soothing Treatment Lotion,34,747,28741,4.3588,6.7 oz,1,Moisturizers
+59,Peter Thomas Roth,Water Drench Hyaluronic Cloud Cream,52,888,32448,4.3513,1.7 oz,0,Moisturizers
+60,SK-II,R.N.A. POWER Face Cream,230,104,9547,4.25,2.7 oz,0,Moisturizers
+61,CLINIQUE,Acne Solutions BB Cream Broad Spectrum SPF 40,39,601,34736,4.1481,1 oz,0,BB & CC Cream
+62,SK-II,GenOptics Aura Essence Serum,240,109,9090,4.0826,1.6 oz,0,Mists & Essences
+63,Dr. Jart+,Ceramidin� Cream,48,917,17578,4.6074,1.69 oz,0,Moisturizers
+64,First Aid Beauty,Hello FAB Coconut Skin Smoothie Priming Moisturizer,28,1000,56776,4.218,1.7 oz,0,Moisturizers
+65,GLAMGLOW,GLOWSTARTER� Mega Illuminating Moisturizer,49,1000,60229,4.027,1.7 oz,0,Moisturizers
+66,LANEIGE,Water Bank Moisture Cream,35,734,29072,4.4005,1.6 oz,0,Moisturizers
+67,SUNDAY RILEY,Tidal Brightening Enzyme Water Cream,22,1000,55171,4.1377,0.5 oz,0,Moisturizers
+68,Youth To The People,Superfood Hyaluronic Acid Moisturizer,48,683,30370,4.2006,2 oz,1,Moisturizers
+69,Glow Recipe,Watermelon Glow Sleeping Mask,45,1000,170974,4.0466,2.7 oz,1,Night Creams
+70,IT Cosmetics,Secret Sauce Anti-Aging Moisturizer,68,338,26730,3.7722,2 oz,0,Moisturizers
+71,OLEHENRIKSEN,Goodnight Glow Retin-ALT Sleeping Creme,55,211,28556,4.1185,1.7 oz,0,Night Creams
+72,Herbivore,Emerald Cannabis Sativa Hemp Seed Deep Moisture Glow Oil,48,154,24670,4.6234,1 oz,1,Face Oils
+73,Smashbox,Camera Ready BB Cream SPF 35,42,3000,77095,4.0136,1 oz,0,BB & CC Cream
+74,The Ordinary,Vitamin C Suspension 23% + HA Spheres 2%,5.8,265,33372,3.9849,1 oz,0,Moisturizers
+75,CLINIQUE,Clinique iD� Custom-Blend Hydrator Collection,39,88,30980,3.8864,4.2 oz,0,Moisturizers
+76,Glow Recipe,Watermelon Pink Juice Moisturizer,39,726,62865,4.0124,2 oz,1,Moisturizers
+77,Caudalie,Vinosource SOS Deep Hydration Moisturizer,42,47,4498,4.7872,1.6 oz,1,Moisturizers
+78,Dior,Capture Totale Dreamskin Advanced,115,127,11808,4.1654,1 oz,0,Moisturizers
+79,FARSALI,"Rose Gold Elixir, 24k Gold Infused Beauty Oil",54,1000,114554,3.9263,1 oz,0,Face Oils
+80,Guerlain,Abeille Royale Youth Watery Oil,129,29,11056,4.1379,1.6 oz,0,Face Oils
+81,IT Cosmetics,Confidence in a Cream Hydrating Moisturizer,48,570,27894,4.2842,2 oz,0,Moisturizers
+82,Tatcha,Luminous Dewy Skin Night Concentrate,110,153,28945,4.4379,1.7 oz,1,Night Creams
+83,Youth To The People,Superberry Hydrate + Glow Oil,44,508,26645,4.7539,1 oz,1,Face Oils
+84,LANEIGE,BB Cushion Hydra Radiance SPF 50,38,1000,26255,4.2886,0.5 oz,0,BB & CC Cream
+85,Biossance,Limited Edition Squalane + Vitamin C Rose Oil,72,310,2793,4.3968,1.01 oz,1,Face Oils
+86,Perricone MD,Cold Plasma Sub-D Firming Neck Treatment,135,252,8618,3.7778,2 oz,0,Moisturizers
+87,Algenist,GENIUS Sleeping Collagen,98,1000,7378,4.6152,2 oz,0,Night Creams
+88,Tatcha,The Silk Cream,120,142,23416,4.2676,1.7 oz,1,Moisturizers
+89,OLEHENRIKSEN,Counter Balance™ Oil Control Hydrator,36,931,31646,4.2825,1.7 oz,0,Moisturizers
+90,tarte,Drink of H2O Hydrating Boost Moisturizer Rainforest of the Sea™,39,1000,63150,4.3578,1.70 oz,0,Moisturizers
+91,Supergoop!,Superscreen Daily Moisturizer Broad Spectrum SPF 40 PA+++,38,91,12759,4.011,1.7 oz,1,Moisturizers
+92,SUNDAY RILEY,C.E.O. C+ E Antioxidant Protect Repair Moisturizer,22,675,33749,4.0711,0.5 oz,0,None
+93,AMOREPACIFIC,Color Control Cushion Compact Broad Spectrum SPF 50+,60,1000,26924,4.0439,1.05 oz,0,BB & CC Cream
+94,Caudalie,Vinosource Moisturizing Sorbet,39,1000,42892,4.2154,1.3 oz ,1,Moisturizers
+95,Origins,Original Skin� Matte Moisturizer with Willowherb,35,1000,38138,4.4701,1.7 oz,1,Moisturizers
+96,Dr. Jart+,Cicapair™ Tiger Grass Cream,48,587,30709,4.3509,1.7 oz,0,Moisturizers
+97,KORA Organics,Noni Glow Face Oil,68,366,23502,4.3224,1.01 oz,1,Face Oils
+98,Josie Maran,Skin Dope Argan Oil + 100 mg CBD,78,7,1205,5,1.7 oz,1,Face Oils
+99,IT Cosmetics,Bye Bye Redness™ Neutralizing Correcting Cream,32,636,31776,4.2233,0.37 oz,0,Moisturizers
+100,Lancôme,UV Expert Aquagel Defense Primer & Moisturizer SPF 50,39,480,1435,4.5208,1 oz,0,Moisturizers
+101,Fresh,Black Tea Firming Overnight Mask,92,372,42432,4.1183,3.3 oz,0,Face Masks
+102,Supergoop!,Defense Refresh Setting Mist Broad Spectrum SPF 50,28,1000,32423,3.2617,3.4 oz,1,Mists & Essences
+103,Murad,Retinol Youth Renewal Night Cream,82,186,6662,4.7258,1.7 oz,0,Night Creams
+104,Murad,Nutrient-Charged Water Gel,60,489,11775,4.5644,1.7 oz,0,Moisturizers
+105,MILK MAKEUP,Cooling Water,24,904,70120,3.7876,1.2 oz,0,Mists & Essences
+106,First Aid Beauty,Ultra Repair - Hydrating Serum,38,523,33249,4.2294,1.7 oz,0,Face Serums
+107,MAKE UP FOR EVER,Mist & Fix Setting Spray,30,1000,66170,4.2422,4.22 oz,0,Setting Spray & Powder
+108,Erborian,BB Creme au Ginseng,39,259,21377,4.3784,1.5 oz,0,BB & CC Cream
+109,Shiseido,Benefiance WrinkleResist24 Night Cream ,63,248,15564,4.3629,1.7 oz,0,Night Creams
+110,Caudalie,Grape Water,10,1000,77843,4.46,None,1,Mists & Essences
+111,Algenist,GENIUS Ultimate Anti-Aging Cream,112,441,13854,4.2834,2 oz,0,Moisturizers
+112,Herbivore,Lapis Balancing Facial Oil,72,563,37261,4.3872,1.7 oz,1,Face Oils
+113,SUNDAY RILEY,Juno Antioxidant + Superfood Face Oil,72,378,43924,4.4127,1.18 oz,0,Face Oils
+114,Tatcha,The Indigo Cream Soothing Skin Protectant,85,72,8519,4.2639,1.7 oz,1,Moisturizers
+115,philosophy,Renewed Hope in A Jar Refreshing & Refining Moisturizer,39,541,32042,4.1608,2 oz,0,Moisturizers
+116,OLEHENRIKSEN,Invigorating Night Transformation™ Gel,49,1000,44769,4.2931,1.7 oz,0,Face Serums
+117,LANEIGE,Water Bank Essence,36,188,20043,4.7074,2 oz,0,Mists & Essences
+118,Bobbi Brown,BB Cream SPF 35,47,657,27579,3.9269,1.35 oz,0,BB & CC Cream
+119,Farmacy,Honey Drop Lightweight Moisturizer,45,594,31677,4.1178,1.7 oz,1,Moisturizers
+120,SEPHORA COLLECTION,Nourishing Moisturizer - Hydrate & Repair,16,100,9753,4.44,1.69oz,1,Moisturizers
+121,Josie Maran,Whipped Argan Oil Face Butter,42,708,28863,4.1215,1.7 oz,1,Moisturizers
+122,KORA Organics,Noni Glow Face Oil Mini,25,13,5435,4.4615,0.34 oz,1,Face Oils
+123,KORA Organics,Noni Glow Face Oil,25,397,3631,4.2771,0.34 oz,1,Face Oils
+124,Jack Black,Double-Duty Face Moisturizer Broad Spectrum SPF 20,28,351,13349,4.4672,3.3 oz,0,Moisturizers
+125,CLINIQUE,Moisture Surge Intense Skin Fortifying Hydrator,39,895,23966,4.3866,1.7 oz,0,Moisturizers
+126,Biossance,Squalane + Probiotic Gel Moisturizer,52,328,16755,4.3841,None,1,Moisturizers
+127,tarte,4-in-1 Setting Mist - Rainforest of the Sea�  Collection,25,1000,68715,3.8257,2.5 oz,0,Mists & Essences
+128,Biossance,Squalane + Omega Repair Cream,58,255,7834,4.5294,1.69 oz,1,Moisturizers
+129,belif,Aqua Bomb Sleeping Mask,34,745,22332,4.6255,2.53 oz,0,Face Masks
+130,Origins,Dr. Andrew Weil For Origins� Mega-Bright SPF 30 Skin Tone Correcting Oil-Free Moisturizer,56,158,13870,4.1076,1.7 oz,0,Moisturizers
+131,La Mer,The Renewal Oil,245,39,8739,4.2564,1 oz,0,Face Oils
+132,belif,Peat Miracle Revital Cream,58,54,10523,4.7222,1.68 oz,0,None
+133,La Mer,The Moisturizing Cool Gel Cream,175,59,4842,3.2881,1 oz,0,Moisturizers
+134,Mario Badescu,"Facial Spray with Aloe, Herbs and Rosewater",12,111,17595,4.2432,8 oz,0,None
+135,Murad,Hydro-Dynamic® Ultimate Moisture,75,365,12350,4.4247,1.7 oz,0,None
+136,Origins,GinZing� SPF 40 Energy-Boosting Tinted Moisturizer,39,198,11605,4,1.7 oz,1,Moisturizers
+137,Shiseido,Sports BB SPF 50+,38,2,1478,4.5,1 oz,0,BB & CC Cream
+138,Fresh,Black Tea Kombucha Antioxidant Essence,68,275,35942,4.4073,5 oz,0,Mists & Essences
+139,Fresh,Black Tea Corset Cream Firming Moisturizer,95,92,16014,4.0326,1.6 oz,0,Moisturizers
+140,Murad,Oil-Control Mattifier SPF 15 PA++,40,2000,32886,4.1703,1.7 oz,0,Moisturizers
+141,Farmacy,Sleep Tight Firming Night Balm with Echinacea GreenEnvy,48,463,33911,4.2138,1.7 oz,1,Night Creams
+142,Shiseido,Benefiance WrinkleResist24 Day Cream Broad Spectrum SPF 18,60,135,9169,4.363,1.8 oz,0,Moisturizers
+143,Kopari,Coconut Melt,28,627,37428,4.0957,5.1 oz,1,Body Lotions & Body Oils
+144,Briogeo,B. Well Organic + Cold-Pressed 100% Castor Oil,26,147,15134,4.8231,None,1,Hair Oil
+145,Perricone MD,Vitamin C Ester Photo-Brightening Moisturizer SPF 30,69,592,11925,4.2314,2 oz,0,Moisturizers
+146,First Aid Beauty,Ultra Repair Face Moisturizer,24,706,26793,4.2535,None,0,Moisturizers
+147,Dr. Dennis Gross Skincare,Ferulic + Retinol Anti-Aging Moisturizer,75,122,9519,4.1721,1.7 oz,0,Moisturizers
+148,First Aid Beauty,Ultra Repair Oat & Cannabis Sativa Seed Oil,30,129,10962,4.5116,1 oz,0,Face Oils
+149,CLINIQUE,Redness Solutions Daily Relief Cream,49.5,525,12113,4.021,1.7 oz,0,None
+150,CLINIQUE,Moisture Surge CC Cream Hydrating Colour Corrector Broad Spectrum SPF 30,39,730,26504,3.8233,1.4 oz,0,BB & CC Cream
+151,Fresh,Rose Deep Hydration Sleeping Mask,50,456,2397,4.6886,1.18 oz,0,Face Masks
+152,Herbivore,Pink Cloud Rosewater Moisture Creme,48,999,52366,4.4585,1.7 oz,1,Moisturizers
+153,Fresh,Rose Floral Toner,40,811,61025,4.1196,8.5 oz,0,Toners
+154,bareMinerals,Prime Time BB Tinted Primer Broad Spectrum SPF 30,27,292,15276,4.0685,1.0 oz,0,BB & CC Cream
+155,IT Cosmetics,Your Skin But Better� CC+ Airbrush Perfecting Powder� with SPF 50+,35,215,24423,3.6186,0.33 oz,0,BB & CC Cream
+156,Dermalogica,Dynamic Skin Recovery SPF50 Moisturizer,73,89,544,4.7753,1.7 oz,0,Face Sunscreen
+157,REN Clean Skincare,Evercalm� Overnight Recovery Balm,48,130,14035,4.5615,1.02 oz,1,Night Creams
+158,First Aid Beauty,Ultra Repair Hydra-Firm Sleeping Cream,38,427,30207,4.3068,1.7 oz,0,Night Creams
+159,Tatcha,Gold Camellia Beauty Oil,95,122,30100,4.6557,1 oz,1,Face Oils
+160,Origins,A Perfect World™ SPF 40 Age-Defense Moisturizer with White Tea,45,227,10605,3.5463,1.7 oz,1,Moisturizers
+161,Josie Maran,Argan Daily Moisturizer SPF 47 ,34,1000,33639,3.877,2 oz,1,Face Sunscreen
+162,IT Cosmetics,Miracle Water 3-in-1 Micellar Cleanser,38,160,12640,4.5062,8.5 oz,0,Mists & Essences
+163,Perricone MD,High Potency Classics: Face Finishing & Firming Moisturizer,69,1000,14175,4.2805,2 oz,0,Moisturizers
+164,Murad,Essential-C Day Moisture Broad Spectrum SPF 30 PA+++,65,369,13022,4.0163,1.7 oz,0,Moisturizers
+165,Dior,Capture Dreamskin Fresh & Perfect Cushion Broad Spectrum SPF 50,82,102,5932,4.3235,0.5 oz,0,Moisturizers
+166,Kiehl's Since 1851,Cannabis Sativa Seed Oil Herbal Concentrate (Hemp-Derived) ,49,63,8856,4.1905,1 oz,0,Face oils
+167,Estée Lauder,Micro Essence Skin Activating Treatment Lotion,100,55,14601,4.4545,5 oz,0,Mists & Essences
+168,Estée Lauder,Revitalizing Supreme Global Anti-Aging Creme,82,100,7508,4.39,1.7 oz,0,Moisturizers
+169,Fresh,Vitamin C Glow Moisturizer,42,295,20980,4.3458,1.6 oz,0,Moisturizers
+170,Kiehl's Since 1851,Ultra Facial Cream SPF 30,30,67,10678,4.1343,1.7 oz,0,Moisturizers
+171,Dermalogica,Active Moist Moisturizer,66,23,1428,4.913,3.4 oz,0,Moisturizers
+172,Shiseido,Bio-Performance Advanced Super Revitalizing Cream,82,336,15036,4.5893,1.7 oz,0,Moisturizers
+173,LANEIGE,Water Bank Hydrating Gel,35,199,13820,4.5327,1.6 oz,0,Moisturizers
+174,Dr. Dennis Gross Skincare,Vitamin C+ Collagen Deep Cream,72,178,7569,4.0393,1.7 oz,0,Moisturizers
+175,AMOREPACIFIC,Vintage Single Extract Essence,145,102,10438,4.4902,4.05 oz,0,Mists & Essences
+176,Caudalie,Resveratrol Lift Night Infusion Cream,76,68,7420,4.0588,1.7 oz,1,Night Creams
+177,LANEIGE,Lavender Water Sleeping Mask,25,122,22024,4.4426,2.3 oz,0,Face Masks
+178,Supergoop!,Glow Stick Sunscreen SPF 50,25,109,10286,4.1927,1 oz,1,Face Sunscreen
+179,KORRES,Wild Rose + Vitamin C Advanced Brightening Sleeping Facial,48,1000,60359,4.3833,1.35 oz,1,Face Masks
+180,GLAMGLOW,THIRSTYMUD™ Hydrating Treatment Mask,59,1000,95174,4.2955,1.7 oz,0,Face Masks
+181,Smashbox,Photo Finish Primer Water,32,1000,103073,4.2083,3.9 oz,0,Face Primer
+182,Dr. Brandt Skincare,needles no more® Neck Sculpting Cream,95,10,2492,3.9,1.7 oz,0,Decollete & Neck Creams
+183,CLINIQUE,Clinique iD™:  Moisturizer + Concentrate for Pores & Uneven Texture,39,7,0,4.5714,4.2 oz,0,Moisturizers
+184,Origins,High-Potency Night-a-Mins™ Oil-Free Resurfacing Cream with Fruit-Derived AHAs,45,335,5317,4.3254,1.7 oz,1,Night Creams
+185,OLEHENRIKSEN,Nurture Me™ Moisturizing Crème,40,939,17111,4.4484,1.7 oz,0,Moisturizers
+186,Lancer,The Method: Nourish,125,169,2952,4.5503,1.7 oz,0,Moisturizers
+187,KORRES,Wild Rose Vitamin C Active Brightening Oil,54,536,40356,4.4142,1.01 oz,1,Face oils
+188,Origins,High-Potency Night-a-Mins� Resurfacing Cream with Fruit-Derived AHAs,45,1000,6010,4.322,1.7 oz,1,Night Creams
+189,Supergoop!,Sun-Defying Sunscreen Oil Broad Spectrum SPF 50,34,223,13243,4.1256,5 oz,1,Face Sunscreen
+190,COOLA,Rōsilliance™ Organic BB+ Cream SPF 30,52,143,8630,3.8671,1.5 oz,1,BB & CC Creams
+191,REN Clean Skincare,Evercalm� Global Protection Day Cream,49,591,13929,4.2098,1.7 oz,1,Moisturizers
+192,Dr. Jart+,Black Label Detox BB Beauty Balm,36,1000,23736,4.1337,1.5 oz,0,BB & CC Cream
+193,Herbivore,Phoenix Cell Regenerating Facial Oil,88,175,22807,4.48,1.7 oz,1,Face oils
+194,SEPHORA COLLECTION,All Day Hydrator - Hydrate & Glow,16,60,8573,4.4667,1.69oz,1,Moisturizers
+195,Smashbox,Photo Finish Primerizer,42,624,26515,4.2324,1 oz,0,BB & CC Cream
+196,Bobbi Brown,Vitamin Enriched Face Base Priming Moisturizer Mini,20,3,0,5,None,0,Mini Size
+197,tarte,Colored Clay CC Undereye Corrector,25,537,20363,4.2421,0.08 oz,0,BB & CC Cream
+198,Dr. Dennis Gross Skincare,Hyaluronic Marine Oil-Free Moisture Cushion,60,72,5943,4.2222,1.7 oz,0,Moisturizers
+199,Smashbox,Photo Finish Primer Oil,42,444,21969,4.3987,1 oz,0,Face Primer
+200,philosophy,Renewed Hope In A Jar SPF 30 ,39,84,4296,3.8214,2 oz,0,Moisturizers
+201,Murad,Anti-Aging Moisturizer SPF 30 PA+++,49,78,8621,4.3333,1.7 oz,0,Moisturizers
+202,Lancôme,BIENFAIT MULTI-VITAL - SPF 30 CREAM - High Potency Vitamin Enriched Daily Moisturizing Cream,50,184,5762,4.3315,1.69 oz,0,Moisturizers
+203,tarte,Maracuja Oil,48,2000,81985,4.4419,1.7 oz,0,Face Oils
+204,belif,The True Cream Aqua Bomb Deco,22,9,0,4.5556,None,0,Moisturizers
+205,Volition Beauty,Prismatic Luminizing Shield SPF 50,35,198,14621,4.2727,1 oz,1,Moisturizers
+206,The Ordinary,"""B"" Oil",9.2,14,5773,4.2143,1 oz,0,Face Oils
+207,SUNDAY RILEY,C.E.O. C + E antiOXIDANT Protect + Repair Moisturizer,22,750,2277,4.0453,0.5 oz,0,Moisturizers
+208,AMOREPACIFIC,MOISTURE BOUND Refreshing Hydra-Gel Oil-Free,100,362,8593,4.2514,1.7 oz,0,Moisturizers
+209,Dior,Capture Totale Multi-Perfection Creme,165,42,4239,4.4048,2 oz,0,Moisturizers
+210,Kiehl's Since 1851,Ultra Facial Oil-Free Gel-Cream,30,49,6576,4.1224,1.7 oz,0,Moisturizers
+211,Peter Thomas Roth,Peptide 21� Lift & Firm Moisturizer,78,350,735,4.6486,3.4 oz,0,Moisturizers
+212,Murad,Skin Perfecting Lotion - Blemish Prone/Oily Skin,40,883,27620,4.2854,1.7 oz,0,Moisturizers
+213,Kate Somerville,Wrinkle Warrior� 2-in-1 Plumping Moisturizer + Serum,95,253,12668,3.7984,1.7 oz,0,Moisturizers
+214,AMOREPACIFIC,MOISTURE BOUND Rejuvenating Crème,150,174,4848,4.0977,1.7 oz,0,Face Serums
+215,Fresh,Seaberry Moisturizing Face Oil,53,1000,49019,4.4355,1.6 oz,0,Face Oils
+216,CLINIQUE,Take The Day Off Cleansing Oil,28,411,19714,4.3479,6.7 oz,0,Face Wash & Cleansers
+217,Kiehl's Since 1851,Super Multi-Corrective Cream,85,33,4825,4.2121,2.5 oz,0,Moisturizers
+218,COOLA,Mineral Face SPF 30 - Matte Tint,36,164,11627,4.0915,1.7 oz,1,Face Sunscreen
+219,Peter Thomas Roth,Un-Wrinkle Night,110,108,4884,4.1852,1 oz,0,Night Creams
+220,Fresh,Vitamin Nectar Antioxidant Face Mist,44,107,15974,4.757,8.4 oz,0,Mists & Essences
+221,Shiseido,White Lucent Brightening Gel Cream,70,1,526,5,1.7 oz,0,Moisturizers
+222,Kate Somerville,Oil Free Moisturizer,65,665,15115,4.1729,1.7 oz,0,Moisturizers
+223,boscia,Cactus Water Moisturizer,38,1000,22758,4.3188,1.61 oz,0,Moisturizers
+224,SK-II,Cellumination Cream EX,160,100,3843,4.32,1.6 oz,0,Moisturizers
+225,Kiehl's Since 1851,Daily Reviving Concentrate,47,88,18345,4.625,1 oz,0,Face Serums
+226,AMOREPACIFIC,The Essential Creme Fluid,98,138,7632,4.0942,3 oz,0,Moisturizers
+227,philosophy,Purity Made Simple Ultra-Light Moisturizer,25,388,11012,4.4716,4.7 oz,0,Moisturizers
+228,Lancôme,Renergie Lift Multi-Action Night,122,38,3729,4.3684,2.6 oz,0,Moisturizers
+229,Dr. Brandt Skincare,Do Not Age with Dr. Brandt Moisturizing Neck Cream,67,84,4678,4.119,1.7 oz,0,Decollete & Neck Creams
+230,Herbivore,Jasmine Green Tea Balancing Toner,39,198,24164,4.1364,4 oz,1,Toners
+231,First Aid Beauty,Hello FAB Coconut Water Cream,34,536,25694,4.0951,1.7 oz,0,Moisturizers
+232,Erborian,CC Red Correct Automatic Perfector Broad Spectrum SPF 25,44,22,3015,4.2273,1.5 oz,0,BB & CC Creams
+233,Dr. Dennis Gross Skincare,Ferulic + Retinol Wrinkle Recovery Overnight Serum,88,78,10538,4.2564,1 oz,0,Face Serums
+234,CLINIQUE,Turnaround Overnight Revitalizing Moisturizer,42,314,14464,4.5382,1.7 oz,0,Night Creams
+235,Guerlain,Midnight Secret Late Night Recovery Treatment,29.5,27,17527,4.1852,0.5 oz,0,Night Creams
+236,Biossance,Squalane + Antioxidant Cleansing Oil,30,203,14343,4.4039,6.8 oz,1,Face Wash & Cleansers
+237,Origins,Plantscription� SPF 25 Power Anti-Aging Cream,60,35,5366,4.4286,1.7 oz,1,Moisturizers
+238,Shiseido,Eudermine Revitalizing Essence ,60,260,24699,4.4692,4.2 oz,0,Mists & Essences
+239,First Aid Beauty,Ultra Repair BarriAIR Cream,30,204,11275,3.9951,1.5 oz,0,Moisturizers
+240,belif,Hungarian Water Essence,42,337,21305,4.2641,2.53 oz,0,Mists & Essences
+241,philosophy,anti-wrinkle miracle worker+ line-correcting moisturizer,64,54,600,4.2778,2 oz,0,Moisturizers
+242,Perricone MD,Cold Plasma Plus+ Neck & Chest Broad Spectrum SPF 25,89,225,1835,4.4578,1 oz,0,Decollete & Neck Creams
+243,La Mer,The Renewal Oil Mini,130,4,0,4,None,0,Face Oils
+244,CLINIQUE,Moisture Surge Overnight Mask,35,364,26041,4.4698,3.4 oz,0,Face Masks
+245,AMOREPACIFIC,Treatment Toner ,50,156,12813,4.4038,3.4 oz,0,Toners
+246,Herbivore,Rose Hibiscus Coconut Water Hydrating Face Mist,32,368,46859,4.0516,4 oz,1,Mists & Essences
+247,Algenist,Ultra Lightweight UV Defense Fluid SPF 50,28,379,17935,4.4406,1 oz,0,Face Sunscreen
+248,MILK MAKEUP,Cooling Water Mini,14,233,21873,3.3305,0.21 oz,0,Moisturizers
+249,Tatcha,The Water Gel,65,294,31178,3.8367,1.7 oz,1,Moisturizers
+250,Bobbi Brown,Hydrating Face Cream Moisturizer,60,196,10806,4.2551,1.7 oz,0,Moisturizers
+251,Saturday Skin,Waterfall Glacier Water Cream,39,1000,17714,4.5785,1.69 oz,0,Moisturizers
+252,Caudalie,Vine[activ] Overnight Detox Oil,50,128,18466,4.4766,1 oz,1,Face Oils
+253,Supergoop!,Super Power Sunscreen Mousse Broad Spectrum SPF 50,34,130,8719,4.3846,7.1 oz,1,Face Sunscreen
+254,Peter Thomas Roth,Potent-C� Vitamin C Bright & Plump Moisturizer,68,22,1555,4.4091,1.7 oz,0,Moisturizers
+255,Caudalie,Resveratrol Lift Face Lifting Soft Cream,76,111,7801,3.982,1.7 oz,1,Moisturizers
+256,boscia,Skin Perfecting BB Cream Broad Spectrum SPF 30,38,33,1981,4.0606,1.7 oz,1,BB & CC Cream
+257,FARSÁLI,Volcanic Elixir Polynesian Beauty Oil,39,627,21962,4.4577,1 oz,0,Face Oils
+258,Biossance,100% Squalane Oil,58,195,19197,4.5795,3.4 oz,1,Face Oils
+259,LANEIGE,BB Cushion Pore Blur,38,84,13072,3.9286,0.5 oz,0,BB & CC Cream
+260,First Aid Beauty,5 in 1 Face Cream SPF 30,40,467,11510,3.9165,1.7 oz,0,Moisturizers
+261,CLINIQUE,Superdefense SPF 20 Age Defense Moisturizer Very Dry to Dry Combination,48,262,4873,4.3664,1.7 oz,0,Moisturizers
+262,Shiseido,Benefiance WrinkleResist24 Day Emulsion Broad Spectrum SPF 15,60,103,5051,4.2913,2.5 oz,0,Moisturizers
+263,CLINIQUE,Dramatically Different Hydrating Jelly,28,530,20703,3.9094,4.2 oz,0,Moisturizers
+264,Josie Maran,100 percent Pure Argan Oil Light ,49,1000,35934,4.3933,1.7 oz,1,Face Oils
+265,Biossance,Squalane + Tea Tree Detox Mask,39,117,3704,4.4188,2.53 oz,1,Face Masks
+266,Skinfix,Eczema+ Dermatitis Face Balm,28,51,501,4.6275,0.48 oz,1,Moisturizers
+267,Clarins,Extra-Firming Neck Anti-Wrinkle Rejuvenating Cream,90,91,6413,4.1209,1.6 oz,0,Decollete & Neck Creams
+268,philosophy,Ultimate Miracle Worker Multi-Rejuvenating Cream SPF 30,75,95,7193,3.9895,2 oz,0,Moisturizers
+269,Josie Maran,Argan Cleansing Oil,34,1000,24332,4.0899,6 oz,1,Face Oils
+270,Algenist,Regenerative Anti-Aging Moisturizer,94,207,4466,4.3285,2 oz,0,Moisturizers
+271,Josie Maran,Skin Dope Argan + Hemp Oil,65,38,3856,4.5263,1.7oz,1,Face Oils
+272,Kate Somerville,RetAsphere™ 2-in-1 Retinol Night Cream ,85,163,12111,4.2945,1 oz,0,Night Creams
+273,COOLA,Makeup Setting Spray SPF 30 ,36,401,17234,3.414,1.7 oz,1,Face Sunscreen
+274,Kate Somerville,ExfoliKate Glow Moisturizer,65,976,9077,4.5625,1.7 oz,0,Moisturizers
+275,Lancôme,BIENFAIT MULTI-VITAL NIGHT - High Potency Night Moisturizing Cream VITA-NUTRI 8™,54,100,7274,4.49,1.69 oz,0,Moisturizers
+276,Kat Von D,Lock-It Makeup Setting Mist,27,468,43795,4.141, 4.0 oz,0,Mists & Essences
+277,Caudalie,Premier Cru Cream,140,21,2501,4.4286,1.7 oz,1,Moisturizers
+278,GLAMGLOW,VOLCASMIC™ Matte Glow Moisturizer,49,575,27646,4.0974,1.7 oz,0,Moisturizers
+279,Dior,Capture Dreamskin Fresh & Perfect Cushion Broad Spectrum SPF 50 Refill,42,17,2818,4.5294,0.5 oz,0,Moisturizers
+280,GLAMGLOW,Waterburst™ Hydrated Glow Moisturizer,52,284,25575,4.3028,1.7 oz,0,Moisturizers
+281,IT Cosmetics,Bye Bye Redness Skin Relief Treatment Moisturizer,48,17,1773,4.0588,2 oz,0,Moisturizers
+282,KORRES,Pomegranate Balancing Cream-Gel Moisturiser ,34,545,17150,4.2697,1.35 oz,1,Moisturizers
+283,Shiseido,Pureness Matifying Moisturizer Oil-Free,33.5,336,7603,4.0446,1.6 oz,0,Moisturizers
+284,CLINIQUE,Even Better Skin Tone Correcting Moisturizer Broad Spectrum SPF 20,50,399,11247,4.1454,1.7 oz,0,Moisturizers
+285,SK-II,GenOptics Spot Essence Serum,225,95,3070,4.1895,1.6 oz,0,Face Serums
+286,philosophy,Renewed Hope in a Jar Skin Tint,39,153,9293,4.0261,1 oz,0,Moisturizers
+287,tarte,Maracuja Neck Treatment,44,93,14273,3.8817,1.7 oz,0,Decollete & Neck Creams
+288,Origins,Plantscription� Youth-Renewing Power Night Cream,60,9,2261,4.5556,1.7 oz,1,Night Creams
+289,Origins,Plantscription� SPF 25 Power Anti-Aging Oil-Free Cream,60,29,4212,4.4828,1.7 oz,1,Moisturizers
+290,Clarins,Extra-Firming Wrinkle Control Regenerating Night Cream,93,1,1147,5,1.6 oz,0,Night Creams
+291,Perricone MD,High Potency Classics: Face Finishing & Firming Moisturizer Tint SPF 30,69,284,3484,4.2746,2 oz,0,Moisturizers
+292,Mario Badescu,"Facial Spray with Aloe, Cucumber and Green Tea",12,44,7977,4.1364,8 oz,0,Mists & Essences
+293,Glow Recipe,Avocado Melt Sleeping Mask,45,438,51786,3.8333,2.7 oz,1,Face Masks
+294,Peter Thomas Roth,Mega Rich Intensive Anti-Aging Cellular Creme,85,174,6355,4.5287,1.7 oz,0,Moisturizers
+295,Shiseido,Benefiance Wrinkleresist24 Travel Duo Day & Night,45,1,867,5,None,0,Value & Gift Sets
+296,Shiseido,Ibuki Protective Moisturizer Broad Spectrum SPF 18,45,92,5118,3.9022,2.5 oz,0,Moisturizers
+297,IT Cosmetics,Confidence in a Gel Lotion,36,292,3003,4.7842,2.5 oz,0,Moisturizers
+298,OLEHENRIKSEN,Truth Revealed� Brightening Broad Spectrum SPF 15 Moisturizer,55,399,11596,4.2431,1.7 oz,0,Moisturizers
+299,belif,The True Cream Moisturizing Bomb Deco,22,2,0,5,0.84 oz,0,Moisturizers
+300,Jack Black,Clean Break� Oil-Free Moisturizer,30,77,4580,4.4805,3.3 oz,0,Moisturizer & Treatments
+301,Algenist,Firming & Lifting Neck Cream,98,32,4330,3.875,2 oz,0,Decollete & Neck Creams
+302,Mario Badescu,"Facial Spray with Aloe, Chamomile and Lavender",12,25,6470,4.52,8 oz,0,Mists & Essences
+303,Fresh,Crème Ancienne®,296,180,9362,4.4056,3.5 oz,0,Moisturizers
+304,Algenist,Overnight Restorative Cream,94,229,7646,4.4192,2 oz,0,Night Creams
+305,Saturday Skin,Featherweight Daily Moisturizing Cream,49,865,12626,4.5491,1.69 oz,0,Moisturizers
+306,Algenist,POWER Recharging Night Pressed Serum,95,164,7961,4.3841,2 oz,0,Night Creams
+307,Estée Lauder,Advanced Time Zone Night Age Reversing Line/Wrinkle Crème,80,26,6317,4.5385,1.7 oz,0,Night Creams
+308,Dr. Jart+,Water Fuse Ultimate Hydro Gel,39,224,14282,4.0982,1.7 oz,0,Moisturizers
+309,Josie Maran,Argan Infinity Cream Intensive Creamy Oil,28,1000,24831,4.5201,2.2 oz,1,Face Oils
+310,Dr. Brandt Skincare,Hydro Biotic� Recovery Sleeping Mask,52,989,8427,4.6208,None,0,Face Masks
+311,Dr. Jart+,Water Drop Hydrating Moisturizer,36,569,18939,4.0773,3.3 oz,0,Moisturizers
+312,Peter Thomas Roth,Max Sheer All Day Moisture Defense Lotion SPF 30 Sunscreen Lotion,42,492,6641,4.0427,1.7 oz•,0,Face Sunscreen
+313,Caudalie,Make-Up Removing Cleansing Oil,28,160,12218,4.425,3.38 oz,1,Face Wash & Cleansers
+314,Perricone MD,Hypoallergenic Nourishing Moisturizer,69,378,3022,4.463,2 oz,0,Moisturizers
+315,Herbivore,Moon Fruit Superfruit Night Treatment,58,293,23473,4.0375,None,1,Night Creams
+316,Kiehl's Since 1851,Ultra Facial Moisturizer SPF 30,32,26,3614,3.7692,4.2 oz,0,Moisturizers
+317,REN Clean Skincare,Glow Daily Vitamin C Gel Cream,48,11,2514,4.5455,1.7 oz,0,Moisturizers
+318,Dermalogica,Prisma Protect SPF 30 Moisturizer,65,90,999,4.4111,1.7 oz,0,Moisturizers
+319,Lancôme,Bienfait Multi-Vital Sunscreen Lotion Broad Spectrum SPF 30,50,132,3317,4.1591,1.69 oz,0,Moisturizers
+320,Guerlain,Lingerie de Peau BB Cream,54,192,10349,4.3021,None,0,BB & CC Cream
+321,Obagi Clinical,Retinol 0.5 Retexturizing Cream,55,97,1818,4.3196,1 oz,0,Face Serums
+322,Biossance,Squalane + Tea Tree Cleansing Gel,29,126,4077,4.4444,5.07 oz,1,Face Wash & Cleansers
+323,LANEIGE,Time Freeze Sleeping Mask,39,53,12149,4.3585,2 oz,0,Face Masks
+324,Clarins,Multi-Active Night Cream - Normal to Combination Skin,58,47,4856,4.1915,1.6 oz,0,Night Creams
+325,Fresh,Black Tea Age-Delay Cream,90,320,10894,4.175,1.6 oz,0,Moisturizers
+326,Kiehl's Since 1851,Glow Formula Skin Hydrator,38,70,8934,3.6286,1.7 oz,0,Moisturizers
+327,philosophy,Renewed Hope in A Jar Overnight Recharging & Refining Moisturizer,49,112,9198,4.4375,2 oz,0,Night Creams
+328,Farmacy,Honey Savior All-in-One Skin Repair Salve with Echinacea GreenEnvy™ Honey,34,327,16162,4.5107,1.6 oz,1,Moisturizer & Treatments
+329,Clarins,Extra-Firming Wrinkle Control Firming Day Cream SPF 15,87,4,1067,5,1.7 oz,0,Moisturizers
+330,CLINIQUE,Clinique iD:  Moisturizer + Concentrate for Fatigue,39,2,0,4,4.2 oz,0,Moisturizers
+331,Tata Harper,Retinoic Nutrient Face Oil,48,51,6082,4.3726,0.33 oz,1,Face Oils
+332,Kate Somerville,Goat Milk Moisturizing Cream,65,485,13720,4.1567,1.7 oz,0,Moisturizers
+333,Kiehl's Since 1851,Clearly Corrective™ Brightening and Smoothing Moisture Treatment,58,28,7004,4.3214,1.7 oz,0,Moisturizers
+334,Lancôme,Hydra Zen Anti-Stress Gel Moisturizer,48,1000,3334,4.5852,1.7 oz,0,Moisturizers
+335,Estée Lauder,Nutritious Super-Pomegranate Radiant Energy Moisture Crème,68,31,4425,3.9677,None,0,Moisturizers
+336,Omorovicza,Queen of Hungary Mist,90,89,14112,4.3258,3.4 oz,1,Mists & Essences
+337,Kiehl's Since 1851,Ultra Facial Overnight Hydrating Mask,35,51,10664,4.4118,4.2 oz,0,Night Creams
+338,Shiseido,Bio-Performance Advanced Super Restoring Cream,127,41,3695,4.3659,2.6 oz,0,Moisturizers
+339,AMOREPACIFIC,Treatment Cleansing Oil Face & Eyes,50,274,6364,4.1861,6.8 oz,0,Face Oils
+340,Go-To ,Face Hero,34,92,9941,4.6413,1 oz,1,Face Oils
+341,Tata Harper,Crème Riche Velvet Moisturizing Cream,185,11,898,4.0909,1.7 oz,1,Moisturizers
+342,Naturally Serious,Skin Warrior Anti-Pollution Repair Cream,46,47,1258,3.8511,1.7 oz,1,Moisturizers
+343,Skinfix,Barrier+ Lipid-Peptide Lotion,38,4,512,5,1.7 oz,1,Moisturizers
+344,Shiseido,Bio-Performance Glow Revival Cream,108,29,3587,4.8276,1.7 oz,0,Moisturizers
+345,J.One,Jelly Pack,42,337,21617,4.3383,1.69 oz,0,Moisturizers
+346,Shiseido,White Lucent MultiBright Night Cream,92,27,4083,4.1481,1.7 oz,0,Night Creams
+347,boscia,Green Tea Oil-free Moisturizer,38,88,6355,4.1818,1.7 oz,1,Moisturizers
+348,Tata Harper,Clarifying Moisturizer,110,53,3289,3.7925,1.7 oz,1,Moisturizers
+349,CLINIQUE,Smart Night Custom-Repair Moisturizer - Very Dry to Dry,58,21,4824,4.6667,1.7 oz,0,Night Creams
+350,Shiseido,Benefiance WrinkleResist24 Balancing Softener Enriched,45,85,6235,4.5882,None,0,Mists & Essences
+351,First Aid Beauty,Ultra Repair® Pure Mineral Sunscreen Moisturizer Broad Spectrum SPF 40,30,205,10473,3.6,2 oz,0,Moisturizers
+352,GLAMGLOW,Good in Bed™ Passionfruit Softening Night Cream,54,442,18099,4.2353,1.5 oz,0,Moisturizers
+353,CLINIQUE,Moisture Surge Face Spray,25.5,231,18557,4.3377,4.2 oz,0,Mists & Essences
+354,CLINIQUE,Clinique iD™:  Moisturizer + Concentrate for Lines & Wrinkles,39,0,0,0,4.2 oz,0,Moisturizers
+355,Omorovicza,Balancing Moisturiser,140,35,3128,4.4,1.7 oz,1,Moisturizers
+356,Estée Lauder,Daywear Advanced Multi-Protection Anti-Oxidant Creme Oil-Free Broad Spectrum SPF 25,54,37,3299,3.8108,1.7 oz,0,Moisturizers
+357,Murad,Perfecting Day Cream Broad Spectrum SPF 30 PA+++,56,152,4888,4.2171,1.7 oz,0,Moisturizers
+358,Dermalogica,Skin Smoothing Cream Moisturizer,69,67,155,4.4627,3.4 oz,0,Moisturizers
+359,Lancôme,ABSOLUE PREMIUM Bx - Absolute Night Recovery Cream,205,25,1556,4.04,2.6 oz,0,Night Creams
+360,Peter Thomas Roth,Green Releaf Calming Face Oil,68,397,2485,4.5894,1 oz,0,Face Oils
+361,Clarins,Hydra-Essentiel Silky Cream - Normal to Dry Skin,48,67,4093,4.4328,1.7 oz,0,Moisturizers
+362,Kiehl's Since 1851,Powerful Wrinkle Reducing Cream,58,8,1583,4,1.7 oz,0,Moisturizers
+363,L'Occitane,Immortelle Reset Overnight Reset Oil-In Serum,59,3,575,5,1 oz,0,Face Serums
+364,Shiseido,Ibuki Beauty Sleeping Mask,40,306,24346,4.366,2.8 oz,0,Face Masks
+365,bareMinerals,BUTTER DRENCH™ Restorative Rich Cream Moisturizer,38,75,5724,4.6933,1.7 oz,0,Moisturizers
+366,La Mer,The Moisturizing Cool Gel Cream Mini,85,3,0,5,None,0,Moisturizers
+367,REN Clean Skincare,Bio Retinoid Anti-Wrinkle Concentrate Oil,69,106,8888,4.1604,1.02 oz,1,Face Oils
+368,Fresh,Crème Ancienne® Soft Cream,148,37,4239,4.2432,1 oz,0,Moisturizers
+369,La Mer,The Moisturizing Soft Lotion,270,13,2394,3.4615,1.7 oz,0,Moisturizers
+370,Origins,Plantscription™ Powerful Lifting Neck & Décolleté Treatment,64,24,4390,4.0417,1.7 oz,1,Decollete & Neck Creams
+371,GLAMGLOW,GLOWSETTER™ Makeup Setting Spray,32,254,31219,4.2323,3.7 oz,0,Mists & Essences
+372,philosophy,Take a Deep Breath Oil-Free Oxygenating Gel Cream,37,139,5078,3.9281,2 oz,0,Moisturizers
+373,Fresh,Seaberry Skin Nutrition Cleansing Oil,43,158,12319,4.5063,None,0,Face Wash & Cleansers
+374,Kate Somerville,Age Arrest Anti-Wrinkle Cream,90,68,3293,4.0588,1.7 oz,0,Moisturizers
+375,Algenist,POWER Advanced Wrinkle Fighter Moisturizer,85,62,3560,4.3548,2 oz,0,Moisturizers
+376,Kate Somerville,Dry Skin Saver,48,57,6027,4.6842,4 oz,0,Moisturizers
+377,KORRES,Black Pine Antiaging Firming & Lifting Day Cream,58,61,1240,4.2295,1.35 oz,1,Moisturizers
+378,Lancôme,Rénergie Lift Multi-Action Sunscreen Broad Spectrum SPF 15 For All Skin Types,99,26,1715,3.8846,1.69 oz,0,Moisturizers
+379,Skinfix,Barrier+ Lipid-Peptide Cream,50,3,564,5,1.7 oz,1,Moisturizers
+380,Kate Somerville,Nourish Daily Moisturizer,65,262,8280,4.0878,1.7 oz,0,Moisturizers
+381,Dior,Capture Youth Age-Delay Advanced Crème,95,32,2751,4.0312,1.7 oz,0,Moisturizers
+382,Tata Harper,Repairative Moisturizer,110,106,3617,3.4151,1.7 oz,1,Moisturizers
+383,Perricone MD,High Potency Classics: Hyaluronic Intensive Moisturizer,69,265,4266,4.4604,1 oz,0,Moisturizers
+384,Shiseido,Essential Energy Moisturizing Cream,48,17,2093,4.3529,1.7 oz,0,Moisturizers
+385,Peter Thomas Roth,Green Releaf Therapeutic Sleep Cream,65,479,4403,4.3299,1.7 oz,0,Moisturizers
+386,Caudalie,Vinopure Natural Oil Control Moisturizer,39,37,4810,3.8108,1.3 oz,1,Moisturizers
+387,Tata Harper,Hydrating Floral Essence ,68,65,7019,3.8154,1.7 oz,0,Mists & Essences
+388,Estée Lauder,Advanced Night Repair Intensive Recovery Ampoules,115,16,4785,4.875,None,0,Face Serums
+389,boscia,Balancing Facial Tonic,26,480,16996,4.2979,5 oz,1,Toners
+390,Biossance,Squalane + Tea Tree Balancing Oil,49,193,3067,4.3886,1.01 oz,1,Face Oils
+391,Peter Thomas Roth,Skin to Die For™ Mineral-Matte CC Cream SPF 30,38,95,3743,3.1158,None,0,BB & CC Creams
+392,First Aid Beauty,Skin Rescue Oil-Free Mattifying Gel Moisturizer,30,300,15315,3.74,2 oz,0,Moisturizers
+393,Kiehl's Since 1851,Ultra Facial Deep Moisture Balm,30,64,3855,4.625,1.7 oz,0,Moisturizers
+394,philosophy,Hope In A Jar,39,6000,34104,3.9886,2 oz,0,Moisturizers
+395,Briogeo,B. Well Organic + Australian 100% Tea Tree Oil,32,109,9606,4.8257,None,1,Hair Oil
+396,Dermalogica,Calm Water Gel Moisturizer ,48,12,811,4.25,1.7 oz,0,Moisturizers
+397,Laura Mercier,Flawless Skin Infusion de Rose Nourishing Oil,65,87,13473,4.5517,1 oz,0,Face Oils
+398,Dr Roebuck's,No Worries Hydrating Face Moisturizer,45,167,3550,4.1916,1.69 oz,1,Moisturizers
+399,Too Cool For School,Egg Mellow Cream,36,481,15127,4.1331,1.76 oz,0,Moisturizers
+400,IT Cosmetics,Confidence in a Cream™ Transforming Moisturizing Super Cream Mini,16,21,0,3.4286,0.5 oz,0,Moisturizers
+401,First Aid Beauty,Eye Duty Triple Remedy Overnight Balm,38,171,11054,3.655,0.5 oz,0,Night Creams
+402,CLINIQUE,Moisture Surge Hydrating Supercharged Concentrate,39,189,16328,3.9788,1.6 oz,0,Moisturizers
+403,CLINIQUE,Pep-Start HydroBlur Moisturizer,29.5,556,19786,3.6385,1.7 oz,0,Moisturizers
+404,Indie Lee,Squalane Facial Oil,34,37,4876,4.5946,1 oz,1,Face Oils
+405,Kiehl's Since 1851,Ultra Facial Moisturizer,29.5,42,5868,4.1429,4.2 oz,0,Moisturizers
+406,CLINIQUE,Clinique iD™:  Moisturizer + Concentrate for Uneven Skin Tone,39,3,0,2.6667,4.2 oz,0,Moisturizers
+407,tarte,Tarteguard 30 Vegan Sunscreen Lotion Broad Spectrum SPF 30,32,558,27134,3.7294,1.7 oz,0,Face Sunscreen
+408,SK-II,Ultimate Revival Cream,385,57,1322,4.4386,1.6 oz,0,Moisturizers
+409,rms beauty,Beauty Oil,78,58,9579,4.6034,1 oz,1,Face Oils
+410,High Beauty,High Five Cannabis Seed Facial Moisturizer,40,64,6566,4.5,1.7 oz,1,Moisturizers
+411,Shiseido,Benefiance WrinkleResist24 Night Emulsion ,63,91,2988,4.2967,2.5 oz,0,Moisturizers
+412,Dr. Dennis Gross Skincare,Instant Radiance Sun Defense Sunscreen Broad Spectrum SPF 40,42,37,3123,3.9189,1.7 oz,0,Face Sunscreen
+413,Herbivore,Orchid Youth-Preserving Facial Oil,64,133,15106,4.5113,1.7 oz,1,Face Oils
+414,Kate Somerville,Deep Tissue Repair Cream with Peptide K8™,150,75,3844,4.16,1 oz,0,Moisturizers
+415,L'Occitane,Immortelle Divine Cream,110,139,4702,3.8993,1.7 oz,0,Moisturizers
+416,Fresh,Rose Hydrating Gel Cream,40,242,12882,4.0909,1.6 oz,0,Moisturizers
+417,CLINIQUE,Repairwear Laser Focus Night Line Smoothing Cream for Very Dry to Dry Combination Skin,52.5,15,3458,4.5333,1.7 oz,0,Moisturizers
+418,Clarins,Blue Orchid Face Treatment Oil,59,58,5946,4.569,1 oz,0,Face Oils
+419,REN Clean Skincare,V-Cense™ Revitalising Night Cream,57,272,5593,4.4154,1.7 oz,1,Night Creams
+420,Caudalie,Vinosource Intense Moisture Rescue Cream,39,167,5992,4.1856,1.3 oz,1,Moisturizers
+421,Dermalogica,Super Rich Repair Moisturizer,92,9,530,4.8889,1.7 oz,0,Moisturizers
+422,Clarins,Multi-Active Day Cream SPF 20 - All Skin Types,55,63,2530,3.6032,1.7 oz,0,Moisturizers
+423,Tata Harper,Nourishing Oil Cleanser,76,74,6030,4.1351,4.1 oz,1,Face Wash & Cleansers
+424,Estée Lauder,Micro Essence Skin Activating Treatment Lotion Mini,62,2,2886,4,2.5 oz,0,Mists & Essences
+425,Lancôme,Visionnaire Advanced Multi-Correcting Cream,89,27,3489,4.6667,1.7 oz,0,Moisturizers
+426,Erborian,Bamboo Matte Lotion,34,33,4619,4.0606,6.4 oz,0,Moisturizers
+427,SK-II,Facial Treatment Cleansing Oil,70,90,4203,4.4778,8.4 oz,0,Face Wash & Cleansers
+428,L'Occitane,Shea Cleansing Oil,24,210,9005,4.4571,6.7 oz,0,Face Wash & Cleansers
+429,Dr. Dennis Gross Skincare,Dark Spot Sun Defense Broad Spectrum SPF 50,42,89,4627,3.7753,1.7 oz,0,Face Sunscreen
+430,Dermalogica,Sound Sleep Cocoon Night Gel-Cream,80,105,315,4.5429,1.7 oz,0,Night Creams
+431,Origins,Plantscription™ Retinol Night Moisturizer,64,3,1384,4.3333,1 oz,1,Night Creams
+432,Estée Lauder,Nutritious Super-Pomegranate Radiant Energy Night Crème/Mask,72,12,4995,4.4167,None,0,Night Creams
+433,First Aid Beauty,Skin Rescue Daily Face Cream,22,510,10850,4.1765,2 oz,0,Moisturizers
+434,lilah b.,Aglow™ Face Mist,48,47,12484,4.1489,1 oz,1,Setting Spray & Powder
+435,Murad,Invisiblur™ Perfecting Shield Broad Spectrum SPF 30 PA+++ Mini,19,7,0,3.7143,0.33 oz,0,Moisturizers
+436,REN Clean Skincare,Rosa Centifolia™ No.1 Purity Cleansing Balm,29,283,7335,4.212,3.3 oz,1,Face Wash & Cleansers
+437,KORRES,Wild Rose Vitamin C Brightening 24H Moisturiser,39,71,2620,3.0282,1.35 oz,1,Moisturizers
+438,Kiehl's Since 1851,Facial Fuel Sunscreen Broad Spectrum SPF 20,35,0,166,0,4.2 oz,0,Face Sunscreen
+439,Estée Lauder,Set + Refresh Perfecting Makeup Mist,37,13,4796,4.6923,3.9 oz,0,Setting Spray & Powder
+440,Dr. Brandt Skincare,Hyaluronic Facial Cream,72,4,567,4.5,1.7 oz,0,Moisturizers
+441,Lancôme,Renergie Lift Multi-Action Ultra Firming and Dark Spot Correcting Moisturizer SPF 30,99,633,2004,4.4155,1.7 oz,0,Moisturizers
+442,Lancôme,Énergie de Vie The Smoothing & Plumping Water-Infused Cream,57,74,3917,4.2027,1.7 oz,0,Moisturizers
+443,Dior,Capture Totale Intensive Night Restorative Crème,175,33,2654,4.4848,2.1 oz,0,Moisturizers
+444,Shiseido,Essential Energy Moisturizing Gel Cream,48,31,2075,4.3871,1.7 oz,0,Moisturizers
+445,Mario Badescu,Oil Free Moisturizer Broad Spectrum SPF 30,28,9,1260,4.2222,2 oz,0,Moisturizers
+446,Saturday Skin,Freeze Frame Beauty Essence,47,68,10831,4.6912,1.69 oz,0,Mists & Essences
+447,CLINIQUE,Clinique iD™:  Moisturizer + Concentrate for Irritation,39,7,0,4.2857,4.2 oz,0,Moisturizers
+448,Estée Lauder,"DayWear Advanced Multi-Protection Anti-Oxidant Creme, Normal/Combination",54,42,3029,4.119,1.7 oz,0,Moisturizers
+449,CLINIQUE,Smart Broad Spectrum SPF 15 Custom-Repair Moisturizer for Dry Combination Skin,55,26,1666,4.3462,2 oz,0,Face Sunscreen
+450,Mario Badescu,Seaweed Night Cream,22,12,1588,4.25,1 oz,0,Moisturizers
+451,Dr. Dennis Gross Skincare,Alpha Beta® Exfoliating Moisturizer,68,76,4313,4.4211,2 oz,0,Moisturizers
+452,Saturday Skin,Daily Dew Hydrating Essence Mist,34,166,11282,4.6687,4.39 oz,0,Mists & Essences
+453,Caudalie,Vinosource Mattifying Moisturizer,39,159,6851,4.1824,1.3 oz,1,Moisturizers
+454,Clarins,Super Restorative Night Age Spot Correcting Replenishing Cream,137,7,1606,4.5714,1.3 oz,0,Night Creams
+455,Dior,Hydra Life Fresh Hydration Sorbet Crème,69,88,4127,3.7841,1.7 oz,0,Moisturizers
+456,Fresh,Umbrian Clay Oil-Free Lotion,36,294,9838,3.9966,1.7 oz,0,Moisturizers
+457,CLINIQUE,Dramatically Different Moisturizing Cream,28,155,7318,4.4,1.7 oz,0,Moisturizers
+458,Shiseido,Perfect Cleansing Oil,35,87,8823,4.5632,6 oz,0,Face Wash & Cleansers
+459,Josie Maran,Argan Moonstone Drops Makeup Priming and Highlighting Oil,48,198,11332,4.3636,1.7 oz,1,Face Oils
+460,AMOREPACIFIC,MOISTURE BOUND Skin Energy Hydration Delivery System,35,257,9143,4.3113,2.7 oz,0,Mists & Essences
+461,Peter Thomas Roth,10% Glycolic Solutions Moisturizer,45,316,3324,4.5443,2.2 oz,0,Moisturizers
+462,CLINIQUE,Repairwear Uplifting Firming Cream,64.5,37,1770,3.7568,1.7 oz,0,Moisturizers
+463,Shiseido,Essential Energy Day Cream SPF 20,48,13,1804,4.5385,1.7 oz,0,Moisturizers
+464,Origins,Plantscription™ Powerful Lifting Cream,64,18,1796,4.3333,1.7 oz,1,Moisturizers
+465,Fresh,FreshFace Instant Glow Luminizer,38,37,6535,3.7838,1 oz,0,Moisturizers
+466,CLINIQUE,Smart Night Custom-Repair Moisturizer - Dry Combination,58,26,2249,3.9615,1.7 oz,0,Moisturizers
+467,Shiseido,Benefiance NutriPerfect Day Cream Broad Spectrum SPF 18,93,16,727,4.0625,1.7 oz,0,Moisturizers
+469,Jack Black,Epic Moisture™ MP10™ Nourishing Oil,35,117,3891,4.6838,2 oz,0,Face Oils
+470,Shiseido,Treatment Softener Enriched,50,3,526,5,5 oz,0,Moisturizer & Treatments
+471,bareMinerals,OIL OBSESSED™ Total Cleansing Oil,30,92,6566,4.5978,6 oz,0,Face Oils
+472,Dr. Jart+,Water Fuse Hydro Sleep Mask,48,234,11882,4.4145,1.8 oz,0,Face Masks
+473,Dr. Dennis Gross Skincare,Hydra-Pure® Oil-Free Moisture with Chelating Complex™,78,125,5469,4.248,1 oz,0,Moisturizers
+474,Shiseido,White Lucent All Day Brightener Broad Spectrum SPF 23 Moisturizer,62,8,3647,4.625,1.8 oz,0,Moisturizers
+475,Charlotte Tilbury,Charlotte's Magic Night Cream,145,31,2086,3.5161,1.7 oz,0,Moisturizers
+476,Dr. Dennis Gross Skincare,Ferulic + Retinol Fortifying Neck Emulsion,75,16,3145,3.75,1.7 oz,0,Decollete & Neck Creams
+477,Omorovicza,Rejuvenating Night Cream,235,20,2218,4.6,1.7 oz,1,Night Creams
+478,Lancer,Omega Hydrating Oil,75,319,2479,4.5455,1 oz,0,Face Oils
+479,Peter Thomas Roth,Ultra-Lite Oil-Free Moisturizer,42,205,4266,4.2976,1.7 oz,0,Moisturizers
+480,KORRES,Greek Yoghurt Advanced Nourishing Sleeping Facial,46,560,21222,4.3571,1.35 oz,1,Face Masks
+481,Bobbi Brown,Extra Repair Moisturizing Balm SPF 25,100,23,2428,4.3478,1.7 oz,0,Moisturizers
+482,Estée Lauder,DayWear Matte Oil-Control Anti-Oxidant Moisture Gel Creme,52,17,2703,4.8235,1.7 oz,0,Moisturizers
+483,bareMinerals,BARE HAVEN™ Essential Moisturizing Soft Cream,35,36,3200,4.0833,1.7 oz,0,Moisturizers
+484,Caudalie,Premieres Vendanges Moisturizing Cream,35,227,4914,4.4714,1.35 oz,1,Moisturizers
+485,Caudalie,Vinosource Overnight Recovery Oil,50,71,7382,4.4366,1 oz,1,Face Oils
+486,Clarins,Beauty Flash Balm,48,256,10820,4.3242,1.7 oz,0,Moisturizers
+487,Kopari,Coconut Face Cream,38,89,6739,4.2697,2.5 oz,1,Moisturizers
+488,philosophy,Ultimate Miracle Worker Night,80,59,3906,4.0169,1.7 oz,0,Night Creams
+489,Tata Harper,Illuminating Moisturizer,85,80,3470,3.3625,1 oz,1,Moisturizers
+490,Blithe,Tundra Chaga Pressed Serum,49,56,6298,4.5536,1.68 oz,0,Face Serums
+491,belif,Milky Hydra Balancing Moisturizer ,38,56,4765,4.3214,4.22 oz,0,Moisturizers
+492,Evian,Brumisateur® Natural Mineral Water Facial Spray,13.5,323,19422,4.3375,5 oz,0,Mists & Essences
+493,Murad,Resurgence® Age–Balancing Moisture Broad Spectrum SPF 30,74,23,1748,4.3043,1.7 oz,0,Mists & Essences
+494,First Aid Beauty,Ultra Repair Tinted Moisturizer SPF 30 Customizable Kit,28,3,565,3.6667,None,0,Face Sunscreen
+495,Lancôme,Énergie de Vie The Overnight Recovery Sleeping Mask,66,124,4788,4.2419,2.6 oz,0,Night Creams
+496,Murad,Multi-Vitamin Infusion Oil,72,61,2925,4.4262,1 oz,0,Face Oils
+497,Dr. Brandt Skincare,Do Not Age with Dr. Brandt Time Reversing Cream,132,73,1829,4.2055,1.7 oz ,0,Moisturizers
+498,CLINIQUE,Repairwear Laser Focus Line Smoothing Cream Broad Spectrum SPF 15 for Very Dry to Dry Combination Skin,50,7,869,4.4286,1.7 oz,0,Moisturizers
+499,Algenist,ELEVATE Advanced Lift Contouring Cream,96,32,1676,4.3438,2 oz,0,Moisturizers
+500,Moroccanoil,Pure Argan Oil,52,12,4854,5,1.7 oz,0,Body Lotions & Body Oils
+501,REN Clean Skincare,Bio Retinoid™ Anti-Ageing Cream,69,56,4125,4.0714,1.7 oz,1,Moisturizers
+502,Mario Badescu,Buttermilk Moisturizer,18,10,2205,4.9,2 oz,0,Moisturizers
+503,Erno Laszlo,Hydra-Therapy Memory Sleep Mask,95,64,4229,4.6719,1.35 oz,0,Face Masks
+504,Kiehl's Since 1851,Skin Tone Correcting & Beautifying BB Cream Sunscreen Broad Spectrum SPF 50,38,26,4473,3.7692,1.35 oz,0,BB & CC Creams
+505,Shiseido,Benefiance NutriPerfect Night Cream,97,31,2404,4.6452,1.7 oz,0,Night Creams
+506,Caudalie,Vine[activ] 3-in-1 Vitamin C Anti-Wrinkle Moisturizer,44,32,2850,3.25,1.3 oz,1,Moisturizers
+507,Dr. Brandt Skincare,pores no more® Mattifying Hydrator Pore Minimizing Gel,48,19,2338,4.2632,1.7 oz,0,Face Serums
+508,GLAMGLOW,DREAMDUO™ Overnight Transforming Treatment,59,357,32247,4.2157,None,0,Night Creams
+509,Estée Lauder,Resilience Lift Night Lifting/Firming Face and Neck Creme,92,9,1346,3.8889,1.7 oz,0,Decollete & Neck Creams
+510,High Beauty,High Expectations Cannabis Seed Facial Oil,54,32,4474,4.6875,1 oz,1,Face Oils
+511,KORRES,Greek Yoghurt Smoothie Priming Moisturiser,42,146,6257,4.0479,1.01 oz,1,Moisturizers
+512,Origins,Dr. Andrew Weil For Origins� Mega-Mushroom Relief & Resilience Soothing Treatment Lotion,20,43,3675,4.093,3.4 oz,1,Moisturizers
+513,Algenist,SPLASH Absolute Hydration Replenishing Gel Moisturizer,58,88,3153,4.0455,2 oz,0,Moisturizers
+514,Charlotte Tilbury,Charlotte's Magic Cream Mini,29,32,6887,3.5312,0.5 oz,0,Moisturizers
+515,REN Clean Skincare,And Now to Sleep Pillow Spray,25,70,6652,4.3286,2.5 oz,1,Holistic Wellness
+516,Algenist,Hydrating Essence Toner,25,151,8646,4.3245,5 oz,0,Mists & Essences
+517,Lancer,The Method: Nourish Blemish Control,125,8,1614,3.625,1.7 oz,0,Moisturizers
+518,AMOREPACIFIC,TIME RESPONSE Skin Reserve Crème,150,1,231,5,0.5 oz,0,Moisturizers
+519,CLINIQUE,Clinique Smart Treatment Oil,44.5,36,4055,4.6389,1 oz,0,Face Oils
+520,CLINIQUE,Superdefense SPF 20 Age Defense Moisturizer Combination Oily to Oily,48,174,2296,3.9598,1.7 oz,0,Moisturizers
+521,Estée Lauder,Enlighten Dark Spot Correcting Night Serum,98,49,5711,3.9592,1.7 oz,0,Face Serums
+522,Biossance,Squalane + Micronutrient Fine Mist,32,27,5215,4.3333,2.53 oz,1,Mists & Essences
+523,Kiehl's Since 1851,Powerful Wrinkle Reducing Cream Sunscreen Broad Spectrum SPF 30,74,8,1207,3.75,2.5 oz,0,Moisturizers
+524,Shiseido,Future Solution LX Concentrated Balancing Softener,107,7,1096,5,5.7 oz,0,Moisturizers
+525,Shiseido,Benefiance Concentrated Neck Contour Treatment,55,71,2654,3.9155,1.8 oz,0,Decollete & Neck Creams
+526,Moroccanoil,Face Lotion SPF 30,38,6,2060,4.6667,1.7 oz,0,Face Sunscreen
+527,Dr. Dennis Gross Skincare,Firming Peptide Milk,68,27,4056,4.1852,1 oz,0,Moisturizers
+528,Lancôme,Visionnaire Nuit Beauty Sleep Perfector,92,77,4243,4.4156,1.7 oz,0,Night Creams
+529,MILK MAKEUP,Hydrating Oil Stick,24,183,24767,4.1038,1 oz,0,Face Oils
+530,AMOREPACIFIC,Botanical Radiance Oil,105,46,1848,3.7826,1 oz,0,Face Oils
+531,Kiehl's Since 1851,Clearly Corrective� Brightening & Soothing Treatment Water,45,15,4171,4.7333,6.8 oz,0,Mists & Essences
+532,Murad,The Power of Hydration,60.00(86.00 value),12,1579,4.5,1 oz,0,Value & Gift Sets
+533,Perricone MD,Multi-Action Overnight Intensive Firming Mask,99,229,1842,4.2707,2 oz,0,Moisturizers
+534,Eve Lom,WHITE Brightening Cream,110,12,1892,4.5833,1.7 oz,0,Moisturizers
+535,bareMinerals,ETERNALIXIR™ Skin-Volumizing Oil Serum,55,18,3918,4.4444,1 oz,0,Face Oils
+536,Lancôme,Hydra Zen Anti-Stress Moisturizing Face Cream,48,56,1649,4.2857,1.7 oz,0,Moisturizers
+537,boscia,Rosewater Mist with Witch Hazel,24,36,6233,4.1667,4.73 oz,0,Mists & Essences
+538,Clarins,Santal Face Treatment Oil,59,18,4335,5,1 oz,0,Face Oils
+539,KORRES,Black Pine Antiaging Firming & Lifting Sleeping Facial,68,30,2128,3.3667,1.35 oz,1,Night Creams
+540,Origins,A Perfect World™ Antioxidant Moisturizer with White Tea,45,16,2440,4,1.7 oz,1,Moisturizers
+541,Algenist,Advanced Anti-Aging Repairing Oil,82,223,7261,4.4215,1 oz,0,Face Oils
+542,Murad,Essential-C Night Moisture,65,85,4654,4.2,1.7 oz,0,Night Creams
+543,DERMAdoctor,Calm Cool & Corrected,85,275,4386,4.0145,1.7 oz,0,Moisturizers
+544,Murad,City Skin Overnight Detox Moisturizer,72,46,3585,3.9565,1.7 oz,0,Night Creams
+545,Kiehl's Since 1851,Iris Extract Activating Treatment Essence,45,15,4878,4.4667,6.8 oz,0,Mists & Essences
+546,KORRES,After Sun Greek Yoghurt Cooling Gel for Face and Body,26,326,9439,4.589,5.07 oz,1,Moisturizers
+547,tarte,Radiance Drops - Rainforest of the Sea™ Collection,32,285,42358,3.7088,1 oz,0,Highlighter
+548,Origins,Original Skin™ Essence Lotion with Dual Ferment Complex,30,92,7376,4.1739,5 oz,1,Moisturizers
+549,Origins,Dr. Andrew Weil for Origins™ Mega-Mushroom Relief & Resilience Hydra Burst Gel Lotion,68,1,308,5,1.7 oz,1,Moisturizers
+550,CLINIQUE,Age Defense BB Cream Broad Spectrum SPF 30,39,756,11331,3.8585,1.4 oz,0,BB & CC Cream
+551,Origins,Dr. Andrew Weil for Origins™ Mega-Mushroom Relief & Resilience Soothing Cream,68,0,191,0,1.7 oz,1,Moisturizers
+552,belif,Problem Solution Moisturizer,38,43,4664,4.3488,4.22 oz,0,Moisturizers
+553,belif,Hydra Sebum Control Essence,42,57,7768,4.2807,1.68 oz,0,Mists & Essences
+554,Lancer,The Method: Nourish Sensitive Skin,125,8,744,4.125,1.7 oz,0,Moisturizers
+555,Kate Somerville,DermalQuench Liquid Lift™ Advanced Wrinkle Treatment ,95,117,5723,3.6581,2.5 oz,0,Face Serums
+556,Kiehl's Since 1851,Blue Herbal Moisturizer,25,18,843,3.2222,3.4 oz,0,Moisturizers
+557,Youth To The People,Adaptogen Deep Moisture Cream with Ashwagandha + Reishi,58,879,21162,4.7418,2 oz,1,Moisturizers
+558,KORA Organics,Noni Glow Face Balm,38,21,3615,3.7619,0.35 oz,1,Moisturizers
+559,Murad,Resurgence Age-Balancing Night Cream,77,82,2860,4.0854,1.7 oz,0,Moisturizers
+560,Blithe,Vital Treatment Essence for Lifting,46,30,6258,4.4667,5 oz•,0,Mists & Essences
+561,SEPHORA COLLECTION,8 HR Mattifying Moisturizer Sunscreen Broad Spectrum SPF20,23,510,6994,4.1941,1.69 oz,0,Moisturizers
+562,Lancer,Intensive Night Treatment with Hylaplex® and Marula Oil,155,7,1412,4.2857,1.7 oz,0,Night Creams
+563,Guerlain,Abeille Royale Night Cream,182,25,1613,4.48,1.6 oz,0,Night Creams
+564,L'Occitane,Immortelle Precious Cream,65,195,3755,4.4154,1.7 oz,0,Moisturizers
+565,Lancôme,Hydra Zen Anti-Stress Moisturizing Beauty Facial Essence,42,18,2587,4.7222,6.7 oz,0,Mists & Essences
+566,Dermalogica,Intensive Moisture Balance Moisturizer,50,93,232,4.5806,1.7 oz,0,Moisturizers
+567,KORRES,H2Rose Hydrating Face Mist,34,10,1183,4.7,3.38 oz,1,Mists & Essences
+568,Algenist,Repairing Tint & Radiance Moisturizer SPF 30,42,102,3369,4.1078,None,0,Moisturizers
+569,Erborian,Yuza Double Lotion,36,104,7901,4.5962,6.4 oz,0,Moisturizers
+570,KORA Organics,Crystal Luminizer,28,38,7770,3.9737,None,1,Moisturizers
+571,Erborian,Cleansing Micellar Water,26,18,4433,4.7778,6.4 oz,0,Face Wash & Cleansers
+572,CLINIQUE,Repairwear Laser Focus Night Line Smoothing Cream for Combination Oily to Oily Skin,52.5,2,2016,5,1.7 oz,0,Moisturizers
+573,L'Occitane,Shea Light Comforting Cream,29,105,3940,4.4381,1.7 oz,0,Moisturizers
+574,Josie Maran,Surreal Skin Argan Finishing Balm,36,485,21329,3.6577,0.5 oz,1,Face Primer
+575,Peter Thomas Roth,Hungarian Thermal Water Mineral-Rich Moisturizer,58,107,6900,3.5607,1.7 oz,0,Moisturizers
+576,Murad,Balancing Moisturizer Broad Spectrum SPF 15 PA++,40,49,2495,3.7347,1.7 oz,0,Moisturizers
+577,Shiseido,Future Solution LX Total Regenerating Cream,285,4,932,4,1.7 oz,0,Moisturizers
+578,Blithe,Vital Treatment Essence for Hydrating,42,50,8301,4.48,5 oz,0,Mists & Essences
+579,KORA Organics,Hydrating Moisturizer for Dry Skin,48,19,2420,4.0526,1.69 oz,1,Moisturizers
+580,CLINIQUE,Repairwear Sculpting Night Cream,66,33,1753,4,1.7 oz,0,Night Creams
+581,Shiseido,Pureness Moisturizing Gel-Cream,33.5,124,3811,4.4597,1.4 oz,0,Moisturizers
+582,Murad,Rejuvenating Lift For Neck and Décolleté,60,60,3716,3.9333,1.7 oz,0,Decollete & Neck Creams
+583,Evian,Brumisateur® Natural Mineral Water Facial Spray Travel Duo,16,1000,20168,4.5746,1.7 oz,0,Mists & Essences
+584,Volition Beauty,Oceanene Youth-Boost Gel,50,91,5474,4.5275,2 oz,1,Moisturizers
+585,Perricone MD,Vitamin C Ester Brightening Overnight Treatment,99,322,4810,4.4938,2 oz,0,Night Creams
+586,KORA Organics,Soothing Moisturizer for Sensitive Skin,48,14,1317,4.2143,1.69 oz,1,Moisturizers
+587,Lancôme,ABSOLUE PREMIUM ßx – Absolute Replenishing Cream SPF 15 Sunscreen,175,66,1641,4.4697,1.7 oz,0,Moisturizers
+588,Origins,Make A Difference™ Plus + Rejuvenating Moisturizer,46,101,4412,4.396,1.7 oz,1,Moisturizers
+589,LANEIGE,Fresh Calming Mousse Moisturizer,29,24,3735,4.1667,None,0,Moisturizers
+590,Tata Harper,Beautifying Face Oil,78,23,2847,3.6522,None,1,Face Oils
+591,Lancôme,HIGH RÉSOLUTION REFILL-3X™ SPF 15,95,66,739,4.1364,1.69 oz,0,Moisturizers
+592,REN Clean Skincare,Vita-Mineral Daily Supplement Moisturising Cream,40,143,2795,4.3566,1.7 oz,1,Moisturizers
+593,belif,Pore Cleaner Moisturizer,32,40,4784,3.925,4.22 oz,0,Moisturizers
+594,BeautyBio,The Quench Quadralipid Recovery Cream,125,9,1031,4.6667,1.7 oz,0,Moisturizers
+595,Lancer,Advanced C Radiance Cream with Vitamin C Collagen Cofactor 10x,85,21,2668,3.9524,1.7 oz,0,Face Serums
+596,Dior,Hydra Life Balancing Hydration 2 in 1 Sorbet Water,43,8,1043,3.5,5.9 oz,0,Mists & Essences
+597,SK-II,Ultimate Revival Essence,305,7,1526,4.5714,5.07 oz,0,Mists & Essences
+598,Fresh,Lotus Youth Preserve Radiance Lotion,33,119,8924,4.0588,1 oz,0,Moisturizers
+599,Moon Juice,Holy Yoni Adaptogenic Oil,48,8,1460,4.375,1 oz,1,Face Oils
+600,Obagi Clinical,Kinetin+ Hydrating Cream,55,1,162,5,1.7 oz,0,Moisturizers
+601,Kiehl's Since 1851,Super Multi-Corrective Cream Sunscreen Broad Spectrum SPF 30,85,4,1063,3.5,2.5 oz,0,Moisturizers
+602,Evian,Evian x Chiara Ferragni Limited Edition Brumisateur® Natural Mineral Water Facial Spray,18,8,2601,5,10.1 oz,0,Mists & Essences
+603,L'Occitane,Immortelle Divine Youth Oil,100,40,2650,4.075,None,0,Face Oils
+604,philosophy,anti-wrinkle miracle worker night+ line-correcting overnight cream,68,2,277,4,2 oz,0,Moisturizers
+605,Dr. Brandt Skincare,Xtend Your Youth Face Cream,59,52,2643,3.9808,1.7 oz,0,Moisturizers
+606,CLINIQUE,Pore Refining Solutions Stay-Matte Hydrator,39,81,6286,4.0247,1.7 oz,0,Moisturizers
+607,Perricone MD,Essential Fx Acyl-Glutathione Rejuvenating Moisturizer,98,139,1017,4.4532,1 oz,0,Moisturizers
+608,Origins,Dr. Andrew Weil For Origins™ Mega–Bright Skin Illuminating Moisturizer,56,25,2630,4.12,1.7 oz,1,Moisturizers
+609,Go-To ,Very Useful Face Cream,31,31,2092,4.1935,1.69 oz,1,Moisturizers
+610,L'Occitane,Ultra Rich Face Cream,34,300,5122,4.48,1.7 oz,0,Moisturizers
+611,RODIN olio lusso , Lavender Absolute Luxury Face Oil ,170,9,171,5,1 oz,0,Face Oils
+612,belif,Aqua Bomb Mist,34,23,6582,3.7826,2.02 oz,0,Mists & Essences
+613,bareMinerals,SMART COMBINATION™ Smoothing Lightweight Emulsion,35,16,2080,4.375,1.7 oz,0,Mists & Essences
+614,Dior,Capture Totale Multi-Perfection Creme Refill,140,4,696,5,2 oz,0,Moisturizers
+615,Clarins,Hydra-Essentiel Cooling Gel - Normal to Combination Skin,48,516,2484,4.0891,1.7 oz,0,Moisturizers
+616,CLINIQUE,Repairwear Uplifting Firming Cream Broad Spectrum SPF 15,64.5,13,719,3.7692,1.7 oz,0,Moisturizers
+617,Estée Lauder,Revitalizing Supreme Light+ Global Anti-Aging Cell Power Creme Oil-Free,82,5,696,4.2,1.7 oz,0,Moisturizers
+618,Erno Laszlo,Phelityl Night Cream,126,8,1320,4,1.7 oz,0,Night Creams
+619,Origins,Plantscription™ Powerful Lifting Overnight Mask,63,13,4368,4.5385,2.5 oz,1,Face Masks
+620,Evian,Brumisateur® Natural Mineral Water Facial Spray Travel Trio,22.5,76,6236,4.7105,1.7 oz,0,Mists & Essences
+621,Kopari,Save Face Oil,46,11,2322,4.6364,1.7 oz,1,Face Oils
+622,Estée Lauder,DayWear BB Anti-Oxidant Beauty Benefit Crème SPF 35,42,54,7208,3.6852,1 oz,0,BB & CC Cream
+623,philosophy,Purity Made Simple Hydra-Essence with Coconut Water,22,2,490,5,6.7 oz,0,Mists & Essences
+624,Son & Park,Beauty Filter Cream Glow,32,96,10046,4.1563,1.4 oz,0,Moisturizers
+625,Bobbi Brown,Extra Illuminating Moisture Balm,68,136,6668,3.3235,1 oz,0,Moisturizers
+626,Lancôme,Rénergie Lift Multi-Action Lifting and Firming Moisturizer Light Cream,99,11,1423,4.0909,1.7 oz,0,Moisturizers
+627,Perricone MD,H2 Elemental Energy Hydrating Cloud Cream,59,66,2690,3.8485,1.7 oz,0,Moisturizers
+628,belif,Moisturizing Bomb Cushion Compact Broad Spectrum SPF 50,42,35,2473,3.7714,1.04 oz,0,BB & CC Creams
+629,Marc Jacobs Beauty,Re(cover) Perfecting Coconut Setting Mist,39,265,17830,3.3736,3.8 oz,0,Mists & Essences
+630,Guerlain,Abeille Royale Day Cream,154,10,1290,3.8,1.6 oz,0,Moisturizers
+631,KORA Organics,Balancing Rose Mist,34,15,3061,3.6667,3.38 oz,1,Mists & Essences
+632,DERMAdoctor,Wrinkle Revenge Rescue & Protect Facial Cream,58,95,1531,4.2316,1.7 oz,0,Moisturizers
+633,Kiehl's Since 1851,Rosa Artica Youth Regenerating Cream,79,2,727,4.5,2.5 oz,0,Moisturizers
+634,SK-II,Facial Treatment Oil,150,129,3097,4.4884,1.6 oz,0,Face Oils
+635,BeautyBio,The Ultimate Hydrating Vitamin C Facial Moisturizer,75,8,1193,4.375,1.7 oz,0,Moisturizers
+636,tarte,Maracuja Gold Oil Limited Edition,50,10,2325,4.2,1.7 oz,0,Face Oils
+637,boscia,Rosehip Omega Face Oil,42,12,1773,4.1667,0.95 oz,1,Face Oils
+638,REN Clean Skincare,Ultra Moisture Day Cream,55,102,2871,4.402,1.7 oz,1,Moisturizers
+639,Dr. Dennis Gross Skincare,C + Collagen Perfect Skin Set & Refresh Mist,30,39,5216,4.3333,3 oz,0,Mists & Essences
+640,BeautyBio,The Radiance Brightening Vitamin E + Rosehip Seed Facial Oil,70,6,1120,4,1 oz,0,Face Oils
+641,Jack Black,Dry Erase® Ultra-Calming Face Cream,38,6,1121,4.6667,2.5 oz,0,Moisturizers
+642,Origins,Make A Difference™ Plus + Rejuvenating Treatment,46,94,4588,4.3617,1.7 oz,1,Moisturizers
+643,Edible Beauty,No. 4 Vanilla Silk Hydrating Lotion,47,36,2175,4.3611,1.7 oz,1,Moisturizers
+644,Proactiv,Complexion Perfecting Hydrator,60,1,313,5,3 oz,0,Moisturizers
+645,Volition Beauty,Oil-Control Mattifying Mist,29,82,6271,4.0732,1.7 oz,1,Mists & Essences
+646,Edible Beauty,Coco Bliss Intensive Repair,48,38,2623,4.5263,1.7 oz,1,Night Creams
+647,LANEIGE,Water Bank Dual Layer Face Oil,38,12,2553,4.5,1.6 oz,0,Face Oils
+648,Lancôme,Visionnaire Skin Solutions Pure 0.2% Retinol Correcting Night Concentrate,75,212,220,4.4292,1 oz,0,Face Serums
+649,Caudalie,Premier Cru Precious Oil,89,24,2543,4.125,1 oz,1,Face Oils
+650,tarte,"Ready, Set, Radiant Skin Mist",25,148,7059,3.2095,2.5 oz,0,Setting Spray & Powder
+651,boscia,White Charcoal Mattifying MakeUp Setting Spray,38,562,31022,3.6388,None,1,Setting Spray & Powder
+652,Koh Gen Do,Oriental Plants Cream,140,11,1020,4,1.41 oz,0,Moisturizers
+653,Estée Lauder,Advanced Time Zone SPF 15- Normal/Combination Skin,75,9,996,3.8889,1.7 oz,0,Moisturizers
+654,Dior,Hydra Life Hydration Rescue Intense Sorbet Creme,69,16,1517,4.125,1.7 oz,0,Moisturizers
+655,J.One,Hana Cream,50,52,3494,4.0962,1.41 oz,0,Moisturizers
+656,Fresh,Peony Brightening Night Treatment Mask,84,137,12333,4.0365,3.3 oz,0,Night Creams
+657,Caudalie,Premier Cru Rich Cream,140,18,1929,4.3889,1.7 oz,1,Moisturizers
+658,RODIN olio lusso ,Luxury Face Cream,95,0,69,0,None,0,Moisturizers
+659,KORRES,Wild Rose Smoothie Brightening Priming Moisturiser,45,47,5174,4.1277,1.01 oz,1,Moisturizers
+660,Lancôme,Bienfait Aqua Vital Lotion - Continuous Infusing Moisturizer,50,29,1775,4.3448,1.69 oz,0,Moisturizers
+661,Shiseido,White Lucent All Day Brightener Broad Spectrum SPF 22,57,17,1426,3.6471,1.7 oz,0,Moisturizers
+662,Erborian,Liquid BB Crème Au Ginseng Cushion Compact,48,22,3152,3.9091,0.49 oz,0,BB & CC Cream
+663,Estée Lauder,Resilience Multi-Effect Tri-Peptide Face and Neck Crème,92,19,4766,3.8421,1.7 oz,0,Moisturizers
+664,GLAMGLOW,STARPOTION™ Liquid Charcoal Clarifying Oil,54,208,6076,4.2981,1 oz,0,Face Oils
+665,Clarins,Lotus Face Treatment Oil,59,122,5888,4.3361,1 oz,0,Face Oils
+666,philosophy,When Hope is Not Enough Facial Replenishing Balm,47,8,865,3.625,2 oz,0,Moisturizers
+667,MILK MAKEUP,Sunshine Oil,38,151,11440,4.2252,0.5 oz,0,Face Oils
+668,Origins,Plantscription™ Youth-Renewing Face Oil,55,43,5059,4.6279,None,1,Face Oils
+669,Shiseido,White Lucent Overnight Cream & Mask,105,0,109,0,2.6 oz,0,Moisturizers
+670,CLINIQUE,Dramatically Different Hydrating Jelly Mini,5,19,0,3.8421,0.5 oz,0,Moisturizers
+671,Go-To ,Exceptionoil,39,12,1388,4.6667,2.87 oz,1,Face Oils
+672,Wander Beauty,Glow Getter Mist,28,26,4573,4.3846,2.029 oz,0,Mists & Essences
+673,Estée Lauder,Micro Essence Aquaceutical™ Mist,70,2,1257,5,2.5 oz,0,Mists & Essences
+674,Erno Laszlo,White Marble Translucence Cream,125,14,1485,4.6429,1.7 oz,0,Moisturizers
+675,DERMAdoctor,DD Cream Dermatologically Defining BB Cream Broad Spectrum SPF 30,40,282,4072,3.4291,1.3 oz,0,BB & CC Cream
+676,Shiseido,Bio-Performance LiftDynamic Cream,117,5,1530,3.4,1.7 oz,0,Moisturizers
+677,Clarins,Multi-Active Day Cream-Gel - Normal to Combination Skin,55,17,1414,3.7059,1.7 oz,0,Moisturizers
+678,belif,The True Tincture Essence - Chamomile,46,20,3387,4.45,2.53 oz,0,Mists & Essences
+679,Origins,GinZing™ Energy-Boosting Treatment Lotion Mist,22.5,61,5764,3.7869,5 oz,1,Mists & Essences
+680,Estée Lauder,"DayWear Advanced Multi-Protection Anti-Oxidant Creme, Dry",54,17,1062,4.1765,1.7 oz,0,Moisturizers
+681,Anthony,Oil Free Facial Lotion,30,42,936,4.381,2.5 oz,0,Moisturizers
+682,Guerlain,Super Aqua-Crème Day Gel,135,3,455,3.6667,1.6 oz,0,Moisturizers
+683,Guerlain,Météorites Oxygen Care Moisturizer & Radiance Booster,75,36,3660,4.6667,None,0,Moisturizers
+684,bareMinerals,TRUE OASIS™ Oil-Free Replenishing Gel Cream,32,28,2477,3.4643,1.7 oz,0,Moisturizers
+685,Kiehl's Since 1851,Dermatologist Solutions™ Centella Sensitive Cica-Cream,43,8,1115,3.75,1.7 oz,0,Moisturizers
+686,Clarins,Multi Active Day Cream - All Skin Types,54,15,2611,3.6667,1.6 oz,0,Moisturizers
+687,Proactiv,Green Tea Moisturizer,40,3,476,4.6667,3 oz,0,Moisturizers
+688,KORRES,Black Pine 3D Sculpting & Firming Sleeping Oil,68,24,2824,4.2083,1.01 oz,1,Face Oils
+689,Lancôme,Bienfait Teinté Beauty Balm Sunscreen Broad Spectrum SPF 30,47,95,8632,4.2526,1.7 oz,0,Face Sunscreen
+690,Lancôme,Rènergie Lift Multi-Action Sunscreen Broad Spectrum SPF 15 For Dry Skin,99,5,555,4.2,1.69 oz,0,Face Sunscreen
+691,Fresh,Moisturizing Hand Cream,14,17,3256,3.9412,1 oz,0,Moisturizers
+692,Perricone MD,PRE:EMPT SERIES™ Oil-Free Hydrating Cream,59,73,4342,4.3973,2 oz,0,Moisturizers
+693,L'Occitane,Aqua Reotier Ultra Thirst-Quenching Gel Moisturizer,29,33,2798,4.1818,1.7 oz,0,Moisturizers
+694,CLINIQUE,Smart Broad Spectrum SPF 15 Custom-Repair Moisturizer for Very Dry to Dry Skin,55,5,639,4.4,1.7 oz,0,Moisturizers
+695,Lancer,Contour Décolleté,185,4,1351,4,1.7 oz,0,Decollete & Neck Creams
+696,CLINIQUE,Clinique For Men Daily Hydration,27,0,515,0,None,0,Moisturizers
+697,Algenist,SUBLIME Optical Illuminating Moisturizer,70,48,1015,3.3125,2 oz,0,Moisturizers
+698,tarte,Brighter Days Highlighting Moisturizer,32,278,8900,3.4532,1.69 oz,0,Moisturizers
+699,philosophy,Renewed Hope In A Jar Dry,39,48,963,3.125,2 oz,0,Moisturizers
+700,Obagi Clinical,Vitamin C Suncare Broad Spectrum SPF 30 Sunscreen,58,53,711,4.0566,1.7 oz,0,Face Sunscreen
+701,KORA Organics,Purifying Moisturizer for Oily/Combination Skin,48,8,1801,4,1.69 oz,1,Moisturizers
+702,Kiehl's Since 1851,"Cactus Flower & ""Tibetan Ginseng"" Hydrating Mist",27,21,4474,4.2381,4.2 oz,0,Mists & Essences
+703,Charlotte Tilbury,Multi-Miracle Glow Cleansing Balm,60,16,2954,4.5625,3.4 oz,0,Face Wash & Cleansers
+704,Skin Laundry,3-In-1 Cleansing Oil,30,15,1079,3.2667,6.1 oz,0,Face Wash & Cleansers
+705,Shiseido,White Lucent Day Emulsion Broad Spectrum SPF 23,70,0,93,0,1.7 oz,0,Face Sunscreen
+706,Estée Lauder,Advanced Time Zone Age Reversing Line/Wrinkle Hydrating Gel Oil-Free,75,12,1821,4.5833,1.7 oz,0,Face Oils
+707,Erborian,Yuza Sorbet Night Reinforced Nighttime Emulsion,55,17,3671,4.4118,1.7 oz,0,Face Serums
+708,OLEHENRIKSEN,Pure Nurture™ Facial Water,22,50,4362,3.86,4 oz,0,Mists & Essences
+709,Erborian,Glow Crème Illuminating Face Cream,42,45,4817,3.4222,1.5 oz,0,Moisturizers
+710,REN Clean Skincare,V-Cense™ Youth Vitality Day Cream,52,18,1393,4.2222,1.7 oz,1,Moisturizers
+711,RODIN olio lusso , Geranium & Orange Blossom Luxury Face Oil,170,10,107,5,1 oz,0,Face Oils
+712,Omorovicza,Magic Moisture Mist,95,5,848,3.6,1.7 oz,1,Moisturizers
+713,CLINIQUE,Smart Night Custom-Repair Moisturizer -Combination Oily to Oily,58,15,1521,4,1.7 oz,0,Night Creams
+714,Urban Decay,Drop Shot Mix-in Facial Oil,34,23,4783,4.913,0.80 oz,0,Face Oils
+715,Alpha-H,Balancing Moisturizer & Gentle Exfoliant,62,0,65,0,1.69 oz,0,Moisturizers
+716,REN Clean Skincare,Rose O12 Moisture Defence Oil,80,96,1925,4.3542,1.02 oz,0,Face Oils
+717,Algenist,ALIVE Prebiotic Balancing Moisturizer SPF 15,40,0,171,0,1.7 oz,0,Moisturizers
+718,Bobbi Brown,Extra Repair Moisture Cream,100,16,2050,4.5625,1.7 oz,0,Moisturizers
+719,Shiseido,Treatment Softener,50,5,597,3.6,5 oz,0,Moisturizers
+720,Perricone MD,Neuropeptide Firming Moisturizer,290,1,229,5,2 oz,0,Moisturizers
+721,Anthony,All Purpose Facial Moisturizer,30,38,800,4.0263,2.5 oz,0,Moisturizers
+722,DERMAdoctor,Photo Dynamic Therapy® 3–in–1  Facial Lotion With Broad Spectrum SPF 30,85,143,1493,3.9091,1 oz,0,Face Serums
+723,LXMI,Crème du Nil Pore-Refining Moisture Veil,58,164,4129,4.1402,None,0,Moisturizers
+724,Vitruvi,Sleep Face & Body Mist,24,1,541,5,1 oz,0,Holistic Wellness
+725,Erborian,Bamboo Waterlock Mask,43,79,10802,4.3038,3.5 oz,0,Face Masks
+726,Dr Roebuck's,Bondi Hydrating Mist,25,19,1678,3.8947,3.38 oz,1,Mists & Essences
+727,Omorovicza,Miracle Facial Oil,120,11,1139,3.6364,1 oz,1,Face Oils
+728,Edible Beauty,Snowflower Illuminating Face Oil,57,37,2712,4.6216,1 oz,1,Face Oils
+729,Algenist,Splash Hydrating Setting Mist,35,56,7916,4.3214,4 oz,0,Mists & Essences
+730,Lab Series For Men,Day Rescue Defense Lotion SPF 35,34,0,125,0,1.7 oz,0,Moisturizers
+731,Origins,Dr. Andrew Weil For Origins™ Mega Defense Barrier-Boosting Essence Oil,56,7,1335,4.4286,1 oz,1,Moisturizers
+732,BIOEFFECT,OSA Water Mist,50,4,541,5,2.03 oz,0,Mists & Essences
+733,Shiseido,Ultimate Cleansing Oil,28,103,4512,4.4369,5 oz,0,Face Oils
+734,Erno Laszlo,Firmarine Moisturizer SPF 30,100,4,237,4.25,1.7 oz,0,Moisturizers
+735,Blithe,Crystal Iceplant Pressed Serum,49,32,5154,4.3125,1.68 oz,0,Face Serums
+736,Proactiv,Daily Oil Control Moisturizer SPF 30,24,166,349,4.1265,1.5 oz,0,Moisturizers
+737,Lancôme,HIGH RÉSOLUTION NIGHT REFILL-3X™,112,35,829,3.6571,2.5 oz,0,Moisturizers
+738,Lancôme,ABSOLUE PREMIUM ßx - Absolute Replenishing Lotion SPF 15 Sunscreen,185,17,568,4.1176,2.5 oz,0,Moisturizers
+739,Pretty Vulgar,Bird's Nest Blurring Beauty Mousse Foundation,36,20,6464,3.7,1 oz,0,Foundation
+740,LXMI,Nilotica Goddess Glow,42,7,1516,4.4286,None,0,Face Oils
+741,Origins,Plantscription™ Powerful Lifting Concentrate,63,4,2026,4.25,1 oz,1,Face Serums
+742,Eve Lom,WHITE Brightening Lotion,75,7,1004,3.8571,4.05 oz,0,Moisturizers
+743,Fresh,Crème Ancienne Face Oil Elixir,270,26,3199,3.6154,1.7 oz,0,Face Oils
+744,KENZOKI,Belle de Jour Fantastic Fluid,107,1,586,5,1.7 oz,0,Face Serums
+745,Perricone MD,Essential Fx Acyl-Glutathione Intensive Overnight Moisturizer,179,131,288,4.3282,2 oz,0,Night Creams
+746,Isle of Paradise,Over It Magic Self-Tan Eraser,27,8,1209,4.125,6.76 oz,1,Face Wash & Cleansers
+747,Smashbox,Camera Ready CC Cream Broad Spectrum SPF 30 Dark Spot Correcting,42,1000,28900,3.929,1 oz,0,BB & CC Cream
+748,Perricone MD,PRE:EMPT SERIES™ The Fixer Solid Oil Balm,38,13,3287,4.3077,0.7 oz,0,Face Oils
+749,Koh Gen Do,All In One Refresh Spa Aloe Gel,55,7,625,3.5714,3.17 oz,0,Moisturizers
+750,Clarins,Hydra-Essentiel Silky Cream SPF 15 - Normal to Dry Skin,48,4,418,3.25,1.7 oz,0,Moisturizers
+751,J.One,Jelly Cream,42,14,2591,4.5714,1.01 oz,0,Moisturizers
+752,Estée Lauder,NightWear Plus 3-Minute Detox Mask,47,50,5343,4.6,2.5 oz,0,Face Masks
+753,Algenist,GENIUS White Brightening Essence,115,13,2469,4,1 oz,0,Moisturizers
+754,Primary Raw,DoYou Azulene Gel Cream,46,40,7297,3.875,3.5 oz,0,Moisturizers
+755,Fresh,Peony Brightening Moisture Face Cream,73,11,1765,3.8182,1.6 oz,0,Moisturizers
+756,philosophy,Ultimate Miracle Worker Multi-Rejuvenating Lightweight Emulsion SPF 30,75,10,615,3.7,1.5 oz,0,Moisturizers
+757,Eve Lom,The Essential Moisture Cream,150,0,37,0,1.6 oz ,0,Moisturizers
+758,Ciaté London,Dewy Spritz,25,28,3819,3.2857,4.22 oz,0,Mists & Essences
+759,CLINIQUE,Smart Broad Spectrum SPF 15 Custom-Repair Moisturizer for Combination Oily Skin,55,3,654,4.3333,1.7 oz,0,Moisturizers
+760,Skin Inc Supplement Bar,Pure Serum-Mist,55,34,5744,4.2647,3.4 oz,0,Mists & Essences
+761,Erborian,Bamboo Crème Frappée Skin Reviving Fresh Gel,43,73,3797,4.3425,1.7 oz,0,Moisturizers
+762,Murad,Prebiotic 3-in-1 MultiMist,32,1,227,4,3.4 oz,0,Mists & Essences
+763,philosophy,Renewed Hope in A Jar Hydrating Mist,30,20,2896,4.05,3.9 oz,0,Mists & Essences
+764,KORA Organics,Energizing Citrus Mist,34,5,1450,3.4,3.38 oz,1,Mists & Essences
+765,Clarins,Hydra-Essentiel Rich Cream - Very Dry Skin,48,16,1545,4.375,1.8 oz,0,Moisturizers
+766,Kate Somerville,KateCeuticals™ Multi-Active Revive Triple Peptide Cream,175,1,544,5,1.7 oz,0,Moisturizers
+767,tarte,Cosmic Maracuja Concentrated Face Balm,42,16,2760,4,0.88 oz,0,Face Serums
+768,KORA Organics,Calming Lavender Mist,34,12,3193,3.5833,3.38 oz,1,None
+769,Lab Series For Men,Oil Control Daily Moisturizer,36,0,56,0,1.7 oz,0,Moisturizer & Treatments
+770,CLINIQUE,Even Better Skin Tone Correcting Lotion Broad Spectrum SPF 20,50,54,3289,3.7963,1.7 oz,0,Moisturizers
+771,Acqua Di Parma,Blu Mediterraneo Italian Resort Moisturizing Face Lotion,80,2,104,2,6.7 oz,0,Bath & Shower
+772,L'Occitane,Aqua Reotier Ultra Thirst-Quenching Cream Moisturizer,29,10,870,3.3,1.7 oz,0,Moisturizers
+773,Dr Roebuck's,Nuddy Ultra Hydrating and Repair Crème,50,94,426,4.0213,1.69 oz,1,Moisturizers
+774,Eve Lom,Time Retreat Radiance Essence,95,1,327,5,5 oz,0,Mists & Essences
+775,Primary Raw,DoYou Soy Milk Cream,46,29,4496,4.2759,3.5 oz,0,Moisturizers
+776,Koh Gen Do,All In One Moisture Spa Gel,63,24,885,3.875,3.17 oz,0,Moisturizers
+777,Skin Laundry,Essential Daily Moisturizer,30,11,1058,3.7273,2.5 oz,0,Moisturizers
+778,Perricone MD,Neuropeptide Night Cream,240,0,161,0,2.5 oz,0,Night Creams
+779,KENZOKI,Cosmic Night Cream ,59,17,1848,4.4118,1.7 oz,0,Night Creams
+780,Blithe,InBetween Instant Glowing Cream,45,2,335,3,1 oz,0,Moisturizers
+781,Nurse Jamie,Neck & Décolléte Wrap Skin Perfecting Silicone Treatment,28,1,1509,2,None,0,Decollete & Neck Creams
+782,DERMAdoctor,Kakadu C™ Face Crème,65,9,834,4,1 oz,0,Moisturizers
+783,Algenist,SPLASH Absolute Hydration Replenishing Sleeping Pack,48,48,1800,3.6875,2 oz,0,Face Masks
+784,Wander Beauty,Rise and Prime - Balm and Primer Duo,39,12,2203,3.4167,0.25 oz,0,Face Primer
+785,KENZOKI,White Lotus Moisturizing Jelly,45,1,173,1,1.7 oz,0,Moisturizers
+786,Origins,High-Potency Night-A-Mins Skin Refining Oil,45,147,13959,4.483,1 oz,1,Face Oils
+787,L'Occitane,Immortelle Precious Mist,22,6,1097,4,1.7 oz,0,Mists & Essences
+788,Son & Park,Beauty Water,30,660,40336,4.6333,11.49 oz,0,Mists & Essences
+789,Shiseido,Ibuki Quick Fix Mist,25,60,5814,4.3167,1.6 oz,0,Mists & Essences
+790,DERMAdoctor,Kakadu C™ High Potency Evening Oil,74,4,726,3.75,1 oz,0,Face Oils
+791,Eve Lom,Radiance Lift Cream,72,6,526,3.3333,0.85 oz,0,Moisturizers
+792,Eve Lom,Radiance Face Mist,45,4,1292,4.25,1.6 oz,0,Mists & Essences
+793,Estée Lauder,NightWear Plus Anti-Oxidant Night Detox Creme,56,39,5096,4.4359,1.7 oz,0,Night Creams
+794,KENZOKI,Melt-In Moisturizing Lotion,22,17,939,3.8235,6.7 oz,0,Moisturizers
+795,KENZOKI,Cream with a Sheen,49,17,930,4.4706,1.7 oz,0,Moisturizers
+796,Skin Inc Supplement Bar,Pure Recovery Dew,45,6,942,4,1 oz,0,Mists & Essences
+797,KENZOKI,Moisturizing Skin Guardian,45,23,1282,3.8696,1.7 oz,0,Moisturizers
+798,Eve Lom,Radiance Face Oil,80,5,1077,4.6,1 oz,0,Face Oils
+799,Erno Laszlo,White Marble Essence Lotion,72,5,847,4.6,6.6 oz,0,Moi
+800,Dior,One Essential Mist-Lotion,62,11,1686,4,4.2 oz,0,Mists & Essences
+801,CLINIQUE,Repairwear Laser Focus Line Smoothing Cream Broad Spectrum SPF 15 for Combination Oily to Oily Skin,50,3,464,3.6667,1.7 oz,0,Moisturizers
+802,Blithe,InBetween Hydro Priming Cream,45,2,396,4,None,0,Moisturizers
+803,The Inkey List,Rosehip Oil,10.99,0,12,0,1 oz,0,Face Oils
+804,RODIN olio lusso ,Jasmine & Neroli Luxury Face Oil,170,11,503,5,1 oz,0,Face Oils
+805,LXMI,Pure Nilotica Melt Nourishing Balm-to-Oil,24,114,4969,4.5702,0.5 oz,0,Face Oils
+806,L'Occitane,Immortelle Divine Extract,120,8,1281,4.5,1 oz,0,Mists & Essences
+807,NARS,Luminous Moisture Cream,64,29,3324,4.4828,1.7 oz,0,Moisturizers
+808,NARS,Aqua Gel Luminous Oil-Free Moisturizer,60,50,4955,4.4,1.7 oz,0,None
+809,Bobbi Brown,Extra Repair Moisturizing Balm,100,36,1871,4.3889,1.7 oz,0,Moisturizers
+810,SK-II,Facial Treatment Repair C,170,63,2700,4.2857,1 oz,0,Face Serums
+811,Omorovicza,Illuminating Moisturiser,150,17,1072,4.2353,1.7 oz,1,None
+812,NARS,Restorative Night Treatment ,85,13,1427,4.2308,0.96 oz,0,Night Creams
+813,Erborian,Eau Ginseng,39,18,4486,4.2222,6.4 oz,0,None
+814,Shiseido,Future Solution LX Replenishing Treatment Oil,188,6,1534,4.1667,2.5 oz,0,Face Oils
+815,boscia,Revitalizing Black Charcoal Hydration Gel,40,958,23125,4.1347,1.7 oz,1,Moisturizers
+816,Murad,Perfecting Night Cream,59,59,2384,4.0847,1.7 oz,0,Night Creams
+817,Urban Decay,Naked Skin Bronzing Beauty Balm Broad Spectrum SPF 20,34,36,4663,4.0833,1.18 oz,0,BB & CC Cream
+818,IT Cosmetics,Anti-Aging Armour™ Super Smart Skin-Perfecting Beauty Fluid SPF 50+,38,120,11229,4.05,1 oz,0,Moisturizers
+819,Clarins,Extra–Firming Day Cream All Skin Types,86,24,1946,4.0417,1.7 oz,0,Moisturizers
+820,Fresh,Crème Ancienne® Infusion Toner,92,8,1857,4,4 oz,0,Mists & Essences
+821,Blithe,InBetween Makeup Prep Essence,38,2,468,4,None,0,Mists & Essences
+822,Eve Lom,Time Retreat Intensive Night Cream,140,1,475,4,1.7 oz,0,Night Creams
+823,KENZOKI,Vital-Ice Cream,59,5,387,4,1.7 oz,0,Moisturizers
+824,Kate Somerville,Daily Deflector™ Moisturizer Broad Spectrum SPF 50+,48,57,4194,3.8246,1.7 oz,0,Face Sunscreen
+825,La Mer,The Moisturizing Matte Lotion,270,11,2879,3.8182,1.7 oz,0,Moisturizers
+826,St. Tropez Tanning Essentials,Self Tan Luxe Facial Oil,35,109,5805,3.6514,1 oz,0,Face Oils
+827,Kate Somerville,Daily Deflector™ Waterlight Broad Spectrum SPF 50+ PA+++ Anti-Aging Sunscreen,48,71,3108,3.5775,1.7 oz,0,Moisturizers
+828,Estée Lauder,"Resilience Lift Firming/Sculpting Face and Neck Lotion Broad Spectrum SPF 15, Normal/Combination",82,3,784,3.3333,1.7 oz,0,Moisturizers
+829,Farmacy,Better Daze Ahead CBD Moisturizer,48,0,120,0,1.7 oz,1,Moisturizers
+830,Alpha-H,Essential Hydration Cream,52,0,55,0,1.69 oz,0,Moisturizers
+831,The Inkey List,Hemp Moisturizer,12.99,0,17,0,1 oz,0,Moisturizers
+832,SEPHORA COLLECTION,Moisturizing Body Milk - Surprise Flowers,12,0,10,0,6.76oz,0,Moisturizers
+833,The Inkey List,Multi-Biotic Moisturizer,12.99,0,14,0,1 oz,0,Moisturizers
+834,Dermalogica,Skin Soothing Hydrating Lotion,22,0,164,0,2 oz,0,Moisturizers
+835,The Inkey List,Squalane Oil,11.99,0,11,0,1 oz,0,Face Oils
+836,The Inkey List,Turmeric Moisturizer,12.99,0,15,0,1 oz,0,Moisturizers
