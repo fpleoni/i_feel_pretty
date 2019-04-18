@@ -1,223 +1,222 @@
 ,brand,name,price,n_of_reviews,n_of_loves,review_score,size,clean_product,category
-0,OLEHENRIKSEN,Banana Bright Eye Crème,38.00,2000,126365,4.153200000000001,0.5 oz,0,Eye Creams & Treatments
-1,Drunk Elephant,C-Tango Vitamin C Eye Cream,64.00,469,59473,3.7527000000000004,0.5 oz,1,Eye Creams & Treatments
-2,Shiseido,Benefiance WrinkleResist24 Intensive Eye Contour Cream,60.00,1000,62205,4.261000000000001,0.51 oz ,0,Eye Creams & Treatments
-3,La Mer,The Eye Concentrate,215.00,109,16056,3.633,0.5 oz,0,None
-4,Estée Lauder,Advanced Night Repair Eye Supercharged Complex,62.00,210,14169,4.1952,0.5 oz,0,None
-5,Drunk Elephant,Shaba Complex™ Eye Serum,60.00,329,38957,3.7812,0.5 oz,1,Eye Creams & Treatments
-6,Kiehl's Since 1851,Creamy Eye Treatment with Avocado,30.00,768,37684,4.246100000000001,0.5 oz,0,None
-7,belif,Moisturizing Eye Bomb,48.00,1000,48667,4.5476,None,0,Eye Creams & Treatments
-8,Fresh,Black Tea Firming and De-Puffing Eye Cream,68.00,420,34145,3.9929000000000006,0.5 oz,0,Eye Creams & Treatments
-9,Shiseido,Benefiance WrinkleResist24 Pure Retinol Express Smoothing Eye Mask,68.00,380,41478,4.4342,12 Packettes x 2 Sheets,0,None
-10,Origins,GinZing™ Refreshing Eye Cream to Brighten and Depuff,32.00,3000,99998,4.0354,0.5 oz,0,Eye Creams & Treatments
-11,Tatcha,The Pearl Tinted Eye Illuminating Treatment,48.00,713,49972,4.0421,0.4 oz,1,Eye Creams & Treatments
-12,SEPHORA COLLECTION,Brightening Eye Cream – Hydrate & Depuff,16.00,88,16638,4.3182,0.67oz,1,None
-13,Skinfix,Barrier+ Lipid-Boost 360° Eye,40.00,7,1575,5.0,0.5 oz,1,Eye Creams & Treatments
-14,IT Cosmetics,Bye Bye Under Eye Brightening Eye Cream,48.00,489,43679,3.7689000000000004,0.5 oz•,0,None
-15,Dr. Dennis Gross Skincare,Ferulic + Retinol Triple Correction Eye Serum,69.00,335,28043,3.8209,0.5 oz,0,None
-16,Peter Thomas Roth,Water Drench Hyaluronic Cloud Hydra-Gel Eye Patches,52.00,140,20762,4.3143,30 pairs,0,None
-17,Peter Thomas Roth,24K Gold Pure Luxury Lift & Firm Hydra-Gel Eye Patches,75.00,188,24618,4.0532,30 pairs - 60 patches,0,Eye Creams & Treatments
-18,First Aid Beauty,FAB Skin Lab Retinol Eye Cream with Triple Hyaluronic Acid,42.00,10,3781,4.800000000000001,0.5 oz,0,None
-19,Dr. Brandt Skincare,needles no more® NO MORE BAGGAGE™ eye de-puffing gel,42.00,1000,17351,3.7395000000000005,0.5 oz,0,Eye Creams & Treatments
-20,SEPHORA COLLECTION,Eye Mask,5.00,693,34485,4.1804,1 Pair•,0,None
-21,Peace Out,Puffy Under-Eye Patches,25.00,187,12643,4.5134,6 pairs•,0,Eye Masks
-22,LANEIGE,Eye Sleeping Mask,34.00,164,33105,3.9878,0.8 oz,0,None
-23,CLINIQUE,All About Eyes™ Rich,32.50,1000,48002,4.1588,0.5 oz,0,Eye Creams & Treatments
-24,Tatcha,Luminous Deep Hydration Firming Eye Serum,85.00,86,19206,3.930200000000001,0.5 oz,1,Eye Creams & Treatments
-25,Biossance,Squalane + Peptide Eye Gel,54.00,322,31117,3.7484,0.5 oz,1,Eye Creams & Treatments
-26,La Mer,The Eye Balm Intense,215.00,30,6251,3.9666999999999994,0.5 oz,0,None
-27,Wander Beauty,Baggage Claim Gold Eye Masks,25.00,214,16793,3.9252,,0,Eye Masks
-28,MILK MAKEUP,Cooling Water,24.00,904,70167,3.7876,1.2 oz,0,None
-29,Algenist,Complete Eye Renewal Balm,68.00,821,24272,3.9647,0.5 oz,0,Eye Creams & Treatments
-30,SK-II,R.N.A. POWER Anti-Aging Eye Cream,135.00,136,8916,4.2279,0.4 oz,0,None
-31,Caudalie,Resveratrol Lift Hyaluronic Acid Eye Lifting Balm,62.00,197,14695,4.0355,0.5 oz,1,None
-32,Peter Thomas Roth,Cucumber De-Tox™ Hydra-Gel Eye Patches,48.00,246,28764,4.081300000000001,60 Pads-30 Treatments			•,0,Eye Masks
-33,SUNDAY RILEY,Auto Correct Brightening and Depuffing Eye Contour Cream,65.00,302,16454,3.3477000000000006,0.5 oz,0,Eye Creams & Treatments
-34,Perricone MD,Hypoallergenic Firming Eye Cream,72.00,427,8886,4.3888,0.5 oz,0,None
-35,La Mer,The Lifting Eye Serum,255.00,5,4458,3.8000000000000003,0.5 oz,0,None
-36,Kiehl's Since 1851,Midnight Recovery Eye,37.00,179,29335,3.8045000000000004,0.5 oz,0,None
-37,Fresh,Rose Hydrating Eye Gel Cream,41.00,466,32171,4.2468,0.5 oz,0,None
-38,BIOEFFECT,EGF Eye Serum,90.00,11,2913,4.818200000000001,0.2 oz,0,None
-39,Saturday Skin,Wide Awake Brightening Eye Cream,46.00,387,28781,4.3178,1.01 oz,0,None
-40,CLINIQUE,Pep-Start Eye Cream,26.50,866,43981,3.6894,0.5 oz,0,Eye Creams & Treatments
-41,First Aid Beauty,"Eye Duty Triple Remedy: Brighten, Depuff and Smooth",36.00,675,43522,3.9807000000000006,0.34 oz,0,Eye Creams & Treatments
-42,AMOREPACIFIC,MOISTURE BOUND Rejuvenating Eye Treatment Gel,85.00,240,8599,4.241700000000001,0.5 oz,0,None
-43,CLINIQUE,All About Eyes,32.50,1000,23996,4.0818,0.5 oz,0,None
-44,Lancôme,Advanced Génifique Eye Cream,67.00,256,10353,4.0469,0.5 oz,0,Eye Creams & Treatments
-45,Bobbi Brown,Extra Eye Repair Cream,77.00,129,9447,4.217100000000001,0.5 oz•,0,Eye Creams & Treatments
-46,tarte,Maracuja C-Brighter™ Eye Treatment,38.00,815,41080,4.0147,0.35 oz,0,Eye Creams & Treatments
-47,Farmacy,Dew It All Total Eye Cream with Echinacea GreenEnvy™,38.00,346,23190,4.0173,0.5 oz,1,None
-48,Murad,Retinol Youth Renewal Eye Serum,85.00,29,7264,4.3103,0.5 oz,0,None
-49,Fresh,Black Tea Firming Eye Serum,72.00,13,5991,4.4615,0.5 oz,0,Eye Creams & Treatments
-50,LANEIGE,Water Bank Eye Gel,36.00,129,20038,4.1705,0.8 oz,0,None
-51,Supergoop!,Advanced Anti-Aging Eye Cream Broad Spectrum Sunscreen SPF 37,32.00,85,8878,3.8235,0.5 oz,1,Eye Creams & Treatments
-52,Caudalie,Vine[activ] Energizing Vitamin C Eye Cream,39.00,117,10626,3.7521000000000004,15 mL,1,None
-53,KORA Organics,Noni Radiant Eye Oil,38.00,250,16682,4.044,0.34 oz,1,None
-54,Peter Thomas Roth,Mega Rich Intensive Anti-Aging Cellular Eye Creme,65.00,231,8979,4.2078,0.76 oz•,0,Eye Creams & Treatments
-55,Wander Beauty,Baggage Claim Rose Gold Eye Masks,25.00,32,9083,4.375,,0,Eye Masks
-56,Perricone MD,Essential Fx Acyl-Glutathione Eyelid Lift Serum,122.00,132,1704,4.3182,0.5 oz,0,Eye Creams & Treatments
-57,Murad,Renewing Eye Cream,82.00,191,8904,4.0942,0.5 oz•,0,None
-58,KORRES,"Black Pine 3D Sculpting, Firming & Lifting Super Eye Serum",65.00,101,7737,4.1881,0.51 oz,1,Eye Creams & Treatments
-59,CLINIQUE,Repairwear Anti-Gravity Eye Lift Cream,45.00,264,9020,4.1629,0.5 oz,0,Eye Creams & Treatments
-60,Shiseido,Bio-Performance LiftDynamic Eye Treatment,75.00,20,4010,3.7,0.52 oz•,0,Eye Creams & Treatments
-61,Dr. Brandt Skincare,Do Not Age with Dr. Brandt Triple Peptide Eye Cream,82.00,117,7073,4.2393,0.5 oz,0,Eye Creams & Treatments
-62,Origins,Eye Doctor™ Moisture Care For Skin Around Eyes,41.00,443,23761,4.058700000000001,0.5 oz,1,None
-63,Clarins,Super Restorative Total Eye Concentrate,85.00,194,8092,4.2113,0.5 oz,0,None
-64,philosophy,anti-wrinkle miracle worker eye+ line-correcting eye cream,60.00,2,551,5.0,0.5 oz,0,Eye Creams & Treatments
-65,Tata Harper,Restorative Eye Crème ,98.00,73,6674,3.9452,0.5 oz,1,None
-66,OLEHENRIKSEN,Uplifting Transformation™ Eye Crème,42.00,133,7789,3.9474,0.5 oz,0,Eye Creams & Treatments
-67,tarte,Pack Your Bags Undereye Patches,22.00,235,37777,4.217,4 x 2 single use patches•,0,None
-68,Youth To The People,Superfood Peptide Eye Cream,35.00,132,15552,4.0076,0.5 oz,1,Eye Creams & Treatments
-69,Perricone MD,Cold Plasma+ Eye,110.00,27,1599,4.0,0.5 oz,0,None
-70,Lancôme,Rénergie Lift Multi-Action Eye,75.00,81,4828,3.7901,0.5 oz,0,None
-71,Peter Thomas Roth,Potent-C™ Vitamin C Power Eye Cream,65.00,279,7415,4.3477,0.5 oz,0,Eye Creams & Treatments
-72,CLINIQUE,All About Eyes Serum De-Puffing Eye Massage,32.50,865,16040,3.8080999999999996,0.5 oz,0,None
-73,Fresh,Crème Ancienne® Eye Cream,128.00,106,7859,4.2925,0.5 oz,0,Eye Creams & Treatments
-74,Dermalogica,MultiVitamin Power Firm Eye Cream,65.00,16,1194,4.25,0.5 oz,0,Eye Creams & Treatments
-75,Lancôme,Advanced Génifique Yeux Light-Pearl™ Eye Illuminator Youth Activating Concentrate ,69.00,117,9464,3.641,0.67 oz,0,Eye Creams & Treatments
-76,Dermalogica,Stress Positive Eye Lift Mask ,69.00,16,2008,4.625,0.85 oz,0,Eye Creams & Treatments
-77,MILK MAKEUP,Cooling Water Eye Patches,22.00,41,8353,3.8537,6 pairs•,0,None
-78,Bobbi Brown,Hydrating Eye Cream,54.00,380,17924,4.1053,0.5 oz,0,Eye Creams & Treatments
-79,Shiseido,White Lucent Anti-Dark Circles Eye Cream,63.00,345,10874,3.611600000000001,0.5 oz,0,Eye Creams & Treatments
-80,Mario Badescu,Hyaluronic Eye Cream,18.00,25,5928,3.84,0.5 oz,0,None
-81,CLINIQUE,Repairwear Laser Focus Wrinkle Correcting Eye Cream,45.00,136,7865,3.8529000000000004,0.5 oz,0,None
-82,Dr. Dennis Gross Skincare,Vitamin C+ Collagen Brighten & Firm Eye Cream,65.00,48,6425,3.4792000000000005,0.5 oz,0,Eye Creams & Treatments
-83,First Aid Beauty,Eye Duty Triple Remedy A.M. Gel Cream,36.00,164,19611,4.0488,0.5 oz,0,None
-84,SEPHORA COLLECTION,Eye Mask - Cucumber - Anti-Puffiness,5.00,9,0,3.4444,1 Pair•,0,Eye Masks
-85,Dr. Dennis Gross Skincare,Ferulic + Retinol Eye Cream,69.00,48,4601,3.3958,0.5 oz,0,None
-86,AMOREPACIFIC,Intensive Vitalizing Eye Essence,95.00,74,5499,3.9595000000000002,0.5 oz,0,None
-87,Lancer,Eye Contour Lifting Cream with Diamond Powder,95.00,174,5272,4.3736,0.5 oz,0,Eye Creams & Treatments
-88,Kate Somerville,Retinol Firming Eye Cream,85.00,100,12629,3.59,0.5 oz,0,None
-89,Kiehl's Since 1851,Eye Fuel,22.50,8,2391,4.125,0.5 oz,0,None
-90,Murad,Eye Lift Firming Treatment,70.00,112,7875,3.9554000000000005,1 oz,0,Eye Creams & Treatments
-91,Algenist,POWER Advanced Wrinkle Fighter 360° Eye Serum,70.00,64,6392,4.0938,0.5 oz,0,None
-92,Kopari,Starry Eye Balm,28.00,21,5160,4.0952,None,1,Eye Creams & Treatments
-93,GLAMGLOW,EYEBOOST™ Reviving Eye Mask,8.00,3,2192,4.3333,1 Mask•,0,None
-94,First Aid Beauty,Detox Eye Roller,26.00,549,13993,3.408,0.28 oz,0,Eye Creams & Treatments
-95,Fresh,Lotus Eye Gel,48.00,615,14027,3.8439,0.5 oz,0,None
-96,Caudalie,Premier Cru Eye Cream,99.00,91,4524,3.4505,0.5 oz,1,None
-97,Estée Lauder,Advanced Night Repair Eye Concentrate Matrix,69.00,19,3281,3.1053000000000006,0.5 oz,0,None
-98,Shiseido,Future Solution LX Eye and Lip Contour Regenerating Cream,153.00,22,3128,3.8636,0.61 oz,0,None
-99,First Aid Beauty,5 in 1 Eye Cream,32.00,274,18754,3.8796,0.5 oz,0,Eye Creams & Treatments
-100,Shiseido,Sun Protection Eye Cream Broad Spectrum SPF 34 Sunscreen,34.00,57,6821,4.3684,0.6 oz,0,None
-101,Origins,Plantscription™ Anti-Aging Eye Treatment,48.00,157,8304,4.089200000000001,0.5 oz,1,Eye Creams & Treatments
-102,Obagi Clinical,Kinetin+ Hydrating Eye Cream,65.00,107,2327,4.4112,0.5 oz,0,None
-103,Guerlain,Orchidée Impériale Eye Serum,230.00,3,1024,5.0,0.5 oz•,0,Eye Creams & Treatments
-104,Peter Thomas Roth,Instant FIRMx Eye™,38.00,383,5774,3.5692000000000004,1 oz•,0,None
-105,Origins,Plantscription™ Anti-Aging Power Eye Cream,49.00,108,9167,3.7963000000000005,0.5 oz,1,Eye Creams & Treatments
-106,First Aid Beauty,Eye Duty Triple Remedy Overnight Balm,38.00,171,11058,3.655,0.5 oz,0,None
-107,BeautyBio,Bright Eyes Collagen-Infused Brightening Colloidal Silver Eye Masks,40.00,25,2907,3.84,15 pairs•,0,None
-108,Naturally Serious,Zero Baggage Anti-Dark Circle Eye Cream,44.00,23,2425,3.3913000000000006,0.67 oz,1,Eye Creams & Treatments
-109,Dr Roebuck's,Down Under Collagen Boosting Eye Treatment,38.00,73,6557,3.7808,0.5 oz,1,Eye Creams & Treatments
-110,Tatcha,Luminous Deep Hydration Revitalizing Eye Mask,12.00,51,14555,3.6667000000000005,1 mask•,1,None
-111,HUM Nutrition,Wing Man Liver Detox and Dark Circle Supplement,25.00,42,9667,3.7143,60 Capsules•,0,None
-112,bareMinerals,SKINLONGEVITY™ Vital Power Eye Gel Cream,32.00,35,5375,3.8857,0.5 oz,0,Eye Creams & Treatments
-113,Dr. Dennis Gross Skincare,Hyaluronic Marine Dew It Right Eye Gel,48.00,72,8609,3.8056,0.5 oz,0,Eye Creams & Treatments
-114,Algenist,GENIUS Ultimate Anti-Aging Eye Cream,74.00,92,4495,3.6957000000000004,0.5 oz,0,Eye Creams & Treatments
-115,Erno Laszlo,Multi-Task Eye Serum Mask,35.00,20,4893,4.3,6 x 2 patches (0.15 oz,0,Eye Masks
-116,Perricone MD,High Potency Classics: Firming Eye Lift,72.00,245,947,4.2857,0.5 oz,0,None
-117,Murad,Essential-C Eye Cream SPF 15 PA++,70.00,247,6096,3.9960000000000004,0.5 oz•,0,Eye Creams & Treatments
-118,AMOREPACIFIC,TIME RESPONSE Eye Reserve Crème,260.00,7,545,4.8571,0.5 oz,0,None
-119,CLINIQUE,Clinique Smart Custom-Repair Eye Treatment,50.00,32,2235,3.5,0.5 oz,0,None
-120,Shiseido,Ultimune Eye Power Infusing Eye Concentrate,67.00,71,8887,3.8732,0.54 oz,0,None
-121,Peter Thomas Roth,Un-Wrinkle Eye,100.00,92,2921,3.8478000000000003,0.5 oz•,0,Eye Creams & Treatments
-122,REN Clean Skincare,Keep Young And Beautiful™ Instant Brightening Beauty Shot Eye Lift,45.00,60,4996,3.6333000000000006,0.5 oz,1,None
-123,CLINIQUE,Moisture Surge Eye 96-Hour Hydro-Filler Concentrate,35.00,4,308,3.25,0.5 oz,0,Eye Creams & Treatments
-124,Fresh,Lotus Youth Preserve Eye Cream,45.00,134,9383,3.4776,0.5 oz,0,Eye Creams & Treatments
-125,Charlotte Tilbury,Magic Eye Rescue Cream,60.00,21,4254,3.7143,0.51 oz,0,Eye Creams & Treatments
-126,Dr. Dennis Gross Skincare,SpectraLite EyeCare Pro LED Device,159.00,31,5590,3.7742,None,0,None
-127,philosophy,A Glowing Regimen Trial Set,34.00(63.00 value),14,6526,4.7143,None,0,Value & Gift Sets
-128,Lancôme,Visionnaire Eye Cream Advanced Multi-Correcting Eye Balm,65.00,387,4072,3.9276,0.5 oz,0,None
-129,Perricone MD,Essential Fx Acyl-Glutathione Smoothing & Brightening Under-Eye Cream,122.00,170,2340,4.5588,0.5 oz,0,None
-130,Dr. Brandt Skincare,24/7 Retinol Eye Cream,55.00,42,6409,3.4286000000000003,0.5 oz,0,None
-131,Kate Somerville,Goat Milk De-Puffing Eye Balm,38.00,142,7443,3.8662,0.3 oz,0,Eye Creams & Treatments
-132,Murad,Hydro-Dynamic® Ultimate Moisture For Eyes,70.00,76,2952,4.1447,0.5 oz•,0,Eye Creams & Treatments
-133,Skinfix,Redness Recovery+ Antioxidant Eye Treatment,48.00,4,462,4.0,0.5 oz,1,Eye Creams & Treatments
-134,Kiehl's Since 1851,Youth Dose Eye Treatment,39.00,39,3773,2.7436000000000003,0.5 oz,0,Eye Creams & Treatments
-135,Dermalogica,Age Reversal Eye Complex,80.00,7,524,4.0,0.5 oz,0,Eye Creams & Treatments
-136,Clarisonic,Sonic Awakening Eye Massager,59.00,6,2504,4.3333,None,0,Anti-Aging
-137,BeautyBio,GloPRO® EYE MicroTip™ Attachment Head,35.00,2,1654,4.5,,0,None
-138,Estée Lauder,Advanced Night Repair Eye Serum Synchronized Complex II,66.00,41,5013,3.4878,0.5 oz,0,Eye Creams & Treatments
-139,Edible Beauty,Gold Rush Eye Balm,65.00,57,5943,4.2105,0.3 oz,1,Eye Creams & Treatments
-140,Kiehl's Since 1851,Super Multi-Corrective Eye-Opening Serum,48.00,16,3080,3.8125,0.5 oz,0,Eye Creams & Treatments
-141,Peter Thomas Roth,Retinol Fusion PM Eye Cream,55.00,42,4215,3.7381,0.5 oz•,0,Eye Creams & Treatments
-142,Perricone MD,No Makeup Concealer Broad Spectrum SPF 20,35.00,176,6776,3.8125,0.30 oz•,0,None
-143,Dior,Capture Totale Multi-Perfection Eye Treatment,105.00,20,1361,3.5,0.5 oz,0,Eye Creams & Treatments
-144,philosophy,Hope In A Tube Eye & Lip Cream,38.00,735,7993,4.1918,0.5 oz•,0,None
-145,CLINIQUE,Even Better Eyes Dark Circle Corrector,42.00,369,13175,3.2575,0.34 oz,0,Eye Creams & Treatments
-146,Origins,No Puffery™ Cooling Roll-On For Puffy Eyes,29.00,110,10242,3.4364,0.5 oz,1,Eye Creams & Treatments
-147,Shiseido,Bio Performance Glow Revival Eye Treatment,70.00,21,2851,4.0476,0.54 oz•,0,Eye Creams & Treatments
-148,Obagi Clinical,Vitamin C Eye Brightener,60.00,69,2348,4.2899,0.5 oz,0,None
-149,Anthony,High Performance Continuous Moisture Eye Cream,38.00,35,2670,4.2857,0.75 oz,0,Eye Cream
-150,Klorane,Smoothing and Relaxing Patches with Soothing Cornflower,24.00,117,4972,3.9402000000000004,7 sachets x 2 patches•,0,Eye Masks
-151,Fresh,Crème Ancienne Supreme Eye Serum,168.00,5,1851,4.0,0.5 oz,0,None
-152,SEPHORA COLLECTION,Eye Mask - Grape - Smoothing,5.00,2,0,3.0,1 Pair•,0,Eye Masks
-153,Indie Lee,I-Waken Eye Serum,48.00,18,4511,4.0,0.5 oz,1,Eye Creams & Treatments
-154,Kiehl's Since 1851,Powerful Wrinkle Reducing Eye Cream,43.00,22,3241,3.9091000000000005,0.5 oz,0,Eye Creams & Treatments
-155,Kate Somerville,Wrinkle Warrior® Eye Gel Visible Dark Circle Eraser,60.00,67,3281,2.9701000000000004,0.3 oz,0,None
-156,Kate Somerville,Age Arrest Eye Cream,75.00,42,2591,3.6429000000000005,0.5 oz,0,None
-157,Dior,One Essential Eye Serum,72.00,17,4064,4.2941,0.5 oz,0,None
-158,Skin Inc Supplement Bar,Vitamin A Serum EVEN TONE & REDUCE DARK CIRCLES,35.00,21,5254,3.5238,0.34 oz,0,None
-159,Dr. Jart+,Water Fuse Hydro Soothe Eye Gel,42.00,49,6325,3.6122,0.7 oz,0,None
-160,REN Clean Skincare,Keep Young and Beautiful Anti-Ageing Eye Cream,42.00,53,3332,3.6981,0.5 oz,1,Eye Creams & Treatments
-161,philosophy,Ultimate Miracle Worker Eye Cream,70.00,31,2384,3.9676999999999993,0.5 oz•,0,None
-162,philosophy,Renewed Hope In A Jar Eye,51.00,80,2981,3.725,0.5 oz•,0,None
-163,Foreo,IRIS™ Illuminating Eye Massager,139.00,46,5356,3.5652000000000004,,0,None
-164,NARS,Total Replenishing Eye Cream,58.00,14,2685,3.2857000000000003,0.52 oz•,0,Eye Creams & Treatments
-165,DERMAdoctor,Wrinkle Revenge Eye Balm,50.00,378,6263,4.0635,0.5 oz,0,Eye Creams & Treatments
-166,SK-II,Ultimate Revival Eye Cream,195.00,5,772,2.8,0.52 oz,0,None
-167,Shiseido,Benefiance NutriPerfect Eye Serum,78.00,12,1459,4.0,0.53 oz,0,None
-168,Algenist,ELEVATE Firming & Lifting Contouring Eye Cream,72.00,21,825,3.0,0.5 oz,0,None
-169,Guerlain,Orchidee Imperiale The Eye and Lip Contour Cream,200.00,6,586,3.3333,0.5 oz,0,None
-170,Perricone MD,Vitamin C Ester Brightening Eye Serum,60.00,320,3109,4.0938,0.5 oz,0,None
-171,Perricone MD,Neuropeptide Firming & Illuminating Under-Eye Cream,170.00,4,1379,4.5,0.5 oz,0,Eye Creams & Treatments
-172,bareMinerals,BRILLIANT FUTURE™ Age Defense & Renew Eye Cream,38.00,17,2442,3.4706000000000006,0.5 oz,0,None
-173,Estée Lauder,Advanced Night Repair Concentrated Recovery Eye Mask,46.00,5,5531,3.4000000000000004,4 pairs,0,Eye Creams & Treatments
-174,Estée Lauder,Revitalizing Supreme Global Anti-Aging Eye Balm,62.00,8,701,3.875,0.5 oz,0,None
-175,philosophy,Time In A Bottle For Eyes 100% In-Control,65.00,9,2077,3.5556,0.5 oz,0,Eye Creams & Treatments
-176,Dior,Capture Youth Age-Delay Advanced Eye Treatment,75.00,3,505,3.3333,1 oz,0,None
-177,Eve Lom,Radiance Antioxidant Eye Cream,75.00,1,339,4.0,0.5 oz,0,None
-178,Kate Somerville,Line Release Under Eye Repair Cream,125.00,66,2656,3.9091000000000005,0.5 oz•,0,Eye Creams & Treatments
-179,Omorovicza,Reviving Eye Cream,145.00,16,1679,3.75,0.5 oz,1,None
-180,Estée Lauder,Advanced Time Zone Age Reversing Line/Wrinkle Eye Creme,64.00,6,1004,3.5,0.5 oz,0,Eye Creams & Treatments
-181,Tata Harper,Illuminating Eye Crème,105.00,39,2317,3.0513000000000003,0.5 oz,1,Eye Creams & Treatments
-182,philosophy,Ultimate Miracle Worker Fix Eye Power-Treatment,68.00,15,1520,4.0,0.5 oz,0,Eye Creams & Treatments
-183,Origins,Dr. Andrew Weil for Origins™ Mega-Bright Dark Circle Minimizer,46.00,129,4887,3.1938,0.5 oz,1,Eye Creams & Treatments
-184,Lancôme,ABSOLUE PREMIUM Bx - Absolute Replenishing Eye Cream,110.00,26,1389,3.8846,0.5 oz•,0,None
-185,Origins,A Perfect World™ SPF 20 Age-Defense Eye Cream with White Tea,41.00,44,4205,3.9318,0.5 oz,1,Eye Creams & Treatments
-186,belif,Peat Miracle Revital Eye Cream,58.00,127,12940,4.2598,0.84 oz,0,None
-187,KORRES,"Black Pine 3D Sculpting, Firming & Lifting Eye Cream",56.00,20,2314,3.95,0.51 oz,1,None
-188,Dior,Hydra Life Cooling Hydration Sorbet Eye Gel,55.00,14,2515,3.8571,0.5 oz,0,Eye Creams & Treatments
-189,Shiseido,Essential Energy Eye Definer,42.00,2,399,4.0,0.55 oz,0,None
-190,Clarins,Multi-Active Eye,46.00,17,1872,3.5294,0.5 oz,0,None
-191,DERMAdoctor,Kakadu C™ Eye Soufflé,68.00,36,2906,3.8056,0.5 oz,0,Eye Creams & Treatments
-192,DERMAdoctor,Photo Dynamic Therapy Energizing Eye Renewal Cream,65.00,61,1600,3.918000000000001,0.5 oz,0,Eye Creams & Treatments
-193,L'Occitane,Immortelle Eye Balm,45.00,216,5019,4.1435,0.5 oz,0,Eye Creams & Treatments
-194,Lancôme,Énergie de Vie The Illuminating & Anti-Fatigue Cooling Eye Gel,42.00,46,3549,3.5217,0.5 oz,0,None
-195,First Aid Beauty,Hello FAB Kona Eye Stick,24.00,87,4752,3.3333,0.13 oz,0,Eye Creams & Treatments
-196,Skin Laundry,Wrinkle Release Eye Cream with Peptides,30.00,9,2116,3.7778,0.5 oz,0,Eye Creams & Treatments
-197,L'Occitane,Divine Eyes,80.00,16,1465,3.6875,0.5 oz,0,Eye Creams & Treatments
-198,Alpha-H,Liquid Gold Firming Eye Cream,99.00,0,133,0.0,0.51 oz,0,None
-199,Clarins,Eye Contour Gel,42.00,97,2645,3.7835,0.7 oz,0,None
-200,Kiehl's Since 1851,Powerful-Strength Line-Reducing Eye-Brightening Concentrate,44.00,12,2019,3.1667000000000005,0.5 oz,0,None
-201,Estée Lauder,DayWear Eye Cooling Anti-Oxidant Moisture GelCreme,40.00,4,803,3.75,0.5 oz,0,None
-202,boscia,Sake Brightening Bio-Cellulose Eye Masks,15.00,36,1382,1.8333,3 pairs x 0.17 oz,0,None
-203,philosophy,Take a Deep Breath Oxygenating Eye Gel Cream,42.00,21,1732,4.1429,0.5 oz•,0,Eye Creams & Treatments
-204,Dr. Brandt Skincare,Xtend Your Youth Eye Cream,46.00,21,983,2.9524000000000004,0.5 oz,0,None
-205,philosophy,Purity Made Simple Hydra-Bounce Eye Gel,24.00,48,3225,3.5,0.5 oz,0,Eye Creams & Treatments
-206,Peter Thomas Roth,FIRMx™ 360 Eye Renewal,75.00,2,314,2.5,0.5 oz,0,None
-207,Perricone MD,H2 Elemental Energy De-Puffing Eye Gel,75.00 55.00,13,1736,3.0769,0.5 oz,0,None
-208,Clarins,Enhancing Eye Lift Serum,65.00,10,1307,3.4000000000000004,0.5 oz,0,None
-209,REN Clean Skincare,Vita Mineral™ Active 7 Eye Gel ,34.00,144,3065,3.7361,0.5 oz,1,Eye Creams & Treatments
-210,Clarins,Mission Perfection Eye Broad Spectrum SPF 15,50.00,3,378,3.0,0.5 oz,0,Eye Creams & Treatments
-211,Kate Somerville,KateCeuticals™ Contouring Eye Serum,125.00,2,1045,3.0,0.5 oz•,0,Eye Creams & Treatments
-212,Eve Lom,Time Retreat Eye Treatment,75.00,13,1590,3.5385,0.5 oz,0,Eye Creams & Treatments
-213,SEPHORA COLLECTION,Eye Mask,5.00,382,49010,3.9921,0.21 oz,0,Sheet Masks
-214,KENZOKI,Belle de Jour Angel Eyes White Lotus Care,71.00,7,398,3.4286000000000003,0.5 oz,0,Eye Creams & Treatments
-215,Yves Saint Laurent,Forever Light Creator Eye Fluid,73.00,7,1154,3.4286000000000003,0.5 oz•,0,None
-216,Origins,Dr. Weil For Origins™ Mega-Mushroom Skin Relief Eye Serum,50.00,11,2261,4.0,0.5 oz,1,Eye Creams & Treatments
-217,Klorane,BB Eye Cream with Soothing Cornflower,26.00,21,1625,3.238100000000001,0.5 oz•,0,Eye Creams & Treatments
-218,The Inkey List,Caffeine Eye Cream,9.99,0,287,0.0,0.5 oz,0,None
-219,Guerlain,Abeille Royale Gold Eyetech Eye Sculpt Serum,130.00,13,2659,4.0769,0.5 oz,0,Eye Creams & Treatments
-220,KENZOKI,Lotus Caress to Moisturize Eyes,35.00,8,606,3.5,0.5 oz,0,Eye Creams & Treatments
-221,Perricone MD,PRE:EMPT SERIES™ Brightening Eye Cream,55.00,65,4172,3.4769,0.5 oz,0,None
+0,OLEHENRIKSEN,Banana Bright Eye Crème,38,2000,126365,4.1532,0.5 oz,0,Eye Creams & Treatments
+1,Drunk Elephant,C-Tango Vitamin C Eye Cream,64,469,59473,3.7527,0.5 oz,1,Eye Creams & Treatments
+2,Shiseido,Benefiance WrinkleResist24 Intensive Eye Contour Cream,60,1000,62205,4.261,0.51 oz ,0,Eye Creams & Treatments
+3,La Mer,The Eye Concentrate,215,109,16056,3.633,0.5 oz,0,Eye Creams & Treatments
+4,Estée Lauder,Advanced Night Repair Eye Supercharged Complex,62,210,14169,4.1952,0.5 oz,0,Eye Creams & Treatments
+5,Drunk Elephant,Shaba Complex™ Eye Serum,60,329,38957,3.7812,0.5 oz,1,Eye Creams & Treatments
+6,Kiehl's Since 1851,Creamy Eye Treatment with Avocado,30,768,37684,4.2461,0.5 oz,0,Eye Creams & Treatments
+7,belif,Moisturizing Eye Bomb,48,1000,48667,4.5476,None,0,Eye Creams & Treatments
+8,Fresh,Black Tea Firming and De-Puffing Eye Cream,68,420,34145,3.9929,0.5 oz,0,Eye Creams & Treatments
+9,Shiseido,Benefiance WrinkleResist24 Pure Retinol Express Smoothing Eye Mask,68,380,41478,4.4342,None,0,Eye Masks
+10,Origins,GinZing™ Refreshing Eye Cream to Brighten and Depuff,32,3000,99998,4.0354,0.5 oz,0,Eye Creams & Treatments
+11,Tatcha,The Pearl Tinted Eye Illuminating Treatment,48,713,49972,4.0421,0.4 oz,1,Eye Creams & Treatments
+12,SEPHORA COLLECTION,Brightening Eye Cream – Hydrate & Depuff,16,88,16638,4.3182,0.67oz,1,Eye Creams & Treatments
+13,Skinfix,Barrier+ Lipid-Boost 360° Eye,40,7,1575,5,0.5 oz,1,Eye Creams & Treatments
+14,IT Cosmetics,Bye Bye Under Eye Brightening Eye Cream,48,489,43679,3.7689,0.5 oz,0,Eye Creams & Treatments
+15,Dr. Dennis Gross Skincare,Ferulic + Retinol Triple Correction Eye Serum,69,335,28043,3.8209,0.5 oz,0,Eye Creams & Treatments
+16,Peter Thomas Roth,Water Drench Hyaluronic Cloud Hydra-Gel Eye Patches,52,140,20762,4.3143,None,0,Eye Masks
+17,Peter Thomas Roth,24K Gold Pure Luxury Lift & Firm Hydra-Gel Eye Patches,75,188,24618,4.0532,None,0,Eye Creams & Treatments
+18,First Aid Beauty,FAB Skin Lab Retinol Eye Cream with Triple Hyaluronic Acid,42,10,3781,4.8,0.5 oz,0,Eye Creams & Treatments
+19,Dr. Brandt Skincare,needles no more® NO MORE BAGGAGE™ eye de-puffing gel,42,1000,17351,3.7395,0.5 oz,0,Eye Creams & Treatments
+20,SEPHORA COLLECTION,Eye Mask,5,693,34485,4.1804,None,0,Eye Masks
+21,Peace Out,Puffy Under-Eye Patches,25,187,12643,4.5134,None,0,Eye Masks
+22,LANEIGE,Eye Sleeping Mask,34,164,33105,3.9878,0.8 oz,0,Eye Masks
+23,CLINIQUE,All About Eyes™ Rich,32.5,1000,48002,4.1588,0.5 oz,0,Eye Creams & Treatments
+24,Tatcha,Luminous Deep Hydration Firming Eye Serum,85,86,19206,3.9302,0.5 oz,1,Eye Creams & Treatments
+25,Biossance,Squalane + Peptide Eye Gel,54,322,31117,3.7484,0.5 oz,1,Eye Creams & Treatments
+26,La Mer,The Eye Balm Intense,215,30,6251,3.9667,0.5 oz,0,Eye Creams & Treatments
+27,Wander Beauty,Baggage Claim Gold Eye Masks,25,214,16793,3.9252,None,0,Eye Masks
+28,MILK MAKEUP,Cooling Water,24,904,70167,3.7876,1.2 oz,0,Eye Creams & Treatments
+29,Algenist,Complete Eye Renewal Balm,68,821,24272,3.9647,0.5 oz,0,Eye Creams & Treatments
+30,SK-II,R.N.A. POWER Anti-Aging Eye Cream,135,136,8916,4.2279,0.4 oz,0,Eye Creams & Treatments
+31,Caudalie,Resveratrol Lift Hyaluronic Acid Eye Lifting Balm,62,197,14695,4.0355,0.5 oz,1,Eye Creams & Treatments
+32,Peter Thomas Roth,Cucumber De-Tox™ Hydra-Gel Eye Patches,48,246,28764,4.0813,None,0,Eye Masks
+33,SUNDAY RILEY,Auto Correct Brightening and Depuffing Eye Contour Cream,65,302,16454,3.3477,0.5 oz,0,Eye Creams & Treatments
+34,Perricone MD,Hypoallergenic Firming Eye Cream,72,427,8886,4.3888,0.5 oz,0,Eye Creams & Treatments
+35,La Mer,The Lifting Eye Serum,255,5,4458,3.8,0.5 oz,0,Eye Creams & Treatments
+36,Kiehl's Since 1851,Midnight Recovery Eye,37,179,29335,3.8045,0.5 oz,0,Eye Creams & Treatments
+37,Fresh,Rose Hydrating Eye Gel Cream,41,466,32171,4.2468,0.5 oz,0,Eye Creams & Treatments
+38,BIOEFFECT,EGF Eye Serum,90,11,2913,4.8182,0.2 oz,0,Eye Creams & Treatments
+39,Saturday Skin,Wide Awake Brightening Eye Cream,46,387,28781,4.3178,1.01 oz,0,Eye Creams & Treatments
+40,CLINIQUE,Pep-Start Eye Cream,26.5,866,43981,3.6894,0.5 oz,0,Eye Creams & Treatments
+41,First Aid Beauty,"Eye Duty Triple Remedy: Brighten, Depuff and Smooth",36,675,43522,3.9807,0.34 oz,0,Eye Creams & Treatments
+42,AMOREPACIFIC,MOISTURE BOUND Rejuvenating Eye Treatment Gel,85,240,8599,4.2417,0.5 oz,0,Eye Creams & Treatments
+43,CLINIQUE,All About Eyes,32.5,1000,23996,4.0818,0.5 oz,0,Eye Creams & Treatments
+44,Lancôme,Advanced Génifique Eye Cream,67,256,10353,4.0469,0.5 oz,0,Eye Creams & Treatments
+45,Bobbi Brown,Extra Eye Repair Cream,77,129,9447,4.2171,0.5 oz,0,Eye Creams & Treatments
+46,tarte,Maracuja C-Brighter™ Eye Treatment,38,815,41080,4.0147,0.35 oz,0,Eye Creams & Treatments
+47,Farmacy,Dew It All Total Eye Cream with Echinacea GreenEnvy™,38,346,23190,4.0173,0.5 oz,1,Eye Creams & Treatments
+48,Murad,Retinol Youth Renewal Eye Serum,85,29,7264,4.3103,0.5 oz,0,Eye Creams & Treatments
+49,Fresh,Black Tea Firming Eye Serum,72,13,5991,4.4615,0.5 oz,0,Eye Creams & Treatments
+50,LANEIGE,Water Bank Eye Gel,36,129,20038,4.1705,0.8 oz,0,Eye Creams & Treatments
+51,Supergoop!,Advanced Anti-Aging Eye Cream Broad Spectrum Sunscreen SPF 37,32,85,8878,3.8235,0.5 oz,1,Eye Creams & Treatments
+52,Caudalie,Vine[activ] Energizing Vitamin C Eye Cream,39,117,10626,3.7521,0.5 oz,1,Eye Creams & Treatments
+53,KORA Organics,Noni Radiant Eye Oil,38,250,16682,4.044,0.34 oz,1,Eye Creams & Treatments
+54,Peter Thomas Roth,Mega Rich Intensive Anti-Aging Cellular Eye Creme,65,231,8979,4.2078,0.76 oz,0,Eye Creams & Treatments
+55,Wander Beauty,Baggage Claim Rose Gold Eye Masks,25,32,9083,4.375,None,0,Eye Masks
+56,Perricone MD,Essential Fx Acyl-Glutathione Eyelid Lift Serum,122,132,1704,4.3182,0.5 oz,0,Eye Creams & Treatments
+57,Murad,Renewing Eye Cream,82,191,8904,4.0942,0.5 oz,0,Eye Creams & Treatments
+58,KORRES,"Black Pine 3D Sculpting, Firming & Lifting Super Eye Serum",65,101,7737,4.1881,0.51 oz,1,Eye Creams & Treatments
+59,CLINIQUE,Repairwear Anti-Gravity Eye Lift Cream,45,264,9020,4.1629,0.5 oz,0,Eye Creams & Treatments
+60,Shiseido,Bio-Performance LiftDynamic Eye Treatment,75,20,4010,3.7,0.52 oz,0,Eye Creams & Treatments
+61,Dr. Brandt Skincare,Do Not Age with Dr. Brandt Triple Peptide Eye Cream,82,117,7073,4.2393,0.5 oz,0,Eye Creams & Treatments
+62,Origins,Eye Doctor™ Moisture Care For Skin Around Eyes,41,443,23761,4.0587,0.5 oz,1,Eye Creams & Treatments
+63,Clarins,Super Restorative Total Eye Concentrate,85,194,8092,4.2113,0.5 oz,0,Eye Creams & Treatments
+64,philosophy,anti-wrinkle miracle worker eye+ line-correcting eye cream,60,2,551,5,0.5 oz,0,Eye Creams & Treatments
+65,Tata Harper,Restorative Eye Crème ,98,73,6674,3.9452,0.5 oz,1,Eye Creams & Treatments
+66,OLEHENRIKSEN,Uplifting Transformation™ Eye Crème,42,133,7789,3.9474,0.5 oz,0,Eye Creams & Treatments
+67,tarte,Pack Your Bags Undereye Patches,22,235,37777,4.217,None,0,Eye Masks
+68,Youth To The People,Superfood Peptide Eye Cream,35,132,15552,4.0076,0.5 oz,1,Eye Creams & Treatments
+69,Perricone MD,Cold Plasma+ Eye,110,27,1599,4,0.5 oz,0,Eye Creams & Treatments
+70,Lancôme,Rénergie Lift Multi-Action Eye,75,81,4828,3.7901,0.5 oz,0,Eye Creams & Treatments
+71,Peter Thomas Roth,Potent-C™ Vitamin C Power Eye Cream,65,279,7415,4.3477,0.5 oz,0,Eye Creams & Treatments
+72,CLINIQUE,All About Eyes Serum De-Puffing Eye Massage,32.5,865,16040,3.8081,0.5 oz,0,Eye Masks
+73,Fresh,Crème Ancienne® Eye Cream,128,106,7859,4.2925,0.5 oz,0,Eye Creams & Treatments
+74,Dermalogica,MultiVitamin Power Firm Eye Cream,65,16,1194,4.25,0.5 oz,0,Eye Creams & Treatments
+75,Lancôme,Advanced Génifique Yeux Light-Pearl™ Eye Illuminator Youth Activating Concentrate ,69,117,9464,3.641,0.67 oz,0,Eye Creams & Treatments
+76,Dermalogica,Stress Positive Eye Lift Mask ,69,16,2008,4.625,0.85 oz,0,Eye Creams & Treatments
+77,MILK MAKEUP,Cooling Water Eye Patches,22,41,8353,3.8537,None,0,Eye Masks
+78,Bobbi Brown,Hydrating Eye Cream,54,380,17924,4.1053,0.5 oz,0,Eye Creams & Treatments
+79,Shiseido,White Lucent Anti-Dark Circles Eye Cream,63,345,10874,3.6116,0.5 oz,0,Eye Creams & Treatments
+80,Mario Badescu,Hyaluronic Eye Cream,18,25,5928,3.84,0.5 oz,0,Eye Creams & Treatments
+81,CLINIQUE,Repairwear Laser Focus Wrinkle Correcting Eye Cream,45,136,7865,3.8529,0.5 oz,0,Eye Creams & Treatments
+82,Dr. Dennis Gross Skincare,Vitamin C+ Collagen Brighten & Firm Eye Cream,65,48,6425,3.4792,0.5 oz,0,Eye Creams & Treatments
+83,First Aid Beauty,Eye Duty Triple Remedy A.M. Gel Cream,36,164,19611,4.0488,0.5 oz,0,Eye Creams & Treatments
+84,SEPHORA COLLECTION,Eye Mask - Cucumber - Anti-Puffiness,5,9,0,3.4444,None,0,Eye Masks
+85,Dr. Dennis Gross Skincare,Ferulic + Retinol Eye Cream,69,48,4601,3.3958,0.5 oz,0,Eye Creams & Treatments
+86,AMOREPACIFIC,Intensive Vitalizing Eye Essence,95,74,5499,3.9595,0.5 oz,0,Eye Creams & Treatments
+87,Lancer,Eye Contour Lifting Cream with Diamond Powder,95,174,5272,4.3736,0.5 oz,0,Eye Creams & Treatments
+88,Kate Somerville,Retinol Firming Eye Cream,85,100,12629,3.59,0.5 oz,0,Eye Creams & Treatments
+89,Kiehl's Since 1851,Eye Fuel,22.5,8,2391,4.125,0.5 oz,0,Eye Creams & Treatments
+90,Murad,Eye Lift Firming Treatment,70,112,7875,3.9554,1 oz,0,Eye Creams & Treatments
+91,Algenist,POWER Advanced Wrinkle Fighter 360° Eye Serum,70,64,6392,4.0938,0.5 oz,0,Eye Creams & Treatments
+92,Kopari,Starry Eye Balm,28,21,5160,4.0952,None,1,Eye Creams & Treatments
+93,GLAMGLOW,EYEBOOST™ Reviving Eye Mask,8,3,2192,4.3333,None,0,Eye Masks
+94,First Aid Beauty,Detox Eye Roller,26,549,13993,3.408,0.28 oz,0,Eye Creams & Treatments
+95,Fresh,Lotus Eye Gel,48,615,14027,3.8439,0.5 oz,0,Eye Creams & Treatments
+96,Caudalie,Premier Cru Eye Cream,99,91,4524,3.4505,0.5 oz,1,Eye Creams & Treatments
+97,Estée Lauder,Advanced Night Repair Eye Concentrate Matrix,69,19,3281,3.1053,0.5 oz,0,Eye Creams & Treatments
+98,Shiseido,Future Solution LX Eye and Lip Contour Regenerating Cream,153,22,3128,3.8636,0.61 oz,0,Eye Creams & Treatments
+99,First Aid Beauty,5 in 1 Eye Cream,32,274,18754,3.8796,0.5 oz,0,Eye Creams & Treatments
+100,Shiseido,Sun Protection Eye Cream Broad Spectrum SPF 34 Sunscreen,34,57,6821,4.3684,0.6 oz,0,Eye Creams & Treatments
+101,Origins,Plantscription™ Anti-Aging Eye Treatment,48,157,8304,4.0892,0.5 oz,1,Eye Creams & Treatments
+102,Obagi Clinical,Kinetin+ Hydrating Eye Cream,65,107,2327,4.4112,0.5 oz,0,Eye Creams & Treatments
+103,Guerlain,Orchidée Impériale Eye Serum,230,3,1024,5,0.5 oz,0,Eye Creams & Treatments
+104,Peter Thomas Roth,Instant FIRMx Eye™,38,383,5774,3.5692,1 oz,0,Eye Masks
+105,Origins,Plantscription™ Anti-Aging Power Eye Cream,49,108,9167,3.7963,0.5 oz,1,Eye Creams & Treatments
+106,First Aid Beauty,Eye Duty Triple Remedy Overnight Balm,38,171,11058,3.655,0.5 oz,0,Eye Masks
+107,BeautyBio,Bright Eyes Collagen-Infused Brightening Colloidal Silver Eye Masks,40,25,2907,3.84,None,0,Eye Masks
+108,Naturally Serious,Zero Baggage Anti-Dark Circle Eye Cream,44,23,2425,3.3913,0.67 oz,1,Eye Creams & Treatments
+109,Dr Roebuck's,Down Under Collagen Boosting Eye Treatment,38,73,6557,3.7808,0.5 oz,1,Eye Creams & Treatments
+110,Tatcha,Luminous Deep Hydration Revitalizing Eye Mask,12,51,14555,3.6667,None,1,Eye Masks
+112,bareMinerals,SKINLONGEVITY™ Vital Power Eye Gel Cream,32,35,5375,3.8857,0.5 oz,0,Eye Creams & Treatments
+113,Dr. Dennis Gross Skincare,Hyaluronic Marine Dew It Right Eye Gel,48,72,8609,3.8056,0.5 oz,0,Eye Creams & Treatments
+114,Algenist,GENIUS Ultimate Anti-Aging Eye Cream,74,92,4495,3.6957,0.5 oz,0,Eye Creams & Treatments
+115,Erno Laszlo,Multi-Task Eye Serum Mask,35,20,4893,4.3,None,0,Eye Masks
+116,Perricone MD,High Potency Classics: Firming Eye Lift,72,245,947,4.2857,0.5 oz,0,Eye Creams & Treatments
+117,Murad,Essential-C Eye Cream SPF 15 PA++,70,247,6096,3.996,0.5 oz,0,Eye Creams & Treatments
+118,AMOREPACIFIC,TIME RESPONSE Eye Reserve Crème,260,7,545,4.8571,0.5 oz,0,Eye Creams & Treatments
+119,CLINIQUE,Clinique Smart Custom-Repair Eye Treatment,50,32,2235,3.5,0.5 oz,0,Eye Creams & Treatments
+120,Shiseido,Ultimune Eye Power Infusing Eye Concentrate,67,71,8887,3.8732,0.54 oz,0,Eye Creams & Treatments
+121,Peter Thomas Roth,Un-Wrinkle Eye,100,92,2921,3.8478,0.5 oz,0,Eye Creams & Treatments
+122,REN Clean Skincare,Keep Young And Beautiful™ Instant Brightening Beauty Shot Eye Lift,45,60,4996,3.6333,0.5 oz,1,Eye Creams & Treatments
+123,CLINIQUE,Moisture Surge Eye 96-Hour Hydro-Filler Concentrate,35,4,308,3.25,0.5 oz,0,Eye Creams & Treatments
+124,Fresh,Lotus Youth Preserve Eye Cream,45,134,9383,3.4776,0.5 oz,0,Eye Creams & Treatments
+125,Charlotte Tilbury,Magic Eye Rescue Cream,60,21,4254,3.7143,0.51 oz,0,Eye Creams & Treatments
+126,Dr. Dennis Gross Skincare,SpectraLite EyeCare Pro LED Device,159,31,5590,3.7742,None,0,Tools
+127,philosophy,A Glowing Regimen Trial Set,34,14,6526,4.7143,None,0,Value & Gift Sets
+128,Lancôme,Visionnaire Eye Cream Advanced Multi-Correcting Eye Balm,65,387,4072,3.9276,0.5 oz,0,Eye Creams & Treatments
+129,Perricone MD,Essential Fx Acyl-Glutathione Smoothing & Brightening Under-Eye Cream,122,170,2340,4.5588,0.5 oz,0,Eye Creams & Treatments
+130,Dr. Brandt Skincare,24/7 Retinol Eye Cream,55,42,6409,3.4286,0.5 oz,0,Eye Creams & Treatments
+131,Kate Somerville,Goat Milk De-Puffing Eye Balm,38,142,7443,3.8662,0.3 oz,0,Eye Creams & Treatments
+132,Murad,Hydro-Dynamic® Ultimate Moisture For Eyes,70,76,2952,4.1447,0.5 oz,0,Eye Creams & Treatments
+133,Skinfix,Redness Recovery+ Antioxidant Eye Treatment,48,4,462,4,0.5 oz,1,Eye Creams & Treatments
+134,Kiehl's Since 1851,Youth Dose Eye Treatment,39,39,3773,2.7436,0.5 oz,0,Eye Creams & Treatments
+135,Dermalogica,Age Reversal Eye Complex,80,7,524,4,0.5 oz,0,Eye Creams & Treatments
+136,Clarisonic,Sonic Awakening Eye Massager,59,6,2504,4.3333,None,0,Tools
+137,BeautyBio,GloPRO® EYE MicroTip™ Attachment Head,35,2,1654,4.5,None,0,Tools
+138,Estée Lauder,Advanced Night Repair Eye Serum Synchronized Complex II,66,41,5013,3.4878,0.5 oz,0,Eye Creams & Treatments
+139,Edible Beauty,Gold Rush Eye Balm,65,57,5943,4.2105,0.3 oz,1,Eye Creams & Treatments
+140,Kiehl's Since 1851,Super Multi-Corrective Eye-Opening Serum,48,16,3080,3.8125,0.5 oz,0,Eye Creams & Treatments
+141,Peter Thomas Roth,Retinol Fusion PM Eye Cream,55,42,4215,3.7381,0.5 oz,0,Eye Creams & Treatments
+142,Perricone MD,No Makeup Concealer Broad Spectrum SPF 20,35,176,6776,3.8125,0.30 oz,0,Eye Creams & Treatments
+143,Dior,Capture Totale Multi-Perfection Eye Treatment,105,20,1361,3.5,0.5 oz,0,Eye Creams & Treatments
+144,philosophy,Hope In A Tube Eye & Lip Cream,38,735,7993,4.1918,0.5 oz,0,Eye Creams & Treatments
+145,CLINIQUE,Even Better Eyes Dark Circle Corrector,42,369,13175,3.2575,0.34 oz,0,Eye Creams & Treatments
+146,Origins,No Puffery™ Cooling Roll-On For Puffy Eyes,29,110,10242,3.4364,0.5 oz,1,Eye Creams & Treatments
+147,Shiseido,Bio Performance Glow Revival Eye Treatment,70,21,2851,4.0476,0.54 oz,0,Eye Creams & Treatments
+148,Obagi Clinical,Vitamin C Eye Brightener,60,69,2348,4.2899,0.5 oz,0,Eye Creams & Treatments
+149,Anthony,High Performance Continuous Moisture Eye Cream,38,35,2670,4.2857,0.75 oz,0,Eye Cream
+150,Klorane,Smoothing and Relaxing Patches with Soothing Cornflower,24,117,4972,3.9402,None,0,Eye Masks
+151,Fresh,Crème Ancienne Supreme Eye Serum,168,5,1851,4,0.5 oz,0,Eye Creams & Treatments
+152,SEPHORA COLLECTION,Eye Mask - Grape - Smoothing,5,2,0,3,None,0,Eye Masks
+153,Indie Lee,I-Waken Eye Serum,48,18,4511,4,0.5 oz,1,Eye Creams & Treatments
+154,Kiehl's Since 1851,Powerful Wrinkle Reducing Eye Cream,43,22,3241,3.9091,0.5 oz,0,Eye Creams & Treatments
+155,Kate Somerville,Wrinkle Warrior® Eye Gel Visible Dark Circle Eraser,60,67,3281,2.9701,0.3 oz,0,Eye Creams & Treatments
+156,Kate Somerville,Age Arrest Eye Cream,75,42,2591,3.6429,0.5 oz,0,Eye Creams & Treatments
+157,Dior,One Essential Eye Serum,72,17,4064,4.2941,0.5 oz,0,Eye Creams & Treatments
+158,Skin Inc Supplement Bar,Vitamin A Serum EVEN TONE & REDUCE DARK CIRCLES,35,21,5254,3.5238,0.34 oz,0,Eye Creams & Treatments
+159,Dr. Jart+,Water Fuse Hydro Soothe Eye Gel,42,49,6325,3.6122,0.7 oz,0,Eye Creams & Treatments
+160,REN Clean Skincare,Keep Young and Beautiful Anti-Ageing Eye Cream,42,53,3332,3.6981,0.5 oz,1,Eye Creams & Treatments
+161,philosophy,Ultimate Miracle Worker Eye Cream,70,31,2384,3.9677,0.5 oz,0,Eye Creams & Treatments
+162,philosophy,Renewed Hope In A Jar Eye,51,80,2981,3.725,0.5 oz,0,Eye Creams & Treatments
+163,Foreo,IRIS™ Illuminating Eye Massager,139,46,5356,3.5652,None,0,Tools
+164,NARS,Total Replenishing Eye Cream,58,14,2685,3.2857,0.52 oz,0,Eye Creams & Treatments
+165,DERMAdoctor,Wrinkle Revenge Eye Balm,50,378,6263,4.0635,0.5 oz,0,Eye Creams & Treatments
+166,SK-II,Ultimate Revival Eye Cream,195,5,772,2.8,0.52 oz,0,Eye Creams & Treatments
+167,Shiseido,Benefiance NutriPerfect Eye Serum,78,12,1459,4,0.53 oz,0,Eye Creams & Treatments
+168,Algenist,ELEVATE Firming & Lifting Contouring Eye Cream,72,21,825,3,0.5 oz,0,Eye Creams & Treatments
+169,Guerlain,Orchidee Imperiale The Eye and Lip Contour Cream,200,6,586,3.3333,0.5 oz,0,Eye Creams & Treatments
+170,Perricone MD,Vitamin C Ester Brightening Eye Serum,60,320,3109,4.0938,0.5 oz,0,Eye Creams & Treatments
+171,Perricone MD,Neuropeptide Firming & Illuminating Under-Eye Cream,170,4,1379,4.5,0.5 oz,0,Eye Creams & Treatments
+172,bareMinerals,BRILLIANT FUTURE™ Age Defense & Renew Eye Cream,38,17,2442,3.4706,0.5 oz,0,Eye Masks
+173,Estée Lauder,Advanced Night Repair Concentrated Recovery Eye Mask,46,5,5531,3.4,None,0,Eye Creams & Treatments
+174,Estée Lauder,Revitalizing Supreme Global Anti-Aging Eye Balm,62,8,701,3.875,0.5 oz,0,Eye Creams & Treatments
+175,philosophy,Time In A Bottle For Eyes 100% In-Control,65,9,2077,3.5556,0.5 oz,0,Eye Creams & Treatments
+176,Dior,Capture Youth Age-Delay Advanced Eye Treatment,75,3,505,3.3333,1 oz,0,Eye Creams & Treatments
+177,Eve Lom,Radiance Antioxidant Eye Cream,75,1,339,4,0.5 oz,0,Eye Creams & Treatments
+178,Kate Somerville,Line Release Under Eye Repair Cream,125,66,2656,3.9091,0.5 oz,0,Eye Creams & Treatments
+179,Omorovicza,Reviving Eye Cream,145,16,1679,3.75,0.5 oz,1,Eye Creams & Treatments
+180,Estée Lauder,Advanced Time Zone Age Reversing Line/Wrinkle Eye Creme,64,6,1004,3.5,0.5 oz,0,Eye Creams & Treatments
+181,Tata Harper,Illuminating Eye Crème,105,39,2317,3.0513,0.5 oz,1,Eye Creams & Treatments
+182,philosophy,Ultimate Miracle Worker Fix Eye Power-Treatment,68,15,1520,4,0.5 oz,0,Eye Creams & Treatments
+183,Origins,Dr. Andrew Weil for Origins™ Mega-Bright Dark Circle Minimizer,46,129,4887,3.1938,0.5 oz,1,Eye Creams & Treatments
+184,Lancôme,ABSOLUE PREMIUM Bx - Absolute Replenishing Eye Cream,110,26,1389,3.8846,0.5 oz,0,Eye Creams & Treatments
+185,Origins,A Perfect World™ SPF 20 Age-Defense Eye Cream with White Tea,41,44,4205,3.9318,0.5 oz,1,Eye Creams & Treatments
+186,belif,Peat Miracle Revital Eye Cream,58,127,12940,4.2598,0.84 oz,0,Eye Creams & Treatments
+187,KORRES,"Black Pine 3D Sculpting, Firming & Lifting Eye Cream",56,20,2314,3.95,0.51 oz,1,Eye Creams & Treatments
+188,Dior,Hydra Life Cooling Hydration Sorbet Eye Gel,55,14,2515,3.8571,0.5 oz,0,Eye Creams & Treatments
+189,Shiseido,Essential Energy Eye Definer,42,2,399,4,0.55 oz,0,Eye Creams & Treatments
+190,Clarins,Multi-Active Eye,46,17,1872,3.5294,0.5 oz,0,Eye Creams & Treatments
+191,DERMAdoctor,Kakadu C™ Eye Soufflé,68,36,2906,3.8056,0.5 oz,0,Eye Creams & Treatments
+192,DERMAdoctor,Photo Dynamic Therapy Energizing Eye Renewal Cream,65,61,1600,3.918,0.5 oz,0,Eye Creams & Treatments
+193,L'Occitane,Immortelle Eye Balm,45,216,5019,4.1435,0.5 oz,0,Eye Creams & Treatments
+194,Lancôme,Énergie de Vie The Illuminating & Anti-Fatigue Cooling Eye Gel,42,46,3549,3.5217,0.5 oz,0,Eye Creams & Treatments
+195,First Aid Beauty,Hello FAB Kona Eye Stick,24,87,4752,3.3333,0.13 oz,0,Eye Creams & Treatments
+196,Skin Laundry,Wrinkle Release Eye Cream with Peptides,30,9,2116,3.7778,0.5 oz,0,Eye Creams & Treatments
+197,L'Occitane,Divine Eyes,80,16,1465,3.6875,0.5 oz,0,Eye Creams & Treatments
+198,Alpha-H,Liquid Gold Firming Eye Cream,99,0,133,0,0.51 oz,0,Eye Creams & Treatments
+199,Clarins,Eye Contour Gel,42,97,2645,3.7835,0.7 oz,0,Eye Creams & Treatments
+200,Kiehl's Since 1851,Powerful-Strength Line-Reducing Eye-Brightening Concentrate,44,12,2019,3.1667,0.5 oz,0,Eye Creams & Treatments
+201,Estée Lauder,DayWear Eye Cooling Anti-Oxidant Moisture GelCreme,40,4,803,3.75,0.5 oz,0,Eye Creams & Treatments
+202,boscia,Sake Brightening Bio-Cellulose Eye Masks,15,36,1382,1.8333,None,0,Eye Masks
+203,philosophy,Take a Deep Breath Oxygenating Eye Gel Cream,42,21,1732,4.1429,0.5 oz,0,Eye Creams & Treatments
+204,Dr. Brandt Skincare,Xtend Your Youth Eye Cream,46,21,983,2.9524,0.5 oz,0,Eye Creams & Treatments
+205,philosophy,Purity Made Simple Hydra-Bounce Eye Gel,24,48,3225,3.5,0.5 oz,0,Eye Creams & Treatments
+206,Peter Thomas Roth,FIRMx™ 360 Eye Renewal,75,2,314,2.5,0.5 oz,0,Eye Creams & Treatments
+207,Perricone MD,H2 Elemental Energy De-Puffing Eye Gel,75,13,1736,3.0769,0.5 oz,0,Eye Creams & Treatments
+208,Clarins,Enhancing Eye Lift Serum,65,10,1307,3.4,0.5 oz,0,Eye Creams & Treatments
+209,REN Clean Skincare,Vita Mineral™ Active 7 Eye Gel ,34,144,3065,3.7361,0.5 oz,1,Eye Creams & Treatments
+210,Clarins,Mission Perfection Eye Broad Spectrum SPF 15,50,3,378,3,0.5 oz,0,Eye Creams & Treatments
+211,Kate Somerville,KateCeuticals™ Contouring Eye Serum,125,2,1045,3,0.5 oz,0,Eye Creams & Treatments
+212,Eve Lom,Time Retreat Eye Treatment,75,13,1590,3.5385,0.5 oz,0,Eye Creams & Treatments
+213,SEPHORA COLLECTION,Eye Mask,5,382,49010,3.9921,0.21 oz,0,Sheet Masks
+214,KENZOKI,Belle de Jour Angel Eyes White Lotus Care,71,7,398,3.4286,0.5 oz,0,Eye Creams & Treatments
+215,Yves Saint Laurent,Forever Light Creator Eye Fluid,73,7,1154,3.4286,0.5 oz,0,Eye Creams & Treatments
+216,Origins,Dr. Weil For Origins™ Mega-Mushroom Skin Relief Eye Serum,50,11,2261,4,0.5 oz,1,Eye Creams & Treatments
+217,Klorane,BB Eye Cream with Soothing Cornflower,26,21,1625,3.2381,0.5 oz,0,Eye Creams & Treatments
+218,The Inkey List,Caffeine Eye Cream,9.99,0,287,0,0.5 oz,0,Eye Creams & Treatments
+219,Guerlain,Abeille Royale Gold Eyetech Eye Sculpt Serum,130,13,2659,4.0769,0.5 oz,0,Eye Creams & Treatments
+220,KENZOKI,Lotus Caress to Moisturize Eyes,35,8,606,3.5,0.5 oz,0,Eye Creams & Treatments
+221,Perricone MD,PRE:EMPT SERIES™ Brightening Eye Cream,55,65,4172,3.4769,0.5 oz,0,Eye Creams & Treatments

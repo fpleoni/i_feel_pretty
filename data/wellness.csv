@@ -1,154 +1,153 @@
 ,brand,name,price,n_of_reviews,n_of_loves,review_score,size,clean_product,category
-0,Slip,Silk Pillowcase - Standard/Queen,85.00,222,56021,4.2658,,0,None
-1,HUM Nutrition,Hair Sweet Hair Growth - Vegan Gummies,25.00,195,21267,4.0872,60 Vegan berry gummy hearts•,0,None
-2,Herbivore,Jade Facial Roller,30.00,95,12405,3.8842,None,1,Tools
-3,Slip,Silk Pillowcase - King,105.00,48,12033,4.4792000000000005,,0,None
-4,Vital Proteins,Collagen Peptides,25.00,63,6333,4.2222,10 oz,0,Beauty Supplements
-5,SEPHORA COLLECTION,Sephora Collection x OLLY,15.00,11,0,3.9091000000000005,50 Capsules•,0,Beauty Supplements
-6,BeautyBio,Contouring + De-Puffing Rose Quartz Roller,60.00,17,5316,4.8235,None,0,None
-7,HUM Nutrition,Skin Heroes Pre + Probiotic Clear Skin Supplement,40.00,1,2461,5.0,60 Capsules•,0,None
-8,HUM Nutrition,Daily Cleanse Clear Skin and Body Detox Supplement,25.00,332,30843,4.003,60 Capsules•,0,None
-9,Moon Juice,SuperYou® Daily Stress Management,49.00,67,7542,4.5672,60 capsules•,0,Beauty Supplements
-10,Mount Lai,De-Puffing Jade Facial Roller,34.00,130,22987,4.0538,,0,None
-11,Slip,Silk Sleepmask,50.00,90,21578,3.9222,,0,Holistic Wellness
-12,Mount Lai,De-Puffing Rose Quartz Facial Roller,38.00,45,12519,4.1778,Standard,0,None
-13,HUM Nutrition,Glow Sweet Glow Skin Hydration - Vegan Gummies,25.00,58,8552,4.5,60 Tangerine Vegan Gummies•,0,None
-14,HUM Nutrition,Flatter Me Digestive Enzyme Supplement,25.00,109,16147,4.0826,60 Vegetarian Capsules•,0,Beauty Supplements
-15,HUM Nutrition,Skinny Bird™ Supplements,40.00,122,13349,3.3443,90 Vegetarian Capsules•,0,None
-16,The Beauty Chef,COLLAGEN Inner Beauty Boost,50.00,95,9287,4.5158000000000005,16.9 oz,0,Beauty Supplements
-17,Mount Lai,Amethyst Roller,44.00,18,4492,4.8889,standard size,0,None
-18,The Beauty Chef,GLOW ADVANCED Inner Beauty Powder,70.00,68,6438,4.6618,5.3 oz,0,None
-19,Sephora Favorites,Wellness Kit,39.00(55.00 value),3,2054,4.0,None,0,Value & Gift Sets
-20,HUM Nutrition,Collagen Love Skin Firming Supplement,40.00,31,11682,4.4839,90 capsules•,0,None
-21,Vital Proteins,Marine Collagen,48.00,9,1772,4.7778,20 packets x 0.35 oz,0,Beauty Supplements
-22,Cocofloss,Cocofloss,9.00,239,15803,4.318,32 yd•,0,None
-23,Vital Proteins,Collagen Beauty Glow - Tropical Hibiscus,54.00,3,2300,5.0,10.8 oz,0,None
-24,SEPHORA COLLECTION,Sephora Collection x OLLY: Lustrous Hair,15.00,14,5669,4.5714,50 Capsules•,0,Beauty Supplements
-25,Nurse Jamie,Uplift Massaging Beauty Roller,69.00,75,18283,4.2667,,0,Tools
-26,SEPHORA COLLECTION,Sephora Collection x OLLY: Glowing Skin,15.00,20,6477,4.45,50 Capsules•,0,Beauty Supplements
-27,Murad,Pure Skin® Clarifying Dietary Supplement,50.00,498,11165,4.1104,None,0,Beauty Supplements
-28,Murad,Firm and Tone Dietary Supplement Pack,138.00,75,5627,3.9333,28 Daily Packettes•,0,Cellulite & Stretch Marks
-29,Moon Juice,SuperHair™ Daily Hair Nutrition,60.00,0,612,0.0,120 Capsules•,1,Beauty Supplements
-30,WelleCo,The Super Elixir™,135.00,8,1943,4.5,10.6 oz,0,Beauty Supplements
-31,Vitruvi,Stone Diffuser,119.00,20,4849,4.35,3.3 in. x 3.3 in. 7 in.•,0,None
-32,Slip,Beauty Sleep To Go!,119.00,6,7474,4.1667000000000005,,0,Holistic Wellness
-33,Crushed Tonic,Anti-Aging Collagen Elixir,105.00,32,905,4.7188,"Assorted Crush - Original, Matcha, Turmeric",0,Beauty Supplements
-34,Mount Lai,De-Puffing Jade Facial Roller Mini,20.00,20,0,4.5,None,0,None
-35,Herbivore,Rose Quartz Facial Roller,40.00,30,11701,3.1667000000000005,None,0,Tools
-36,HUM Nutrition,Red Carpet Skin and Hair Health Supplement,25.00,94,10928,4.1064,60 Capsules•,0,Beauty Supplements
-37,KORA Organics,Rose Quartz Heart Facial Gua Sha,58.00,15,4614,3.9333,None,1,Tools
-38,HUM Nutrition,Beauty zzZz Sleep Support Supplement,10.00,117,8680,4.0598,30 Tablets•,0,Beauty Supplements
-39,WelleCo,The Super Elixir™ Refill,80.00,4,662,4.75,10.6 oz,0,Beauty Supplements
-40,HUM Nutrition,OMG! Omega The Great Fish Oil Supplement,30.00,55,7674,4.3636,60 Softgels•,0,Beauty Supplements
-41,Perricone MD,Skin & Total Body Dietary Supplements,155.00,77,3335,4.5325,None,0,None
-42,Moon Juice,Sex Dust®,38.00,49,4625,3.8571,1.5 oz,0,Beauty Supplements
-43,Herbivore,Coconut Milk Bath Soak,18.00,33,6629,4.0606,8 oz,0,None
-44,HUM Nutrition,Uber Energy Adrenal Fatigue and Adaptogen Supplement,25.00,49,7316,3.9184000000000005,None,0,Beauty Supplements
-45,HUM Nutrition,Wing Man Liver Detox and Dark Circle Supplement,25.00,42,9667,3.7143,60 Capsules•,0,None
-46,8Greens,8G Dietary Supplement,14.00,15,1137,5.0,10 tablets,0,Beauty Supplements
-47,SEPHORA COLLECTION,Sephora Collection x OLLY: Skin Detox,15.00,14,3649,3.6429000000000005,50 Capsules•,0,None
-48,The Beauty Chef,HYDRATION Inner Beauty Boost,50.00,58,2812,4.7241,16.9 oz,0,Beauty Supplements
-49,Slip,Pure Silk Sleepmask Zodiac Edition,50.00,16,7285,4.5,,0,None
-50,HUM Nutrition,Raw Beauty Skin & Energy Superfood Powder - Mint Chocolate,39.00,218,8967,4.1422,8.5 oz,0,None
-51,The Beauty Chef,ANTIOXIDANT Inner Beauty Boost,50.00,40,2347,4.875,16.9 oz,0,Beauty Supplements
-52,SEPHORA COLLECTION,Sephora Collection x OLLY: Radiant Sleep,15.00,11,3179,4.2727,50 Capsules•,0,Beauty Supplements
-53,Vital Proteins,Collagen Creamer,29.00,28,2296,3.9643,10.2 oz,0,None
-54,HUM Nutrition,"Runway Ready Skin, Hair & Nail Repair Kit",35.00,79,9513,4.3671,30 Daily Packs•,0,None
-55,Vitruvi,Quiet Time Diffuser Set,135.00(145.00 value),5,187,5.0,None,0,None
-56,Herbivore,Rose Quartz Gua Sha,18.00,11,3177,3.7273000000000005,None,1,None
-57,Vital Proteins,Matcha Collagen,49.00,10,1803,4.900000000000001,12 oz,0,Beauty Supplements
-58,HUM Nutrition,Moody Bird™ PMS Support Supplement,25.00,42,6342,4.404800000000001,60 Capsules•,0,Beauty Supplements
-59,HUM Nutrition,Cleanse to the Rescue 21 Day Detox Kit,42.00,53,9266,3.7170000000000005,21 Day Cleanse•,0,Beauty Supplements
-60,REN Clean Skincare,And Now to Sleep Pillow Spray,25.00,70,6661,4.3286,2.5 oz,1,None
-61,Golde,Matcha Golde,29.00,4,244,5.0,4.2 oz,0,Beauty Supplements
-62,Perricone MD,Super Greens Dietary Supplement,80.00,30,3706,4.5,5.8 oz,0,None
-63,Moon Juice,Beauty Dust®,38.00,74,9123,4.2432,1.5 oz,0,None
-64,WelleCo,The Nourishing Protein,70.00,3,694,4.6667,10.5 oz,0,Beauty Supplements
-65,HUM Nutrition,Raw Beauty Skin & Energy Superfood Powder - Vanilla Berry,39.00,55,5536,4.2364,8.5 oz,0,None
-66,Kopari,Coconut Toothpaste,12.00,11,2390,4.2727,3.4 oz,1,None
-67,Moon Juice,Full Moon Dust® Box,35.00,70,8180,3.8429,12 x 1.3 oz,0,None
-68,HUM Nutrition,Here Comes The Sun Vitamin D Supplement,20.00,28,6643,4.5357,120 Softgels•,0,None
-69,Moon Juice,Brain Dust®,38.00,37,4182,4.3243,1.5 oz,0,None
-70,Moon Juice,Beauty Shroom™ Vegan Collagen Protection,58.00,7,2476,3.8571,8.5 oz,0,None
-71,HUM Nutrition,Killer Nails™ Supplements,20.00,45,6316,4.4222,60 Capsules•,0,None
-72,HUM Nutrition,Collagen POP + Vitamin C Dissolvable Tablets,12.00,106,4663,3.3491,10 tablets•,0,Beauty Supplements
-73,KORA Organics,Noni Glow Skinfood Dietary Supplement Powder,55.00,62,4903,3.629,30 x 6 g single serve packets•,0,Beauty Supplements
-74,Kopari,Coconut Oil Pullers,28.00,14,3883,3.7857000000000003,14 x 0.33 oz,1,Holistic Wellness
-75,Perricone MD,Health & Weight Management Dietary Supplements,210.00,29,1481,4.3103,90 Packets•,0,None
-76,Golde,Cacao Golde,29.00,4,238,5.0,4.2 oz,0,None
-77,Golde,Original Golde,29.00,6,374,5.0,4.2 oz,0,Beauty Supplements
-78,Ouai,Hair Supplement for Dry Hair,28.00,6,1269,3.6667000000000005,30 Softgel Capsules•,0,Beauty Supplements
-79,Moon Juice,Blue Beauty Adaptogenic Protein,50.00,44,2634,4.7727,16 oz,0,Beauty Supplements
-80,Perricone MD,The Essential Multivitamin+,50.00,7,892,4.2857,60 Capsules•,0,Beauty Supplements
-81,HUM Nutrition,Turn Back Time Turmeric Supplement,40.00,16,4500,4.1875,60 Vegetarian Capsules•,0,None
-82,Moon Juice,Ashwagandha,38.00,0,414,0.0,3.5 oz,1,Beauty Supplements
-83,Perricone MD,Metabolism Booster,55.00,8,1585,3.5,60 Capsules•,0,Beauty Supplements
-84,Perricone MD,Skin Clear Dietary Supplements,95.00,81,2858,3.9136000000000006,30 Packets•,0,None
-85,Moon Juice,Cosmic Cocoa,30.00,2,1062,5.0,5 oz,1,None
-86,Nurse Jamie,Uplift Body Sonic Massaging Beauty Roller,159.00,0,671,0.0,None,0,Tools
-87,HUM Nutrition,Flawless + Fearless Breakout Control Kit,29.00,19,5990,3.6842000000000006,14 daily packs x 4 pills each•,0,None
-88,Moon Juice,Dream Dust®,38.00,18,2166,4.1111,1.5 oz,0,Beauty Supplements
-89,Four Sigmatic,Mushroom Sampler Mix,20.00,40,1999,4.625,None,0,Beauty Supplements
-90,HUM Nutrition,Arctic Repair Fine Lines and Wrinkles Supplement,60.00,13,2956,4.1538,90 capsules•,0,Beauty Supplements
-91,Vitruvi,Organic Lavender Oil,18.00,5,1139,5.0,0.3 oz,0,None
-92,Nurse Jamie,Eyeonix Eye Massaging Beauty Tool,49.00,12,2977,3.75,None,0,None
-93,Perricone MD,Omega 3 Dietary Supplement,42.00,73,2061,4.6164,90 Softgels ,0,Beauty Supplements
-94,HUM Nutrition,Raw Beauty Skin & Energy Superfood Powder - Tropical,39.00,15,1877,4.133300000000001,8.5 oz,0,None
-95,Four Sigmatic,Mushroom Coffee Mix with Lion's Mane & Chaga,15.00,65,2052,4.8769,10 x 0.09 oz,0,None
-96,Moon Juice,Cosmic Matcha™,40.00,1,483,5.0,3.5 oz,1,None
-97,HUM Nutrition,Raw Beauty To-Go Superfood Powder - Mint Chocolate,25.00,39,3660,4.1282,15 x 0.28 oz,0,Beauty Supplements
-98,WelleCo,Nourishing Plant Protein,35.00,1,0,5.0,10.5 oz,0,Beauty Supplements
-99,Nurse Jamie,NuVibe RX Amethyst Massaging Beauty Tool,95.00,4,1716,4.5,None,0,Tools
-100,Herbivore,Detox Soaking Salts,18.00,6,3017,3.1667000000000005,8 oz,0,None
-101,Moon Juice,Pearl,48.00,0,245,0.0,2.1 oz•,1,Beauty Supplements
-102,Caudalie,Vinexpert Dietary Supplements,18.00,12,3635,4.1667000000000005,30 capsules•,0,Beauty Supplements
-103,Vitruvi,Frankincense Essential Oil,18.00,2,539,5.0,0.3 oz,0,None
-104,Vitruvi,Organic Eucalyptus Essential Oil,13.00,4,748,4.75,0.3 oz,0,None
-105,Four Sigmatic,Mushroom Hot Cacao Mix with Reishi,20.00,61,4068,4.0,10 packets x 0.2 oz,0,Beauty Supplements
-106,The Beauty Chef,SLEEP Inner Beauty Powder,60.00,47,1658,4.5745,3.5 oz,0,None
-107,Murad,Beauty RESTore Sleep Oral Spray,25.00,21,976,4.0,1 oz,0,None
-108,Perricone MD,Sleep Booster,35.00,6,914,4.3333,30 Capsules•,0,None
-109,Four Sigmatic,Mushroom Matcha Drink Mix with Lion's Mane & Ginger,33.00,36,2310,4.8056,2.12 oz,0,None
-110,Moon Juice,Spirit Dust®,38.00,18,2606,4.7778,1.5 oz,0,None
-111,Crushed Tonic,Sampler Pack,15.00,7,846,4.4286,None,0,None
-112,WelleCo,The Super Elixir™ Travel Set,30.00,2,296,3.0,None,0,None
-113,WelleCo,Sleep Welle Fortified Calming Tea,69.00,1,495,5.0,50 tea bag caddy,0,None
-114,Vitruvi,Pink Grapefruit Essential Oil,13.00,5,866,5.0,0.3 oz,0,Holistic Wellness
-115,Perricone MD,Skin Booster,55.00,10,3129,4.800000000000001,30 Capsules•,0,Beauty Supplements
-116,Vitruvi,Sleep Face & Body Mist,24.00,1,549,5.0,1 oz,0,None
-117,Vital Proteins,Collagen Beauty Glow - Lavender Lemon,54.00,3,450,3.6667000000000005,10 oz,0,Beauty Supplements
-118,Moon Juice,Night Beauty,65.00,4,978,2.7500000000000004,3 oz,0,Beauty Supplements
-119,bkr,Spiked Prenup Glass Water Bottle,45.00 31.00,7,2161,3.8571,16 oz,0,Holistic Wellness
-120,Vitruvi,Organic Sweet Orange Essential Oil,13.00,6,621,4.3333,0.3 oz,0,None
-121,Vitruvi,Organic Peppermint Essential Oil,15.00,2,588,5.0,0.3 oz,0,Holistic Wellness
-122,Vital Proteins,Collagen Beauty Glow - Strawberry Lemon,54.00,1,317,1.0,10 oz,0,None
-123,Dr. Brandt Skincare,Antioxidant Water Booster Triple Power Ingestible Water Supplement,39.00,813,2828,3.9496,2 oz,0,Beauty Supplements
-124,WelleCo,Sleep Welle Fortified Calming Tea Refill,37.00,2,381,5.0,None,0,None
-125,Four Sigmatic,Mushroom Mocha Mix with Chaga & Cacao,20.00,29,1108,4.8621,10 packets x 0.18 oz,0,Beauty Supplements
-126,Vital Proteins,Beauty Collagen - Tropical Hibiscus,32.00,1,495,3.0,11.5 oz,0,None
-127,Moon Juice,Power Dust®,38.00,9,2067,4.555600000000001,1.5 oz,0,Beauty Supplements
-128,Four Sigmatic,Mushroom Lemonade Mix with Charcoal & Chaga,30.00,7,632,4.2857,3.53 oz,0,Beauty Supplements
-129,Vitruvi,Geranium Essential Oil,18.00,1,406,4.0,0.3 oz,0,None
-130,Four Sigmatic,Mushroom Matcha Latte Mix with Maitake,20.00,24,1066,4.375,10 packets x 0.21 oz,0,None
-131,Ouai,Hair Supplement for Oily Scalp,28.00,9,1163,3.1111000000000004,32 Softgel Capsules•,0,Beauty Supplements
-132,Vital Proteins,Beauty Collagen – Strawberry Lemon,34.00,12,1379,2.25,14 packets x 0.56 oz,0,None
-133,Vital Proteins,Collagen Beauty Greens,49.00,4,1103,4.5,10.37 oz,0,None
-134,WelleCo,Mini Caddy Trio,140.00,1,254,5.0,None,0,Beauty Supplements
-135,Moon Juice,Beauty Dust Box,35.00,6,0,4.6667,None,0,None
-136,Ouai,Hair Supplement for Thinning Hair,28.00,121,9032,3.9091000000000005,30 Tablets•,0,Beauty Supplements
-137,Four Sigmatic,Golden Latte Mushroom Mix with Shiitake & Turmeric,20.00,117,1180,2.9231,10 packets x 0.21 oz,0,Beauty Supplements
-138,Four Sigmatic,Chai Latte Mushroom Mix with Turkey Tail & Reishi,20.00,12,610,3.8333,10 packets x 0.21 oz,0,None
-139,bkr,Spiked Lala Glass Water Bottle,58.00,14,1655,4.5714,32 oz,0,Holistic Wellness
-140,Vital Proteins,Beauty Collagen - Lavender Lemon,32.00,7,739,3.2857000000000003,10.8 oz,0,None
-141,SEPHORA COLLECTION,Sephora Collection x OLLY: Radiant Sleep Travel Size,7.00,0,40,0.0,10 Capsules•,0,Beauty Supplements
-142,Murad,Hydro-Glow Dietary Supplements,54.00,1,736,5.0,None,0,Beauty Supplements
-143,WelleCo,The Nourishing Protein Travel Set,39.00,1,150,5.0,7 x 1.16 oz,0,None
-144,Perricone MD,Travel Booster,25.00,1,1213,5.0,10 Capsules•,0,Beauty Supplements
-145,Murad,Youth Builder® Dietary Supplement,59.00,3,1028,5.0,120 Tablets•,0,Beauty Supplements
-146,HUM Nutrition,Big Chill™ Stress Management Supplement,25.00,51,9810,4.549,60 Capsules•,0,None
-147,SEPHORA COLLECTION,Rose quartz facial massager,20.00,35,6528,3.6857,None,0,Tools
-148,Perricone MD,Digestion Booster,50.00,1,569,3.0,60 Capsules•,0,Beauty Supplements
-149,Vital Proteins,Bone Broth Collagen,65.00,1,373,5.0,10 oz,0,Beauty Supplements
-150,Indie Lee,I-Recover Mind & Body Gel,48.00,0,39,0.0,1.4 oz,1,None
-151,SEPHORA COLLECTION,Sephora Collection x OLLY: Skin Detox Travel Size,7.00,0,36,0.0,10 Capsules•,0,None
-152,Vitruvi,Sleep Duo Essential Oil Set,50.00(56.00 value),0,6,0.0,None,0,None
+0,Slip,Silk Pillowcase - Standard/Queen,85,222,56021,4.2658,None,0,Tools
+1,HUM Nutrition,Hair Sweet Hair Growth - Vegan Gummies,25,195,21267,4.0872,None,0,Beauty Supplements
+2,Herbivore,Jade Facial Roller,30,95,12405,3.8842,None,1,Tools
+3,Slip,Silk Pillowcase - King,105,48,12033,4.4792,None,0,Tools
+4,Vital Proteins,Collagen Peptides,25,63,6333,4.2222,10 oz,0,Beauty Supplements
+5,SEPHORA COLLECTION,Sephora Collection x OLLY,15,11,0,3.9091,None,0,Beauty Supplements
+6,BeautyBio,Contouring + De-Puffing Rose Quartz Roller,60,17,5316,4.8235,None,0,Tools
+7,HUM Nutrition,Skin Heroes Pre + Probiotic Clear Skin Supplement,40,1,2461,5,None,0,Beauty Supplements
+8,HUM Nutrition,Daily Cleanse Clear Skin and Body Detox Supplement,25,332,30843,4.003,None,0,Beauty Supplements
+9,Moon Juice,SuperYou® Daily Stress Management,49,67,7542,4.5672,None,0,Beauty Supplements
+10,Mount Lai,De-Puffing Jade Facial Roller,34,130,22987,4.0538,None,0,Tools
+11,Slip,Silk Sleepmask,50,90,21578,3.9222,None,0,Tools
+12,Mount Lai,De-Puffing Rose Quartz Facial Roller,38,45,12519,4.1778,None,0,Tools
+13,HUM Nutrition,Glow Sweet Glow Skin Hydration - Vegan Gummies,25,58,8552,4.5,None,0,Beauty Supplements
+14,HUM Nutrition,Flatter Me Digestive Enzyme Supplement,25,109,16147,4.0826,None,0,Beauty Supplements
+15,HUM Nutrition,Skinny Bird™ Supplements,40,122,13349,3.3443,None,0,Beauty Supplements
+16,The Beauty Chef,COLLAGEN Inner Beauty Boost,50,95,9287,4.5158,16.9 oz,0,Beauty Supplements
+17,Mount Lai,Amethyst Roller,44,18,4492,4.8889,None,0,Tools
+18,The Beauty Chef,GLOW ADVANCED Inner Beauty Powder,70,68,6438,4.6618,5.3 oz,0,Beauty Supplements
+19,Sephora Favorites,Wellness Kit,39,3,2054,4,None,0,Value & Gift Sets
+20,HUM Nutrition,Collagen Love Skin Firming Supplement,40,31,11682,4.4839,None,0,Beauty Supplements
+21,Vital Proteins,Marine Collagen,48,9,1772,4.7778,7 oz,0,Beauty Supplements
+22,Cocofloss,Cocofloss,9,239,15803,4.318,None,0,Tools
+23,Vital Proteins,Collagen Beauty Glow - Tropical Hibiscus,54,3,2300,5,10.8 oz,0,Beauty Supplements
+24,SEPHORA COLLECTION,Sephora Collection x OLLY: Lustrous Hair,15,14,5669,4.5714,None,0,Beauty Supplements
+25,Nurse Jamie,Uplift Massaging Beauty Roller,69,75,18283,4.2667,None,0,Tools
+26,SEPHORA COLLECTION,Sephora Collection x OLLY: Glowing Skin,15,20,6477,4.45,None,0,Beauty Supplements
+27,Murad,Pure Skin® Clarifying Dietary Supplement,50,498,11165,4.1104,None,0,Beauty Supplements
+28,Murad,Firm and Tone Dietary Supplement Pack,138,75,5627,3.9333,None,0,Cellulite & Stretch Marks
+29,Moon Juice,SuperHair™ Daily Hair Nutrition,60,0,612,0,None,1,Beauty Supplements
+30,WelleCo,The Super Elixir™,135,8,1943,4.5,10.6 oz,0,Beauty Supplements
+31,Vitruvi,Stone Diffuser,119,20,4849,4.35,None,0,Tools
+32,Slip,Beauty Sleep To Go!,119,6,7474,4.1667,None,0,Tools
+33,Crushed Tonic,Anti-Aging Collagen Elixir,105,32,905,4.7188,None,0,Beauty Supplements
+34,Mount Lai,De-Puffing Jade Facial Roller Mini,20,20,0,4.5,None,0,Beauty Supplements
+35,Herbivore,Rose Quartz Facial Roller,40,30,11701,3.1667,None,0,Tools
+36,HUM Nutrition,Red Carpet Skin and Hair Health Supplement,25,94,10928,4.1064,None,0,Beauty Supplements
+37,KORA Organics,Rose Quartz Heart Facial Gua Sha,58,15,4614,3.9333,None,1,Tools
+38,HUM Nutrition,Beauty zzZz Sleep Support Supplement,10,117,8680,4.0598,None,0,Beauty Supplements
+39,WelleCo,The Super Elixir™ Refill,80,4,662,4.75,10.6 oz,0,Beauty Supplements
+40,HUM Nutrition,OMG! Omega The Great Fish Oil Supplement,30,55,7674,4.3636,None,0,Beauty Supplements
+41,Perricone MD,Skin & Total Body Dietary Supplements,155,77,3335,4.5325,None,0,Beauty Supplements
+42,Moon Juice,Sex Dust®,38,49,4625,3.8571,1.5 oz,0,Beauty Supplements
+43,Herbivore,Coconut Milk Bath Soak,18,33,6629,4.0606,8 oz,0,Holistic Wellness
+44,HUM Nutrition,Uber Energy Adrenal Fatigue and Adaptogen Supplement,25,49,7316,3.9184,None,0,Beauty Supplements
+45,HUM Nutrition,Wing Man Liver Detox and Dark Circle Supplement,25,42,9667,3.7143,None,0,Holistic Wellness
+46,8Greens,8G Dietary Supplement,14,15,1137,5,None,0,Beauty Supplements
+47,SEPHORA COLLECTION,Sephora Collection x OLLY: Skin Detox,15,14,3649,3.6429,None,0,Beauty Supplements
+48,The Beauty Chef,HYDRATION Inner Beauty Boost,50,58,2812,4.7241,16.9 oz,0,Beauty Supplements
+49,Slip,Pure Silk Sleepmask Zodiac Edition,50,16,7285,4.5,None,0,Tools
+50,HUM Nutrition,Raw Beauty Skin & Energy Superfood Powder - Mint Chocolate,39,218,8967,4.1422,8.5 oz,0,Beauty Supplements
+51,The Beauty Chef,ANTIOXIDANT Inner Beauty Boost,50,40,2347,4.875,16.9 oz,0,Beauty Supplements
+52,SEPHORA COLLECTION,Sephora Collection x OLLY: Radiant Sleep,15,11,3179,4.2727,None,0,Beauty Supplements
+53,Vital Proteins,Collagen Creamer,29,28,2296,3.9643,10.2 oz,0,Beauty Supplements
+54,HUM Nutrition,"Runway Ready Skin, Hair & Nail Repair Kit",35,79,9513,4.3671,None,0,Beauty Supplements
+55,Vitruvi,Quiet Time Diffuser Set,135,5,187,5,None,0,Tools
+56,Herbivore,Rose Quartz Gua Sha,18,11,3177,3.7273,None,1,Tools
+57,Vital Proteins,Matcha Collagen,49,10,1803,4.9,12 oz,0,Beauty Supplements
+58,HUM Nutrition,Moody Bird™ PMS Support Supplement,25,42,6342,4.4048,None,0,Beauty Supplements
+59,HUM Nutrition,Cleanse to the Rescue 21 Day Detox Kit,42,53,9266,3.717,None,0,Beauty Supplements
+60,REN Clean Skincare,And Now to Sleep Pillow Spray,25,70,6661,4.3286,2.5 oz,1,Holistic Wellness
+61,Golde,Matcha Golde,29,4,244,5,4.2 oz,0,Beauty Supplements
+62,Perricone MD,Super Greens Dietary Supplement,80,30,3706,4.5,5.8 oz,0,Beauty Supplements
+63,Moon Juice,Beauty Dust®,38,74,9123,4.2432,1.5 oz,0,Beauty Supplements
+64,WelleCo,The Nourishing Protein,70,3,694,4.6667,10.5 oz,0,Beauty Supplements
+65,HUM Nutrition,Raw Beauty Skin & Energy Superfood Powder - Vanilla Berry,39,55,5536,4.2364,8.5 oz,0,Beauty Supplements
+66,Kopari,Coconut Toothpaste,12,11,2390,4.2727,3.4 oz,1,Holistic Wellness
+67,Moon Juice,Full Moon Dust® Box,35,70,8180,3.8429,15.6 oz,0,Beauty Supplements
+68,HUM Nutrition,Here Comes The Sun Vitamin D Supplement,20,28,6643,4.5357,None,0,Beauty Supplements
+69,Moon Juice,Brain Dust®,38,37,4182,4.3243,1.5 oz,0,Beauty Supplements
+70,Moon Juice,Beauty Shroom™ Vegan Collagen Protection,58,7,2476,3.8571,8.5 oz,0,Beauty Supplements
+71,HUM Nutrition,Killer Nails™ Supplements,20,45,6316,4.4222,None,0,Beauty Supplements
+72,HUM Nutrition,Collagen POP + Vitamin C Dissolvable Tablets,12,106,4663,3.3491,None,0,Beauty Supplements
+73,KORA Organics,Noni Glow Skinfood Dietary Supplement Powder,55,62,4903,3.629,None,0,Beauty Supplements
+74,Kopari,Coconut Oil Pullers,28,14,3883,3.7857,4.62 oz,1,Holistic Wellness
+75,Perricone MD,Health & Weight Management Dietary Supplements,210,29,1481,4.3103,None,0,Beauty Supplements
+76,Golde,Cacao Golde,29,4,238,5,4.2 oz,0,Beauty Supplements
+77,Golde,Original Golde,29,6,374,5,4.2 oz,0,Beauty Supplements
+78,Ouai,Hair Supplement for Dry Hair,28,6,1269,3.6667,None,0,Beauty Supplements
+79,Moon Juice,Blue Beauty Adaptogenic Protein,50,44,2634,4.7727,16 oz,0,Beauty Supplements
+80,Perricone MD,The Essential Multivitamin+,50,7,892,4.2857,None,0,Beauty Supplements
+81,HUM Nutrition,Turn Back Time Turmeric Supplement,40,16,4500,4.1875,None,0,Beauty Supplements
+82,Moon Juice,Ashwagandha,38,0,414,0,3.5 oz,1,Beauty Supplements
+83,Perricone MD,Metabolism Booster,55,8,1585,3.5,None,0,Beauty Supplements
+84,Perricone MD,Skin Clear Dietary Supplements,95,81,2858,3.9136,None,0,Beauty Supplements
+85,Moon Juice,Cosmic Cocoa,30,2,1062,5,5 oz,1,Beauty Supplements
+86,Nurse Jamie,Uplift Body Sonic Massaging Beauty Roller,159,0,671,0,None,0,Tools
+87,HUM Nutrition,Flawless + Fearless Breakout Control Kit,29,19,5990,3.6842,None,0,Beauty Supplements
+88,Moon Juice,Dream Dust®,38,18,2166,4.1111,1.5 oz,0,Beauty Supplements
+89,Four Sigmatic,Mushroom Sampler Mix,20,40,1999,4.625,None,0,Beauty Supplements
+90,HUM Nutrition,Arctic Repair Fine Lines and Wrinkles Supplement,60,13,2956,4.1538,None,0,Beauty Supplements
+91,Vitruvi,Organic Lavender Oil,18,5,1139,5,0.3 oz,0,Holistic Wellness
+92,Nurse Jamie,Eyeonix Eye Massaging Beauty Tool,49,12,2977,3.75,None,0,Tools
+93,Perricone MD,Omega 3 Dietary Supplement,42,73,2061,4.6164,None,0,Beauty Supplements
+94,HUM Nutrition,Raw Beauty Skin & Energy Superfood Powder - Tropical,39,15,1877,4.1333,8.5 oz,0,Beauty Supplements
+95,Four Sigmatic,Mushroom Coffee Mix with Lion's Mane & Chaga,15,65,2052,4.8769,9 oz,0,Beauty Supplements
+96,Moon Juice,Cosmic Matcha™,40,1,483,5,3.5 oz,1,Beauty Supplements
+97,HUM Nutrition,Raw Beauty To-Go Superfood Powder - Mint Chocolate,25,39,3660,4.1282,4.2 oz,0,Beauty Supplements
+98,WelleCo,Nourishing Plant Protein,35,1,0,5,10.5 oz,0,Beauty Supplements
+99,Nurse Jamie,NuVibe RX Amethyst Massaging Beauty Tool,95,4,1716,4.5,None,0,Tools
+100,Herbivore,Detox Soaking Salts,18,6,3017,3.1667,8 oz,0,Holistic Wellness
+101,Moon Juice,Pearl,48,0,245,0,2.1 oz,1,Beauty Supplements
+102,Caudalie,Vinexpert Dietary Supplements,18,12,3635,4.1667,None,0,Beauty Supplements
+103,Vitruvi,Frankincense Essential Oil,18,2,539,5,0.3 oz,0,Holistic Wellness
+104,Vitruvi,Organic Eucalyptus Essential Oil,13,4,748,4.75,0.3 oz,0,Holistic Wellness
+105,Four Sigmatic,Mushroom Hot Cacao Mix with Reishi,20,61,4068,4,2 oz,0,Beauty Supplements
+106,The Beauty Chef,SLEEP Inner Beauty Powder,60,47,1658,4.5745,3.5 oz,0,Beauty Supplements
+107,Murad,Beauty RESTore Sleep Oral Spray,25,21,976,4,1 oz,0,Holistic Wellness
+108,Perricone MD,Sleep Booster,35,6,914,4.3333,None,0,Beauty Supplements
+109,Four Sigmatic,Mushroom Matcha Drink Mix with Lion's Mane & Ginger,33,36,2310,4.8056,2.12 oz,0,Beauty Supplements
+110,Moon Juice,Spirit Dust®,38,18,2606,4.7778,1.5 oz,0,Beauty Supplements
+112,WelleCo,The Super Elixir™ Travel Set,30,2,296,3,None,0,Beauty Supplements
+113,WelleCo,Sleep Welle Fortified Calming Tea,69,1,495,5,None,0,Beauty Supplements
+114,Vitruvi,Pink Grapefruit Essential Oil,13,5,866,5,0.3 oz,0,Holistic Wellness
+115,Perricone MD,Skin Booster,55,10,3129,4.8,None,0,Beauty Supplements
+116,Vitruvi,Sleep Face & Body Mist,24,1,549,5,1 oz,0,Holistic Wellness
+117,Vital Proteins,Collagen Beauty Glow - Lavender Lemon,54,3,450,3.6667,10 oz,0,Beauty Supplements
+118,Moon Juice,Night Beauty,65,4,978,2.75,3 oz,0,Beauty Supplements
+119,bkr,Spiked Prenup Glass Water Bottle,45,7,2161,3.8571,16 oz,0,Holistic Wellness
+120,Vitruvi,Organic Sweet Orange Essential Oil,13,6,621,4.3333,0.3 oz,0,Holistic Wellness
+121,Vitruvi,Organic Peppermint Essential Oil,15,2,588,5,0.3 oz,0,Holistic Wellness
+122,Vital Proteins,Collagen Beauty Glow - Strawberry Lemon,54,1,317,1,10 oz,0,Beauty Supplements
+123,Dr. Brandt Skincare,Antioxidant Water Booster Triple Power Ingestible Water Supplement,39,813,2828,3.9496,2 oz,0,Beauty Supplements
+124,WelleCo,Sleep Welle Fortified Calming Tea Refill,37,2,381,5,None,0,Beauty Supplements
+125,Four Sigmatic,Mushroom Mocha Mix with Chaga & Cacao,20,29,1108,4.8621,1.8 oz,0,Beauty Supplements
+126,Vital Proteins,Beauty Collagen - Tropical Hibiscus,32,1,495,3,11.5 oz,0,Beauty Supplements
+127,Moon Juice,Power Dust®,38,9,2067,4.5556,1.5 oz,0,Beauty Supplements
+128,Four Sigmatic,Mushroom Lemonade Mix with Charcoal & Chaga,30,7,632,4.2857,3.53 oz,0,Beauty Supplements
+129,Vitruvi,Geranium Essential Oil,18,1,406,4,0.3 oz,0,Holistic Wellness
+130,Four Sigmatic,Mushroom Matcha Latte Mix with Maitake,20,24,1066,4.375,2.1 oz,0,Beauty Supplements
+131,Ouai,Hair Supplement for Oily Scalp,28,9,1163,3.1111,None,0,Beauty Supplements
+132,Vital Proteins,Beauty Collagen – Strawberry Lemon,34,12,1379,2.25,7.84 oz,0,Beauty Supplements
+133,Vital Proteins,Collagen Beauty Greens,49,4,1103,4.5,10.37 oz,0,Beauty Supplements
+134,WelleCo,Mini Caddy Trio,140,1,254,5,None,0,Beauty Supplements
+135,Moon Juice,Beauty Dust Box,35,6,0,4.6667,None,0,Beauty Supplements
+136,Ouai,Hair Supplement for Thinning Hair,28,121,9032,3.9091,None,0,Beauty Supplements
+137,Four Sigmatic,Golden Latte Mushroom Mix with Shiitake & Turmeric,20,117,1180,2.9231,2.1 oz,0,Beauty Supplements
+138,Four Sigmatic,Chai Latte Mushroom Mix with Turkey Tail & Reishi,20,12,610,3.8333,2.1 oz,0,Beauty Supplements
+139,bkr,Spiked Lala Glass Water Bottle,58,14,1655,4.5714,32 oz,0,Holistic Wellness
+140,Vital Proteins,Beauty Collagen - Lavender Lemon,32,7,739,3.2857,10.8 oz,0,Beauty Supplements
+141,SEPHORA COLLECTION,Sephora Collection x OLLY: Radiant Sleep Travel Size,7,0,40,0,None,0,Beauty Supplements
+142,Murad,Hydro-Glow Dietary Supplements,54,1,736,5,None,0,Beauty Supplements
+143,WelleCo,The Nourishing Protein Travel Set,39,1,150,5,8.12 oz,0,Beauty Supplements
+144,Perricone MD,Travel Booster,25,1,1213,5,None,0,Beauty Supplements
+145,Murad,Youth Builder® Dietary Supplement,59,3,1028,5,None,0,Beauty Supplements
+146,HUM Nutrition,Big Chill™ Stress Management Supplement,25,51,9810,4.549,None,0,Beauty Supplements
+147,SEPHORA COLLECTION,Rose quartz facial massager,20,35,6528,3.6857,None,0,Tools
+148,Perricone MD,Digestion Booster,50,1,569,3,None,0,Beauty Supplements
+149,Vital Proteins,Bone Broth Collagen,65,1,373,5,10 oz,0,Beauty Supplements
+150,Indie Lee,I-Recover Mind & Body Gel,48,0,39,0,1.4 oz,1,Holistic Wellness
+151,SEPHORA COLLECTION,Sephora Collection x OLLY: Skin Detox Travel Size,7,0,36,0,None,0,Beauty Supplements
+152,Vitruvi,Sleep Duo Essential Oil Set,50,0,6,0,None,0,Holistic Wellness
