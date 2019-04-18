@@ -1,0 +1,578 @@
+,brand,name,price,n_of_reviews,n_of_loves,review_score,size,clean_product,category
+0,Clarins,Double Serum Complete Age Control Concentrate,89,391,16293,4.0997,1 oz,0,Face Serums
+1,Drunk Elephant,C-Firma Vitamin C Day Serum,80,1000,135964,4.1097,1 oz,1,Face Serums
+2,Drunk Elephant,TLC Sukari Babyfacial Mask,80,1000,178783,4.4283,1.69 oz,1,Face Masks
+3,Drunk Elephant,T.L.C. Framboos™ Glycolic Night Serum,90,1000,144421,4.2968,1 oz,1,Face Serums
+4,SUNDAY RILEY,Good Genes All-In-One Lactic Acid Treatment,158,2000,154923,4.3046,1.7 oz,0,Face Serums
+5,SK-II,Facial Treatment Essence,179,788,68880,4.0622,None,0,Mists & Essences
+6,Estée Lauder,Advanced Night Repair Synchronized Recovery Complex II Duo,168,11,12952,5,None,0,Face Serums
+7,OLEHENRIKSEN,Truth Serum®,49,4000,171521,4.2454,1 oz,0,Face Serums
+8,The Ordinary,AHA 30% + BHA 2% Peeling Solution,7.2,210,38876,4.8,1 oz,0,Facial Peels
+9,The Ordinary,"""Buffet""",14.8,468,78360,4.1581,1 oz,0,Face Serums
+10,The Ordinary,Niacinamide 10% + Zinc 1%,5.9,634,83066,4.2429,1 oz,0,Face Serums
+11,Drunk Elephant,A-Passioni™ Retinol Cream,74,467,54090,4.3276,1 oz,1,Face Serums
+12,Peace Out,Microneedling Dark Spot Brightening Dots,28,213,26012,3.9484,None,0,Face Serums
+13,Dr. Dennis Gross Skincare,Alpha Beta® Extra Strength Daily Peel,88,2000,92304,4.5534,None,0,Facial Peels
+14,Glow Recipe,Pineapple-C Brightening Serum,49,357,12791,4.5238,1 oz,1,Face Serums
+15,The Ordinary,Hyaluronic Acid 2% + B5,6.8,501,84567,4.1896,1 oz,0,Face Serums
+16,Drunk Elephant,B-Hydra™ Intensive Hydration Serum,52,1000,75143,4.1762,1.69 oz,1,Face Serums
+17,The Ordinary,Caffeine Solution 5% + EGCG,6.7,401,57034,3.9925,1 oz,0,Face Serums
+18,La Mer,The Concentrate,370,61,15710,3.9344,1 oz,0,Moisturizer & Treatments
+19,Tatcha,Violet-C Brightening Serum 20% Vitamin C + 10% AHA,88,1000,44326,4.5497,1 oz,1,Face Serums
+20,The Ordinary,The No-Brainer Set,29,52,25917,4.5769,None,0,Face Serums
+21,Kiehl's Since 1851,Clearly Corrective™ Dark Spot Solution,52,174,27192,3.6839,1 oz,0,Moisturizer & Treatments
+22,Peace Out,Acne Healing Dots,19,1000,61219,4.2638,None,0,Blemish & Acne Treatments
+23,Estée Lauder,Advanced Night Repair Synchronized Recovery Complex II,98,540,72661,4.3463,1.7 oz,0,Night Creams
+24,La Mer,The Treatment Lotion,150,77,16514,4.3247,5 oz,0,Face Serums
+25,Drunk Elephant,Rise + Glow™ Duo,23,560,127519,4.1036,None,0,Skincare
+26,Drunk Elephant,NightBright™ Duo,28,619,124048,4.2084,None,1,Night Creams
+27,GLAMGLOW,SUPERMUD® Activated Charcoal Treatment Mask,59,5000,235409,4.2189,1.7 oz,0,Face Masks
+28,The Ordinary,Granactive Retinoid* 2% Emulsion,9.8,303,69956,4.6403,1 oz,0,Face Serums
+29,Volition Beauty,Strawberry-C Brightening Serum,42,81,14810,4.3951,1.0 oz,1,Face Serums
+30,SUNDAY RILEY,A+ High-Dose Retinol Serum,85,92,19917,4.4239,1 oz,0,Face Serums
+31,Lancôme,Advanced Génifique Youth Activating Serum,105,1000,41278,4.4907,1.69 oz,0,Face Serums
+32,Dr. Jart+,Cicapair ™ Tiger Grass Color Correcting Treatment SPF 30,52,1000,68346,4.2025,1.7 oz,0,Face Serums
+33,SUNDAY RILEY,Luna Retinol Sleeping Night Oil,105,1000,112116,4.1146,1.18 oz,0,Face Oils
+34,Kiehl's Since 1851,Midnight Recovery Concentrate,49,566,66439,4.3233,1 oz,0,Face Serums
+35,Caudalie,Vinoperfect Radiance Serum,79,2000,59511,4.2488,1 oz,1,Face Serums
+36,Dr. Dennis Gross Skincare,Alpha Beta® Universal Daily Peel,88,943,44769,4.5016,None,0,Facial Peels
+37,FARSÁLI,Skintune Blur Perfecting Primer Serum,54,336,51705,3.878,1 oz,0,Face Primer
+38,The Ordinary,Salicylic Acid 2% Solution,5.3,358,62632,4.3184,1 oz,0,Face Serums
+39,The Ordinary,Lactic Acid 10% + HA 2%,6.8,185,57991,4.6,1 oz,0,Face Serums
+40,The Ordinary,Natural Moisturizing Factors + HA,5.8,276,36155,4.1594,1 oz,0,Face Serums
+41,Drunk Elephant,D-Bronzi Anti-Pollution Bronzing Drops,36,679,45884,4.4698,1 oz,1,Face Serums
+42,Shiseido,Ultimune Power Infusing Serum Concentrate,100,346,11292,4.1705,1.6 oz,0,Face Serums
+43,The Ordinary,Alpha Arbutin 2% + HA,8.9,98,30605,4.0816,1 oz,0,Face Serums
+44,The Ordinary,Azelaic Acid Suspension 10%,7.9,181,29007,4.1547,1 oz,0,Face Serums
+45,First Aid Beauty,Facial Radiance Pads,32,1000,71226,4.2845,None,0,Facial Peels
+46,CLINIQUE,Acne Solutions Clear Skin System Starter Kit ,28,1000,35986,3.9879,None,0,Value & Gift Sets
+47,Dr. Jart+,Focuspot™ Micro Tip Patches,18,71,13463,3.7746,None,0,Face Serums
+48,SUNDAY RILEY,C.E.O. 15% Vitamin C Brightening Serum,85,440,27787,3.9182,1 oz,0,Face Serums
+49,Murad,Rapid Age Spot and Pigment Lightening Serum ,72,1000,38729,3.8161,1 oz,0,Face Serums
+50,Biossance,Squalane + Vitamin C Rose Oil,72,316,38037,4.3956,1 oz,1,Face Oils
+51,SUNDAY RILEY,CAPTAIN MARVEL x GOOD GENES All-In-One Lactic Acid Treatment,158,11,1208,2.9091,1.7 oz,0,Face Serums
+52,The Ordinary,"""Buffet"" + Copper Peptides 1%",28.9,9,6493,4.4444,1 oz,0,Face Serums
+53,SUNDAY RILEY,U.F.O. Ultra-Clarifying Face Oil,80,1000,81319,4.1595,1.18 oz,0,Face Oils
+54,FARSÁLI,Unicorn Essence Antioxidant Primer Serum,54,1000,133987,3.8928,1 oz,0,Face Serums
+55,Algenist,GENIUS Liquid Collagen,115,561,32818,4.0089,1 oz,0,Face Serums
+56,Dr. Dennis Gross Skincare,Clinical Grade Resurfacing Liquid Peel,95,273,6789,4.7546,1 oz,0,Facial Peels
+57,Caudalie,Vinopure Natural Salicylic Acid Pore Minimizing Serum,49,521,34155,4.4242,1 oz,1,None
+58,The Ordinary,100% Plant-Derived Squalane,7.9,15,7298,4.7333,1 oz,0,None
+59,Kate Somerville,ExfoliKate® Intensive Exfoliating Treatment,24,2000,54075,4.41,0.5 oz,0,None
+60,Dr. Jart+,Cicapair™ Tiger Grass Re.Pair Serum,46,366,29594,4.2186,1 oz,0,Face Serums
+61,The Ordinary,Vitamin C Suspension 23% + HA Spheres 2%,5.8,265,33372,3.9849,1 oz,0,None
+62,FARSÁLI,Skintune Blur Perfecting Primer Serum Mini,22,2,0,3,0.34 oz,0,None
+63,Caudalie,Vinosource S.O.S Thirst Quenching Serum,49,700,34118,4.4914,1 oz,1,Face Serums
+64,FARSÁLI,Rose Gold Elixir – 24k Gold Infused Beauty Oil,54,1000,114554,3.9263,1 oz,0,Face Oils
+65,Guerlain,Orchidée Impériale The Cream,460,6,1403,5,1.6 oz,0,None
+66,La Mer,The Regenerating Serum,345,23,6243,3.913,1 oz,0,Face Serums
+67,COOLA,Sunless Tan Anti-Aging Face Serum,54,104,10661,4.1827,1.7 oz,1,For Face
+68,Peter Thomas Roth,Potent-C™ Vitamin C Power Serum,95,571,18559,4.2067,1 oz,0,Face Serums
+69,Murad,Retinol Youth Renewal Serum,89,241,9893,4.5519,1 oz,0,Face Serums
+70,Peace Out,Pore Treatment Strips,19,586,22387,4.1672,None,0,Blemish & Acne Treatments
+71,Kate Somerville,EradiKate™ Acne Treatment,26,2000,70140,4.2727,1 oz,0,Blemish & Acne Treatments
+72,The Ordinary,Ascorbic Acid 8% + Alpha Arbutin 2%,10,16,7793,4.5625,1 oz,0,Face Serums
+73,Herbivore,Blue Tansy AHA + BHA Resurfacing Clarity Mask,48,1000,68037,4.4648,2 oz,1,Face Masks
+74,Caudalie,Vinoperfect Glycolic Brightening Essence,49,305,34715,4.377,5 oz,1,Face Serums
+75,The Ordinary,Matrixyl* 10% + HA,11.5,97,26457,4.2062,1 oz,0,Face Serums
+76,AMOREPACIFIC,Treatment Enzyme Peel Cleansing Powder,60,1000,41622,4.6471,1.76 oz,0,Facial Peels
+77,Dior,Capture Youth Serum Collection,95,73,19927,4.274,1 oz,0,Face Serums
+78,Peter Thomas Roth,Professional 3% Retinoid Plus,82,174,21506,4.6034,1 oz,0,Face Serums
+79,CLINIQUE,Acne Solutions Clinical Clearing Gel,27,748,39082,4.2139,1 oz,0,Blemish & Acne Treatments
+80,First Aid Beauty,Ultra Repair® Hydrating Serum,38,523,33249,4.2294,1.7 oz,0,Face Serums
+81,BIOEFFECT,EGF Serum,160,541,3059,4.4713,None,0,Face Serums
+82,Kiehl's Since 1851,Powerful-Strength Line-Reducing Concentrate 12.5% Vitamin C,65,172,20600,3.75,1.7 oz,0,Face Serums
+83,BECCA,Backlight Priming Filter Face Primer,39,1000,73423,4.2496,1 oz,0,Face Primer
+84,Peter Thomas Roth,FIRMx™ Peeling Gel,48,1000,34778,4.5573,3.4 oz,0,Facial Peels
+85,La Mer,The Treatment Lotion Mini,95,0,0,0,None,0,Face Serums
+86,SUNDAY RILEY,Juno Antioxidant + Superfood Face Oil,72,378,43924,4.4127,1.18 oz,0,Face Oils
+87,Biossance,Squalane + Phyto-Retinol Serum,78,126,12596,3.873,1 oz,1,Face Serums
+88,OLEHENRIKSEN,Invigorating Night Transformation™ Gel,49,1000,44769,4.2931,1.7 oz,0,Night Creams
+89,Peter Thomas Roth,Max Complexion Correction Pads,40,1000,41424,4.4318,None,0,Facial Peels
+90,HUM Nutrition,Daily Cleanse Clear Skin and Body Detox Supplement,25,331,30822,4.0121,None,0,Beauty Supplements
+91,SK-II,R.N.A. POWER Anti-Aging Essence Serum,195,59,3416,4.3729,1.6 oz,0,Face Serums
+92,Peter Thomas Roth,Peptide 21™ Wrinkle Resist Serum,110,394,1340,4.5787,1 oz,0,Face Serums
+93,The Ordinary,Granactive Retinoid 2% in Squalane,9.6,2,2540,5,1 oz,0,Face Serums
+94,The Ordinary,Vitamin C Suspension 30% in Silicone,6.8,89,20744,4.1685,1 oz,0,Face Serums
+95,OLEHENRIKSEN,Power Peel™ Transforming Facial System,50,973,31696,4.5961,None,0,Facial Peels
+96,The Ordinary,Resveratrol 3% + Ferulic Acid 3%,7.9,7,6495,4.7143,1 oz,0,Face Serums
+97,Fresh,Umbrian Clay Pore Purifying Face Mask,58,708,68288,4.4364,None,0,Face Masks
+98,Origins,Super Spot Remover™ Acne Treatment Gel,18,1000,65859,4.0227,0.3 oz,1,Face Serums
+99,Kate Somerville,EradiKate® Daily Cleanser Acne Treatment,38,394,23424,4.2614,4 oz,0,Blemish & Acne Treatments
+100,Murad,Invisiblur™ Perfecting Shield Broad Spectrum SPF 30 PA+++,65,642,26809,3.9502,1 oz,0,Face Serums
+101,Dr. Dennis Gross Skincare,Clinical Grade IPL Dark Spot Correcting Serum,92,217,9390,4.129,1 oz,0,Face Serums
+102,tarte,Youth or Dare Multi-Acid & C-Serum,42,7,4078,4.8571,1 oz,0,Face Serums
+103,Murad,Oil-Control Mattifier SPF 15 PA++,40,2000,32886,4.1703,1.7 oz,0,Moisturizers
+104,Flora + Bast,Age Adapting CBD Serum,77,17,3354,4.9412,1 oz,1,Face Serums
+105,Peace Out,Peace Out Emergency Pack,24,14,7154,4.5714,None,0,Blemish & Acne Treatments
+106,BECCA,Ever-Matte Poreless Priming Perfector ,39,2000,55599,3.5915,1.35 oz,0,Face Primer
+107,Perricone MD,Cold Plasma+ Face,149,1000,3193,4.0995,1 oz,0,Face Masks
+108,COVER FX,Mattifying Primer With Anti-Acne Treatment,38,1000,47500,3.5567,None,1,Face Primer
+109,The Ordinary,Ascorbyl Glucoside Solution 12%,12.9,3,3220,5,1 oz,0,Facial Peels
+110,Dr. Jart+,Focuspot™ Dark Spot Micro Tip Patch,18,38,0,3.9474,None,0,Face Serums
+111,Murad,Clarifying Body Spray,40,485,10719,4.301,4.3 oz,0,Blemish & Acne Treatments
+112,Dr. Jart+,Focuspot™ Blemish Micro Tip Patch,18,36,0,4.2778,None,0,Blemish & Acne Treatments
+113,Dr. Dennis Gross Skincare,C+ Collagen Brighten & Firm Vitamin C Serum,78,108,14207,3.9074,1 oz,0,Face Serums
+114,GLAMGLOW,FLASHMUD™ Brightening Treatment Mask,59,607,60074,4.1021,1.7 oz,0,Face Masks
+115,The Ordinary,Ascorbyl Tetraisopalmitate Solution 20% in Vitamin F,17.8,49,25663,4.1837,1 oz,0,Face Serums
+116,SEPHORA COLLECTION,Glow Peel Pads,15,13,6413,3.9231,None,1,Facial Peels
+117,GLAMGLOW,GRAVITYMUD™ Firming Treatment Mask,59,738,72776,3.9485,1.7 oz,0,Face Masks
+118,The Ordinary,Alpha Lipoic Acid 5%,6.8,6,4006,5,1 oz,0,Face Serums
+119,SEPHORA COLLECTION,Ultra Glow Serum: Glow + Strengthen Vitamin C Serum,20,13,3570,4.3846,1 oz,1,Face Serums
+120,Perricone MD,PRE:EMPT SERIES™ Skin Perfecting Serum,90,58,7044,4.2759,1 oz,0,Anti-Aging
+121,Algenist,ELEVATE Advanced Retinol Serum,98,16,2173,4.9375,1 oz,0,Face Serums
+122,Dr. Jart+,Cicapair™ Tiger Grass Camo Drops,46,230,17554,4.0217,1 oz,0,Face Primer
+123,Peter Thomas Roth,Therapeutic Sulfur Mask Acne Treatment Mask,47,1000,44281,4.5546,5 oz,0,Blemish & Acne Treatments
+124,Murad,Clarifying Cleanser,30,2000,36126,4.2674,6.75 oz,0,Face Wash & Cleansers
+125,CLINIQUE,Clinique iD™:  Moisturizer + Concentrate for Pores & Uneven Texture,39,7,0,4.5714,4.2 oz,0,Moisturizers
+126,CLINIQUE,Clinique Smart Custom-Repair Serum,60,371,16016,4.0512,1 oz,0,Face Serums
+127,MILK MAKEUP,Watermelon Brightening Serum,36,172,23058,4.0116,1.2 oz,0,Face Serums
+128,Dr. Dennis Gross Skincare,Ferulic Acid + Retinol Brightening Solution,88,278,25129,4.1187,1 oz,0,Face Serums
+129,Biossance,Squalane + Glycolic Renewal Facial,68,65,14325,4.8308,2.02 oz,1,Face Masks
+130,CLINIQUE,Acne Solutions Cleansing Foam,21,925,25738,4.1784,4.2 oz,0,Blemish & Acne Treatments
+131,Clarisonic,Mia Smart Deluxe Acne Kit,199,0,211,0,None,0,Blemish & Acne Treatments
+132,CLINIQUE,Blackhead Solutions Self-heating Blackhead Extractor,29,76,18725,3.3289,0.68 oz,0,Face Wash & Cleansers
+133,OLEHENRIKSEN,Glow Cycle Retin-ALT Power Serum,58,1000,24627,4.3839,1 oz,0,Face Serums
+134,tarte,Rainforest of the Sea™ Deep Sea Collagen Super Serum,39,44,9111,4.6136,0.94 oz,0,Face Serums
+135,Perricone MD,No Makeup Foundation Serum Broad Spectrum SPF 25,60,1000,27293,4.29,1 oz,0,Face Primer
+136,Peter Thomas Roth,Water Drench Hyaluronic Cloud Serum,65,381,15439,4.21,1 oz,0,Face Serums
+137,Caudalie,Vinopure Natural Salicylic Acid Pore Minimizing Toner,28,113,15427,3.9115,6.7 oz,1,Blemish & Acne Treatments
+138,Murad,Time Release Acne Cleanser,39,770,24966,4.3636,6.75 oz,0,Face Wash & Cleansers
+139,The Ordinary,"""B"" Oil",9.2,14,5773,4.2143,1 oz,0,Face Oils
+140,Caudalie,Vine[Activ] Vitamin C Anti-Wrinkle Serum,52,150,12204,4.0267,1 oz,1,Face Serums
+141,Peter Thomas Roth,Retinol Fusion PM,65,509,18636,4.3458,1 oz,0,Face Serums
+142,Neogen Dermalogy,Bio-Peel Gauze Peeling - Lemon,27,553,31856,4.6058,None,0,Facial Peels
+143,tarte,Mermaid Skin™ Hyaluronic H2O Serum,42,213,14749,3.9859,1.7 oz,0,Face Serums
+144,GLAMGLOW,YOUTHMUD™ Tinglexfoliate Treatment Mask,59,2000,77093,4.0934,1.7 oz,0,Face Masks
+145,Dr. Brandt Skincare,needles no more™,89,435,12064,3.4391,0.5 oz,0,Anti-Aging
+146,IT Cosmetics,Bye Bye Breakout™ Full-Coverage Concealer,28,340,34016,3.9,0.35 oz,0,Blemish & Acne Treatments
+147,Murad,Skin Perfecting Lotion - Blemish Prone/Oily Skin,40,883,27620,4.2854,1.7 oz,0,Blemish & Acne Treatments
+148,Kate Somerville,Wrinkle Warrior™ 2-in-1 Plumping Moisturizer + Serum,95,253,12668,3.7984,1.7 oz,0,Anti-Aging
+149,Dr. Dennis Gross Skincare,Alpha Beta® Clinic-At-Home Kit Extra Strength,88,23,5310,4.7826,None,0,Facial Peels
+150,Dior,Capture Totale Dreamskin Advanced Refill,128,11,3380,4.9091,1.7 oz,0,Face Serums
+151,bareMinerals,SKINLONGEVITY™ Vital Power Infusion Serum,58,242,13028,4.4132,1.7 oz,0,Face Serums
+152,Kate Somerville,D-Scar™ Scar Diminishing Serum,48,368,25786,4.144,0.66 oz,0,Face Serums
+153,Dr. Dennis Gross Skincare,Alpha Beta® Ultra Gentle Daily Peel for Sensitive Skin,88,151,9535,4.3775,None,0,Facial Peels
+154,Supergoop!,City Sunscreen Serum SPF 30,42,265,8879,4.0868,2 oz,1,Face Sunscreen
+155,Fresh,Rose Deep Hydration Face Serum,48,114,15860,4.2368,1 oz,0,Face Serums
+156,Murad,Rapid Relief Acne Spot Treatment,22,240,13635,4.0375,0.5 oz,0,Blemish & Acne Treatments
+157,philosophy,The Microdelivery Resurfacing Peel,72,1000,32049,4.6988,None,0,Facial Peels
+158,Kate Somerville,Anti Bac Clearing Lotion,42,490,19184,4.4367,1.7 oz,0,Face Serums
+159,Tatcha,Luminous Deep Hydration Firming Serum,95,94,14575,3.7872,1 oz,1,Face Serums
+160,Kiehl's Since 1851,Daily Reviving Concentrate,47,88,18345,4.625,1 oz,0,Face Serums
+161,Volition Beauty,Snow Mushroom Water Serum,62,219,10486,4.484,1 oz,1,Face Serums
+162,Peter Thomas Roth,PROfessional Strength 40% Triple Acid Peel,88,246,12813,4.0041,None,0,Facial Peels
+163,Murad,Acne Body Wash,43,327,14397,4.1346,8.5 oz,0,Blemish & Acne Treatments
+164,Peter Thomas Roth,Peptide 21™ Amino Acid Exfoliating Peel Pads,52,351,1300,4.6923,None,0,Facial Peels
+165,Dr. Dennis Gross Skincare,Ferulic + Retinol Wrinkle Recovery Overnight Serum,88,78,10538,4.2564,1 oz,0,Night Creams
+166,Guerlain,Midnight Secret Late Night Recovery Treatment,29.5,27,17527,4.1852,0.5 oz,0,Night Creams
+167,Caudalie,Resveratrol Lift Firming Serum,82,74,9091,4.3108,1 oz,1,Face Serums
+168,Perricone MD,Vitamin C Ester Brightening Serum,69,403,8576,4.4839,1 oz,0,Face Serums
+169,belif,Hungarian Water Essence,42,337,21305,4.2641,2.53 oz,0,Mists & Essences
+170,The Ordinary,Argireline Solution 10%,7.9,8,3742,3.5,1 oz,0,Face Serums
+171,AMOREPACIFIC,Youth Revolution Vitamin C Radiance Concentrator,250,7,618,4.2857,1 oz,0,Face Serums
+172,Volition Beauty,Apple Cider Vinegar Resurfacing Peel Pads,64,48,2734,4.5833,None,1,Facial Peels
+173,IT Cosmetics,Bye Bye Pores Primer™ Oil-Free Poreless Skin-Perfecting Serum Primer,38,177,13571,3.6271,1 oz,0,Blemish & Acne Treatments
+174,Josie Maran,Pure Argan Milk™ Intensive Hydrating Treatment,56,988,32303,4.0445,1 oz,1,Face Serums
+175,Dior,One Essential Skin Boosting Super Serum,100,23,4200,4.7391,1 oz,0,Face Serums
+176,IT Cosmetics,Bye Bye Lines Serum™ Advanced Anti-Aging Wrinkle-Smoothing Miracle Concentrate,58,63,8402,4.0159,1 oz,0,Face Serums
+177,Dermalogica,Ultracalming Serum Concentrate,60,8,1075,4.875,1.3 oz,0,Face Serums
+178,Kiehl's Since 1851,Hydro-Plumping Re-Texturizing Serum Concentrate,59,62,10699,4.3065,1.7 oz,0,Face Serums
+179,FARSÁLI,Volcanic Elixir Polynesian Beauty Oil,39,627,21962,4.4577,1 oz,0,Face Oils
+180,REN Clean Skincare,Keep Young And Beautiful™ Instant Firming Beauty Shot,56,214,12620,4.014,1.02 oz,1,Anti-Aging
+181,SUNDAY RILEY,Saturn Sulfur Acne Treatment Mask,55,346,26857,4.2197,2 oz,0,Blemish & Acne Treatments
+182,Dr. Jart+,Focuspot™ Dark Circle Micro Tip Patch,18,36,0,3.3333,None,0,Blemish & Acne Treatments
+183,LightStim ,Lightstim® for Acne,169,6,2259,4.3333,None,0,Blemish & Acne Treatments
+184,Lancôme,Visionnaire Advanced Skin Corrector Serum,116,138,9847,4.2029,1.7 oz,0,Face Serums
+185,REN Clean Skincare,Evercalm™ Anti-Redness Serum,50,147,10279,3.8231,1.02 oz,1,Face Serums
+186,La Mer,The Perfecting Treatment,245,23,2707,4.6522,1.7 oz,0,ANti-Aging
+187,Naturally Serious,Supercharge Anti-Oxidant Moisture Serum,56,18,1250,4.2778,1 oz,1,Face Serums
+188,CLINIQUE,Acne Solutions Clarifying Lotion,17,891,25815,4.44,6.7 oz,0,Blemish & Acne Treatments
+189,Youth To The People,Superfood Firm and Brighten Vitamin C Serum,62,102,11724,3.9608,1 oz,1,Face Serums
+190,Peter Thomas Roth,Acne-Clear Invisible Dots,30,435,19184,3.5563,None,0,Blemish & Acne Treatments
+191,KORRES,Wild Rose 15% Vitamin C Spotless Serum,75,79,10205,3.8987,1.01 oz,1,Face Serums
+192,Kate Somerville,EradiKate® Salicylic Acid Acne Treatment,58,37,3648,4.3784,1 oz,0,Blemish & Acne Treatments
+193,Jack Black,Protein Booster Skin Serum,62,55,4113,4.6909,2 oz,0,Moisturizer & Treatments
+194,Shiseido,White Lucent MicroTargeting Spot Corrector,135,60,6700,3.3333,1 oz,0,Face Serums
+195,Neogen Dermalogy,Bio-Peel Gauze Peeling - Green Tea,27,201,17139,4.6716,None,0,Facial Peels
+196,First Aid Beauty,FAB Skin Lab Resurfacing Liquid 10% AHA,55,117,16210,4.4786,1 oz,0,Facial Peels
+197,Dior,Capture Youth Plump Filler Age-Delay Plumping Serum,95,8,0,4.5,1 oz,0,Face Serums
+198,Caudalie,Premier Cru Serum,150,78,5565,4.0769,1 oz,1,Anti-Aging
+199,Dr. Jart+,Focuspot™ Line & Wrinkle Micro Tip Patch,18,38,0,3.6579,None,0,Anti-Aging
+200,Murad,Pure Skin® Clarifying Dietary Supplement,50,498,11164,4.1104,None,0,Beauty Supplements
+201,Shiseido,Future Solution LX Intensive Firming Contour Serum,306,4,652,4.25,1.6 oz,0,Face Serums
+202,Kate Somerville,Breakout Fighters,55,14,5132,4.2857,None,0,Value & Gift Sets
+203,NuFACE,Prep-N-Glow™ Cloths,20,135,8898,4.7556,None,0,Facial Peels
+204,Perricone MD,Neuropeptide Smoothing Facial Conformer,495,24,1372,4.25,2 oz,0,Face Serums
+205,Omorovicza,Acid Fix AHA BHA Treatment,125,16,4388,4.9375,1 oz,1,Facial Peels
+206,Murad,Rapid Resurfacing Peel,46,59,8879,4.661,None,0,Facial Peels
+207,Murad,Post-Acne Spot Lightening Gel,67,452,17234,3.7367,1 oz,0,Blemish & Acne Treatments
+208,Naturally Serious,Get Even Cold-Pressed Peel Pads,38,28,2431,4.5357,None,1,Facial Peels
+209,Proactiv,"ProactivMD 3-Piece Kit, 30 Day Introductory Size",35,334,1967,4.2575,None,0,Blemish & Acne Treatments
+210,Estée Lauder,Perfectionist CP+R Wrinkle Lifting/Firming Serum,98,70,11193,4.2714,1.7 oz,0,Face Serums
+211,Dr. Dennis Gross Skincare,Ferulic + Retinol Wrinkle Recovery Peel,88,150,11010,4.38,None,0,Facial Peels
+212,Algenist,POWER Recharging Night Pressed Serum,95,164,7961,4.3841,2 oz,0,Face Serums
+213,The Ordinary,Mandelic Acid 10% + HA,6.7,4,3725,4.5,1 oz,0,Face Serums
+214,Guerlain,Abeille Royale Daily Repair Serum,150,18,4043,3.7222,1 oz,0,Face Serums
+215,Murad,Outsmart Acne Clarifying Treatment,44,161,4040,4.3106,1.7 oz,0,Blemish & Acne Treatments
+216,Estée Lauder,Idealist Pore Minimizing Skin Refinisher,86,67,7929,3.9851,1.7 oz,0,Face Serums
+217,First Aid Beauty,FAB Skin Lab Retinol Serum 0.25% Pure Concentrate,58,64,9955,4.0625,1 oz,0,Face Serums
+218,Alpha-H,Liquid Gold,60,6,1451,4.8333,3.38 oz,0,Face Serums
+219,Private Doctor,Minus Serum,49,115,7861,4.4522,1.3 oz,0,Face Serums
+220,Murad,Advanced Acne & Wrinkle Reducer,54,64,6729,4.0938,1 oz,0,Anti-Aging
+221,Herbivore,Prism Exfoliating Glow Potion,62,190,24378,4.1947,1 oz,1,Facial Peels
+222,Fresh,Black Tea Age-Delay Firming Serum,75,75,9281,3.96,1 oz,0,Face Serums
+223,CLINIQUE,Blackhead Solutions 7 Day Deep Pore Cleanse & Scrub,24,461,8065,4.1866,4.2 oz,0,Blemish & Acne Treatments
+224,CLINIQUE,Repairwear Laser Focus ,50,652,10881,4.1258,1 oz,0,Anti-Aging
+225,REN Clean Skincare,Perfect Canvas Skin Finishing Serum,55,342,9081,4.5322,1.02 oz,1,Face Serums
+226,Tata Harper,Rejuvenating Serum,110,175,5634,3.56,1 oz,1,Face Serums
+227,Dr. Dennis Gross Skincare,Alpha Beta® Clinic-At-Home Kit Universal,88,0,435,0,None,0,Facial Peels
+228,Lancer,Younger® Pure Youth Serum with MIMIXYL™,275,4,1685,5,1 oz,0,Face Serums
+229,Dior,Capture Youth Glow Booster Age-Delay Illuminating Serum,95,12,0,4.9167,1 oz,0,Face Serums
+230,CLINIQUE,Even Better Clinical Dark Spot Corrector & Optimizer,50,50,6077,3.02,1 oz,0,Face Serums
+231,CLINIQUE,Clinique iD™:  Moisturizer + Concentrate for Fatigue,39,2,0,4,4.2 oz,0,Moisturizer & Treatments
+232,Algenist,GENIUS Ultimate Anti-Aging Vitamin C+ Serum,118,210,8048,3.9429,1 oz,0,Anti-Aging
+233,Tata Harper,Retinoic Nutrient Face Oil,48,51,6082,4.3726,0.33 oz,1,Face Oils
+234,The Ordinary,Amino Acids + B5,6.8,7,3204,4.1429,1 oz,0,Face Serums
+235,Dr. Jart+,Peptidin™ Radiance Serum with Energy Peptides,48,152,6783,4.3487,1.35 oz,0,Face Serums
+236,Edible Beauty,No. 3 Exotic Goddess Ageless Serum,57,72,6600,4.6528,1 oz,1,Face Serums
+237,Caudalie,Glycolic Peel,39,128,15780,4.2187,2.5 oz,1,Facial Peels
+238,Tata Harper,Resurfacing Serum,88,115,9982,4.113,1 oz,1,Facial Peels
+239,Murad,Rapid Collagen Infusion,78,93,5450,4.2043,1 oz•,0,Face Serums
+240,Murad,Eye Lift Firming Treatment,70,112,7871,3.9554,1 oz,0,Eye Creams & Treatments
+241,Algenist,POWER Advanced Wrinkle Fighter 360° Eye Serum,70,64,6385,4.0938,0.5 oz,0,Eye Creams & Treatments
+242,Dr. Dennis Gross Skincare,Alpha Beta® Medi–Spa Peel ,64,112,9151,4.4911,None,0,Facial Peels
+243,Kate Somerville,Liquid ExfoliKate® Triple Acid Resurfacing Treatment,58,191,8006,4.4398,4 oz,0,Facial Peels
+244,Mario Badescu,Acne Facial Cleanser,15,28,5357,4.1786,6 oz,0,Blemish & Acne Treatments
+245,First Aid Beauty,Skin Rescue Acne Clearing Pads with White Clay,30,67,4926,4.0896,None,0,Blemish & Acne Treatments
+246,Origins,Plantscription™ Anti-Aging Power Serum,60,53,5117,4,1 oz,1,Face Serums
+247,Mario Badescu,Vitamin C Serum,45,13,3559,4.2308,1 oz,0,Face Serums
+248,Saturday Skin,Bright Potion Probiotic Power Serum,51,7,2311,5,1 oz,0,Face Serums
+249,Murad,Revitalixir™ Recovery Serum,89,263,3947,4.4068,1.35 oz,0,Night Creams
+250,Peter Thomas Roth,Potent-C™ Vitamin C Targeted Spot Brightener,58,291,4467,4.457,0.5 oz,0,Face Serums
+251,boscia,Sake Hydrating and Brightening Serum,50,61,12051,4.4098,1.7 oz,1,Face Serums
+252,CLINIQUE,Clinique iD™:  Moisturizer + Concentrate for Lines & Wrinkles,39,0,0,0,4.2 oz,0,Moisturizer & Treatments
+253,KORRES,"Black Pine 3D Sculpting, Firming & Lifting Face Serum",75,27,3135,4.3333,1.01 oz,1,Face Serums
+254,Obagi Clinical,Vitamin C+ Arbutin Brightening Serum,90,104,2255,4.3846,1 oz,0,Face Serums
+255,Lancer,The Method: Polish Blemish Control,75,24,5059,4.7917,4.2 oz,0,Exfoliators
+256,L'Occitane,Immortelle Reset Overnight Reset Oil-In Serum,59,3,575,5,1 oz,0,Night Creams
+257,The Ordinary,EUK 134 0.1%,8.8,3,2415,4.3333,1 oz,0,Face Serums
+258,CLINIQUE,Fresh Pressed Clinical™ Daily + Overnight Boosters with Pure Vitamin C 10% + A (Retinol),39.5,9,1627,3.8889,None,0,Night Creams
+259,La Mer,The Revitalizing Hydrating Serum,205,14,4458,4.2143,1 oz,0,Face Serums
+260,REN Clean Skincare,Bio Retinoid Anti-Wrinkle Concentrate Oil,69,106,8888,4.1604,1.02 oz,1,Face Oils
+261,Murad,Clarifying Toner,25,775,15987,4.3626,6 oz,0,Toners
+262,Kate Somerville,Age Arrest Anti-Wrinkle Cream,90,68,3293,4.0588,1.7 oz,0,Anti-Aging
+263,Skin Inc Supplement Bar,My Daily Dose Custom-Blended Serum Set,84,121,6219,4.2562,None,0,Face Serums
+264,Peter Thomas Roth,Acne Clearing Wash,38,90,6791,4.2,8.5 oz,0,Blemish & Acne Treatments
+265,Origins,Dr. Andrew Weil For Origins™ Mega-Mushroom Relief & Resilience Advanced Face Serum,56,64,3771,4.1406,1 oz,1,Face Serums
+266,Lancer,Caviar Lime Acid Peel,90,338,3654,4.7041,1.7 oz,0,Facial Peels
+267,Moon Juice,Beauty Shroom™ Plumping Jelly Serum,58,99,7329,4.3434,1 oz,0,Face Serums
+268,Perricone MD,High Potency Classics: Hyaluronic Intensive Moisturizer,69,265,4266,4.4604,1 oz,0,Moisturizer & Treatments
+269,HUM Nutrition,OMG! Omega The Great Fish Oil Supplement,30,55,7671,4.3636,None,0,Beauty Supplements
+270,Caudalie,Vinopure Natural Oil Control Moisturizer,39,37,4810,3.8108,1.3 oz,1,Moisturizers
+271,Proactiv,Pore Targeting Treatment,60,1,253,5,3 oz,0,Face Serums
+272,Lancer,Advanced Retinol Treatment,95,349,1503,4.6218,1 oz,0,Face Serums
+273,Estée Lauder,Advanced Night Repair Intensive Recovery Ampoules,115,16,4785,4.875,None,0,Face Serums
+274,Algenist,REVEAL Concentrated Color Correcting Drops,38,252,13609,3.7579,0.5 oz,0,Moisturizer & Treatments
+275,boscia,Clear Complexion Blotting Linens,10,207,12723,4.4203,None,1,Blotting Papers
+276,Dr. Dennis Gross Skincare,Hyaluronic Marine Hydration Booster,68,82,5589,4.4146,1 oz,0,Moisturizers
+277,Briogeo,B. Well Organic + Australian 100% Tea Tree Oil,32,109,9606,4.8257,None,1,Face Oils
+278,Dr. Dennis Gross Skincare,Doctor's Kit Gold Standard Anti-Aging Solution,59,14,3514,4.9286,None,0,Face Serums
+279,belif,Peat Miracle Revital Serum Concentrate,60,29,5809,4.4483,1.01 oz,0,Face Serums
+280,philosophy,Turbo Booster C Powder,39,777,15526,4.4504,0.25 oz,0,Face Serums
+281,Estée Lauder,Perfectionist Pro Rapid Firm + Lift Treatment,75,9,2286,4.5556,1 oz,0,Anti-Aging
+282,CLINIQUE,Clinique iD™:  Moisturizer + Concentrate for Uneven Skin Tone,39,3,0,2.6667,4.2 oz,0,Moisturizers
+283,boscia,Clear Complexion Treatment,35,323,10292,4.0124,1 oz,1,Blemish & Acne Treatments
+284,GLAMGLOW,SUPERSERUM™ 6-Acid Refining Treatment Serum,65,56,4576,4.5,1 oz,0,Face Serums
+285,Kate Somerville,+Retinol Vita C Power Serum,98,72,3485,3.7361,1 oz,0,Face Serums
+286,COVER FX,Mattifying Booster Drops,45,4,1306,5,1 oz,1,Face Serums
+287,Skinfix,Barrier+ Lipid-Boost Jelly,50,5,502,5,1 oz,1,Face Serums
+288,Murad,Acne Clear Control 30-Day Kit,29,53,3797,3.0189,None,0,Blemish & Acne Treatments
+289,Peter Thomas Roth,Instant Firmx™,48,389,3807,3.671,3.4 oz,0,Face Serums
+290,BIOEFFECT,30 Day Treatment,290,12,1044,4,None,0,Face Serums
+291,Guerlain,Abeille Royale Double R Renew & Repair Serum,215,1,690,5,1.6 oz,0,Face Serums
+292,Peter Thomas Roth,AHA/BHA Acne Clearing Gel,54,571,14712,4.3047,3.4 oz,0,Face Serums
+293,Dr. Dennis Gross Skincare,Dark Spot Sun Defense Broad Spectrum SPF 50,42,89,4627,3.7753,1.7 oz,0,Face Sunscreen
+294,Dermalogica,Sound Sleep Cocoon Night Gel-Cream,80,105,315,4.5429,1.7 oz,0,Night Creams
+295,Shiseido,White Lucent Luminizing Surge,62,16,6796,4.5,2.5 oz,0,Face Serums
+296,Murad,Night Fix Enzyme Treatment,70,311,5503,4.7813,1 oz,0,Night Creams
+297,Lancer,Lift Serum Intense with Stem Cell Recovery Complex,275,2,1093,5,1 oz,0,Face Serums
+298,Proactiv,Adapalene Gel 0.1% Acne Treatment,36,171,1073,4.3509,1.6 oz,0,Blemish & Acne Treatments
+299,SEPHORA COLLECTION,Mini Glow Peel Pads,7,1,0,5,None,0,Facial Peels
+300,CLINIQUE,Fresh Pressed Daily Booster with Pure Vitamin C 10%,76.5,102,15139,4.0686,None,0,Face Serums
+301,Dermalogica,BioLumin-C Vitamin C Serum,87,84,372,4.5,1 oz,0,Face Serums
+302,BeautyBio,The Nightly Retinol + Peptide Anti-Aging Serum,95,2,1441,5,1 oz,0,Face Serums
+303,Edible Beauty,Turmeric Beauty Latte Serum Clear and Brighten,39,8,849,4.875,1 oz,1,Face Serums
+304,KORRES,Golden Krocus Ageless Saffron Elixir Serum,98,341,10539,4.0557,1.01 oz,1,Face Serums
+305,REN Clean Skincare,Flash Hydro-Boost Instant Plumping Emulsion,46,127,7183,4.5039,1.3 oz,1,Face Serums
+306,Proactiv,Advanced Dark Spot Correcting Serum,50,1,531,5,1 oz,0,None
+307,AMOREPACIFIC,MOISTURE BOUND Rejuvenating Serum,100,91,4318,4.3626,1.7 oz,0,None
+308,SEPHORA COLLECTION,Double-Ended Blemish Extractor,17,495,11096,3.5818,None,0,Blemish & Acne Treatments
+309,Murad,Advanced Active Radiance® Serum,90,216,6209,4.2269,1 oz,0,Face Serums
+310,Lancôme,Advanced Génifique Sensitive Antioxidant Serum,78,26,5709,4.6154,0.67 oz,0,Face Serums
+311,CLINIQUE,Acne Solutions Cleansing Face and Body Soap,16.5,423,11530,4.3924,5.2 oz,0,Blemish & Acne Treatments
+312,DERMAdoctor,Kakadu C ™ Serum,95,62,3997,4.0645,1 oz ,0,Face Serums
+313,Origins,Original Skin™ Renewal Serum with Willowherb,41,750,19165,4.3813,1 oz,1,Face Serums
+314,Dr. Dennis Gross Skincare,One Step Acne Eliminating Pads,42,244,9796,4.2254,None,0,Blemish & Acne Treatments
+315,StackedSkincare,Hyaluronic Acid Champaca Hydrating Serum,130,2,423,5,1 oz,0,Face Serums
+316,philosophy,Time In A Bottle 100% In-Control,76,48,3014,4.0625,1.3 oz,0,Anti-Aging
+317,Fresh,Peony Instant Brightening Face Serum,69,4,2420,4.5,1 oz,0,Face Serums
+318,Proactiv,"Proactiv Solution 3-Step Acne Treatment System, 30 Day Introductory Size",35,24,1033,2.6667,None,0,Value & Gift Sets
+319,Dr. Brandt Skincare,Bright Biotic™ Dark Spot Minimizing Serum,55,24,3174,4.2083,None,0,Face Serums
+320,Foreo,ESPADA Blue Light Acne Treatment,149,104,11542,3.9231,None,0,Blemish & Acne Treatments
+321,philosophy,A Glowing Regimen Trial Set,34,14,6520,4.7143,None,0,Moisturizer & Treatments
+322,Algenist,Pore Corrector Anti-Aging Primer,42,176,8824,4.3523,1 oz,0,Face Serums
+323,Dermalogica,Breakout Clearing Foaming Wash,19.5,132,417,4.5152,6 oz,0,Face Wash & Cleansers
+324,Kate Somerville,Quench Hydrating Face Serum,75,242,4902,4.2273,1 oz,0,Face Serums
+325,Dior,Capture Youth Matte Maximizer Age-Delay Mattifying Serum,95,4,0,3.75,1 oz,0,Face Serums
+326,Dr. Jart+,Peptidin™ Firming Serum with Energy Peptides,48,138,4406,4.4058,1.35 oz,0,Face Serums
+327,CLINIQUE,Fresh Pressed 7-day System with Pure Vitamin C,27,37,6026,4.0541,None,0,Face Wash & Cleansers
+328,Kiehl's Since 1851,Micro-Blur™ Skin Perfector,35,38,7013,4.3684,1 oz,0,Face Serums
+329,Perricone MD,Vitamin C Ester Brightening Amine Face Lift,99,365,3465,4.3534,2 oz,0,Face Serums
+330,SEPHORA COLLECTION,3-in-1 Extractor,23,480,12871,3.8729,None,0,Blemish & Acne Treatments
+331,NuFACE,Fix Line Smoothing Serum,49,1,360,5,0.5 oz,0,Anti-Aging
+332,Origins,Dr. Andrew Weil For Origins™ Mega-Bright Dark Spot Correcting Serum,59,30,3109,3.7333,1 oz,1,Face Serums
+333,Proactiv,"Proactiv Solution 3-Step Acne Treatment System, 90 Day Size",80,14,256,3.2143,None,0,Value & Gift Sets
+334,Edible Beauty,Probiotic Radiance Tonic  Serum Calm and Restore,39,4,523,5,1 oz,1,Face Serums
+335,BeautyBio,R45 The Reversal 3-Phase Retinol Booster System,150,16,1307,4.5625,None,0,Face Serums
+336,Blithe,Tundra Chaga Pressed Serum,49,56,6298,4.5536,1.68 oz,0,Face Serums
+337,Edible Beauty,Deep Sea Collagen Elixir Serum Plump and Refine,43,7,587,4.4286,1 oz,1,Face Serums
+338,Lancer,The Method: Cleanse Blemish Control,55,13,3625,4.3846,4.05 oz,0,Face Wash & Cleansers
+339,CLINIQUE,Acne Solutions Clinical Clearing Kit,28,105,12331,4.0667,None,0,Value & Gift Sets
+340,Algenist,ELEVATE Advanced Lift Contouring Cream,96,32,1676,4.3438,2 oz,0,Anti-Aging
+341,Skin Inc Supplement Bar,Pure Revival Peel,55,509,13748,4.2318,2 oz,0,Facial Peels
+342,Dior,Capture Youth Intense Rescue Age-Delay Revitalizing Oil-Serum,95,2,0,5,1 oz,0,Anti-Aging
+343,Kiehl's Since 1851,Blue Herbal Spot Treatment,18,50,8373,4.14,0.5 oz,0,Blemish & Acne Treatments
+344,Dr. Brandt Skincare,pores no more® Mattifying Hydrator Pore Minimizing Gel,48,19,2338,4.2632,1.7 oz,0,Moisturizer & Treatments
+345,GLAMGLOW,DREAMDUO™ Overnight Transforming Treatment,59,357,32247,4.2157,None,0,Night Creams
+346,Dermalogica,Rapid Reveal Peel,85,1,246,5,None,0,Facial Peels
+347,Dior,Hydra Life Deep Hydration Sorbet Water Essence,73,22,3550,4.5455,1.3 oz,0,Mists & Essences
+348,Fresh,Crème Ancienne® Supreme Face Serum,245,8,1682,4.75,1 oz,0,Face Serums
+349,SK-II,Ultimate Revival Serum,325,0,487,0,1.6 oz,0,Face Serums
+350,CLINIQUE,Acne Solutions Oil-Control Cleansing Mask,25,266,15066,4.4699,3.4 oz,0,Face Masks
+351,Lancer,The Method: Nourish Blemish Control,125,8,1614,3.625,1.7 oz,0,Moisturizers
+352,CLINIQUE,Clinique Smart Treatment Oil,44.5,36,4055,4.6389,1 oz,0,Face Oils
+353,Estée Lauder,Enlighten Dark Spot Correcting Night Serum,98,49,5711,3.9592,1.7 oz,0,Night Creams
+354,Kate Somerville,EradiKate™ Mask Foam-Activated Acne Treatment,54,159,12390,4.1132,2 oz,0,Blemish & Acne Treatments
+355,BECCA,Skin Love Glow Elixir,48,103,10061,4.3689,0.98 oz,0,Face Serums
+356,Proactiv,"Proactiv+ 3-Step System, 30 Day Introductory Size",50.00(,6,426,3.3333,None,0,Value & Gift Sets
+357,Dr. Brandt Skincare,Power Dose Vitamin C,69,21,3861,4.381,0.55 oz,0,Face Serums
+358,NuFACE,Gel Primer 24K Gold Complex - Firm,39,17,1310,3.9412,2 oz,0,Face Serums
+359,Perricone MD,H2 Elemental Energy Hydrating Booster Serum,100,10,3117,3.7,1 oz,0,Face Serums
+360,Origins,Peace Of Mind™ On-the-Spot Relief,14,71,4876,4.662,0.5 oz,1,Face Serums
+361,Murad,Intensive-C® Radiance Peel ,58,155,14747,4.4839,1.7 oz,0,Facial Peels
+362,Kate Somerville,RetAsphere™ Micro Peel,90,57,9096,4.6842,1 oz,0,Facial Peels
+363,DERMAdoctor,Kakadu C™ Intensive Vitamin C Peel Pads with Ferulic Acid & Vitamin E,78,42,5949,4.7619,None,0,Facial Peels
+364,bareMinerals,ETERNALIXIR™ Skin-Volumizing Oil Serum,55,18,3918,4.4444,1 oz,0,Face Oils
+365,CLINIQUE,Acne Solutions Cleansing Gel,21,59,3616,3.678,4.2 oz,0,Blemish & Acne Treatments
+366,Peter Thomas Roth,Acne Spot and Area Treatment,19,141,6689,4.0567,0.5 oz,0,Face Serums
+367,Perricone MD,High Potency Classics: Firming Evening Repair,99,230,342,4.4174,2 oz,0,Night Creams
+368,Peter Thomas Roth,FIRMx Growth Factor Extreme Neuropeptide Serum,150,112,2847,4.1607,1 oz,0,Anti-Aging
+369,Algenist,Advanced Anti-Aging Repairing Oil,82,223,7261,4.4215,1 oz,0,Face Oils
+370,Proactiv,Emergency Blemish Relief,20,8,1072,4.25,0.33 oz,0,Blemish & Acne Treatments
+371,tarte,Blemish Bully Acne Spot Treatment,16,80,8193,4.1125,0.33 oz,0,Blemish & Acne Treatments
+372,Dior,Capture Totale Le Serum,240,0,87,0,1.7 oz,0,Face Serums
+373,Clarins,Hydra-Essentiel Bi-Phase Serum,59,5,4200,4.8,1 oz,0,Face Serums
+374,Algenist,GENIUS Ultimate Anti-Aging Bi-Phase Peel,85,91,6992,4.6484,1.69 oz,0,Anti-Aging
+375,DERMAdoctor,Calm Cool & Corrected,85,275,4386,4.0145,1.7 oz,0,Blemish & Acne Treatments
+376,Shiseido,Bio-Performance LiftDynamic Serum,100,8,1663,3.875,1 oz,0,Face Serums
+377,Dior,Capture Youth Lift Sculptor Age-Delay Lifting Serum,95,2,0,5,1 oz,0,Anti-Aging
+378,Jack Black,Power Peel Multi-Acid Resurfacing Pads,38,45,4334,4.5333,None,0,Moisturizer & Treatments
+379,Indie Lee,Stem Cell Serum,135,4,1307,4.75,1 oz,1,Face Serums
+380,Murad,Sensitive Skin Soothing Serum,60,57,2956,4.2632,1 oz,0,Face Serums
+381,Skin Inc Supplement Bar,Licorice Serum CALM IRRITATED SKIN,35,19,4620,3.8421,0.34 oz,0,Face Serums
+382,belif,Hydra Sebum Control Essence,42,57,7768,4.2807,1.68 oz,0,Blemish & Acne Treatments
+383,Kate Somerville,DermalQuench Liquid Lift™ Advanced Wrinkle Treatment ,95,117,5723,3.6581,2.5 oz,0,Face Serums
+384,Dr. Brandt Skincare,2% Retinol Complex Serum,69,74,11068,3.7162,1 oz,0,Face Serums
+385,Dr Roebuck's,True Blue Hydrating Serum,60,17,1181,4.5882,1 oz,1,Face Serums
+386,Origins,A Perfect World™ Age-Defense Skin Guardian with White Tea,61,80,4797,4.375,1.7 oz,1,Face Serums
+387,First Aid Beauty,Anti-Redness Serum,36,488,13118,3.377,1.7 oz,0,Face Serums
+388,Lancer,Intensive Night Treatment with Hylaplex® and Marula Oil,155,7,1412,4.2857,1.7 oz,0,Night Creams
+389,CLINIQUE,Acne Solutions Clearing Concealer,18.5,585,15133,3.5641,0.34 oz,0,Blemish & Acne Treatments
+390,Fresh,Seaberry Skin Nutrition Booster,47,107,12722,4.5234,0.5 oz,0,Face Serums
+391,StackedSkincare,EGF Activating Serum,150,4,238,4.5,1 oz,0,Face Serums
+392,Proactiv,Blackhead Dissolving Gel,35,3,2216,4.3333,1 oz,0,Face Serums
+393,Kiehl's Since 1851,Breakout Control Targeted Acne Spot Treatment,28,31,5096,3.8065,0.68 oz,0,Blemish & Acne Treatments
+394,philosophy,Renewed Hope in a Jar Peeling Mousse Instant Glow Facial,35,129,794,4.1628,2.5 oz,0,Anti-Aging
+395,boscia,Pore Purifying Charcoal Strips,28,654,17714,3.4725,12 Strips,1,Blemish & Acne Treatments
+396,Smashbox,Photo Finish Mattify Primer Stick,32,82,7371,4.0732,0.31 oz,0,Face Primer
+397,Clarins,Mission Perfection Serum,74,47,3109,4.0851,1 oz,0,Face Serums
+398,Jack Black,Line Smoother Oil-Free Moisturizer,32,40,2362,4.45,3.3 oz•,0,Moisturizers
+399,Anthony,Glycolic Facial Cleanser,28,221,4128,4.3937,8 oz,0,Face Wash
+400,Lancôme,Visionnaire Crescendo™ Progressive Night Peel,75,319,4643,4.3009,None,0,Facial Peels
+401,Dr. Brandt Skincare,pores no more® multi-performance stick,35,98,6429,3.6327,0.5 oz,0,Face Primer
+402,Kiehl's Since 1851,Blue Herbal Acne Cleanser Treatment,22,26,2482,3.6154,5 oz,0,Blemish & Acne Treatments
+403,Erno Laszlo,White Marble Dual Phase Vitamin C Peel,100,1000,4232,4.7247,None,0,Facial Peels
+404,Perricone MD,Vitamin C Ester Brightening Overnight Treatment,99,322,4810,4.4938,2 oz,0,Face Serums
+405,Perricone MD,High Potency Classics: Face Firming Serum,99,330,2344,4.0788,2 oz,0,Face Serums
+406,Skin Inc Supplement Bar,My Daily Dose of Glow,65,12,3244,5,0.68 oz,0,Face Serums
+407,Lancer,Advanced C Radiance Cream with Vitamin C Collagen Cofactor 10x,85,21,2668,3.9524,1.7 oz,0,Face Serums
+408,Lancôme,Visionnaire Skin Solutions 15% Pure Vitamin C Correcting Concentrate,65,935,335,4.3144,None,0,Face Serums
+409,Dr. Brandt Skincare,Do Not Age with Dr. Brandt Transforming Pearl Serum,152,49,2350,4.3061,1.35 oz,0,Face Serums
+410,Lancer,Dani Glowing Skin Perfector,95,48,1708,3.375,1 oz,0,Face Serums
+411,bareMinerals,BRILLIANT FUTURE™ Age Defense & Renew Serum,55,12,3104,4.25,1 oz,0,Face Serums
+412,boscia,Clear Complexion Willow Bark Spot Treatment,18,656,10725,3.8125,0.14 oz,1,Blemish & Acne Treatments
+413,Estée Lauder,Perfectionist Pro Instant Wrinkle Filler Tri-Polymer Blend,54,3,882,3.6667,0.5 oz,0,Anti-Aging
+414,Lancer,Retexturizing Treatment Cream with Glycolic Acid 10x,85,45,5370,4.4889,1.7 oz,0,Face Serums
+415,Guerlain,Orchidée Impériale The Gel Cream,335,1,390,5,1 oz ,0,Face Serums
+416,Omorovicza,Silver Skin Savior Salicylic/Glycolic Acid Treatment,95,6,1884,5,1.7 oz,1,Facial Peels
+417,Perricone MD,Skin Clear Dietary Supplements,95,81,2859,3.9136,None,0,Beauty Supplements
+418,Murad,MattEffect Blotting Perfector,39,122,8656,4.082,0.4 oz,0,Blotting Papers
+419,Dermalogica,Breakout Clearing All Over Toner,19.5,2,292,4.5,4 oz,0,Toners
+420,Skin Inc Supplement Bar,Hyaluronic Acid Serum LONG-LASTING HYDRATION,35,47,6647,3.8298,0.34 oz,0,Face Serums
+421,Anthony,Glycolic Exfoliating & Resurfacing Wipes,18,58,5243,4.569,None,0,Facial Peels
+422,HUM Nutrition,Flawless + Fearless Breakout Control Kit,29,19,5993,3.6842,None,0,Blemish & Acne Treatments
+423,SK-II,Facial Treatment Oil,150,129,3097,4.4884,None,0,Face Oils
+424,boscia,Charcoal Deep-Pore Exfoliating Peel Gel with volcanic sand,34,182,14756,3.0275,5 oz,1,Face Masks
+425,Proactiv,Repairing Treatment,42,2,275,4,2 oz,0,Face Serums
+426,Omorovicza,Copper Peel,160,37,4616,4.4595,None,1,Facial Peels
+427,Shiseido,Bio-Performance Glow Revival Serum,95,36,3199,4.1944,1 oz,0,Face Serums
+428,CLINIQUE,Pore Refining Solutions Correcting Serum,48,400,8276,3.86,1 oz,0,Face Serums
+429,Kate Somerville,DermalQuench Liquid Lift™ + Retinol Advanced Resurfacing Treatment,98,64,6688,4.125,2.5 oz,0,Face Serums
+430,Kiehl's Since 1851,Precision Lifting & Pore-Tightening Concentrate,85,11,1947,3,2.5 oz,0,Face Serums
+431,Lancôme,Visionnaire Skin Solutions Pure 0.2% Retinol Correcting Night Concentrate,75,212,220,4.4292,1 oz,0,Face Serums
+432,Bobbi Brown,Intensive Skin Supplement Serum,77,52,3366,4.1731,1 oz,0,Face Serums
+433,DERMAdoctor,Ain’t Misbehavin’ Medicated Acne Control Serum,48,261,3866,4.0728,None,0,Face Serums
+434,Moon Juice,Beauty Shroom™ Exfoliating Acid Potion,39,129,9945,4.814,3.3 oz,0,Facial Peels
+435,Dior,Diorsnow Brightening Refining Moist Cloud Crème,125,10,2097,4.8,1.7 oz,0,Face Serums
+436,Kate Somerville,Dermal Quench Wrinkle Warrior,98,3,467,4.6667,2.5 oz,0,Face Serums
+437,Clarins,Lotus Face Treatment Oil,59,122,5888,4.3361,1 oz,0,Face Oils
+438,Caudalie,Polyphenol C15 Anti-Wrinkle Defense Serum,62,110,2357,4.1545,1 oz,0,Face Serums
+439,Murad,Complete Reform,78,82,5327,4.5,None,0,Face Serums
+440,Algenist,Concentrated Reconstructing Serum,98,293,5030,4.2082,1 oz,0,Face Serums
+441,Origins,Plantscription™ Youth-Renewing Face Oil,55,43,5059,4.6279,None,1,Face Oils
+442,Dr. Jart+,Dermask Ultra Jet Peeling Solution,9,12,0,4.5833,None,0,Facial Peels
+443,Dermalogica,Blackhead Clearing Fizz Mask,21,3,415,3.6667,1.7 oz,0,Face Masks
+444,Skin Inc Supplement Bar,Vitamin C Serum REBALANCE & TACKLE PORES,35,27,6519,3.5926,0.34 oz,0,Face Serums
+445,Dr. Brandt Skincare,MAGNETIGHT Age-Defier™ Mask,75,272,18403,3.9338,3 oz,0,Face Masks
+446,Guerlain,Super Aqua-Serum,180,25,1262,4.12,1.6 oz,0,Face Serums
+447,Guerlain,Super Aqua-Crème Day Gel,135,3,455,3.6667,1.6 oz,0,Moisturizer & Treatments
+448,Estée Lauder,Perfectionist Pro Rapid Renewal Retinol Treatment,82,0,169,0,1 oz,0,Face Serums
+449,J.One,Red Jelly Pack,42,21,4133,4.1905,1.69 oz,0,Face Serums
+450,BeautyBio,The Daily Vitamin C Day Serum with Antioxidant Complex,75,0,83,0,1 oz,0,Face Serums
+451,Obagi Clinical,Kinetin+ Rejuvenating Serum,95,111,2255,4.1171,1 oz,0,Face Serums
+452,Skin Inc Supplement Bar,My Daily Dose of Vitamins,65,18,4380,4.2222,0.68 oz,0,Face Serums
+453,LightStim ,PhotoSerum,80,0,396,0,1 oz,0,Face Serums
+454,Blithe,Gold Apricot Pressed Serum,49,15,1920,4.3333,1.68 oz,0,Face Serums
+455,LANEIGE,Mini Pore Blur Perfector,32,27,3339,3.8148,1.3 oz,0,Face Primer
+456,Dior,Capture Youth Redness Soother Age-Delay Anti-Redness Soothing Serum,95,11,0,3.2727,1 oz,0,Anti-Aging
+457,Tata Harper,Clarifying Spot Solution,35,37,3270,3.4054,None,1,Blemish & Acne Treatments
+458,Dermalogica,Breakout Clearing Booster,21,5,227,4.2,1 oz,0,Blemish & Acne Treatments
+459,Skin Inc Supplement Bar,Vitamin B3+ Niacinamide Serum RESCUE TROUBLED SKIN,35,21,6718,3.381,0.34 oz,0,Blemish & Acne Treatments
+460,Skin Inc Supplement Bar,Collagen Serum ELASTICITY & SUPPLENESS,35,12,2728,3.75,0.34 oz,0,Face Serums
+461,Mario Badescu,Silver Powder,12,7,1403,4.2857,1 oz,0,Face Serums
+462,philosophy,Help Me,49,1000,20485,4.3627,1.05 oz,0,Face Serums
+463,Omorovicza,Rose Lifting Serum,150,5,1372,4.2,1 oz,1,Face Serums
+464,Kiehl's Since 1851,Breakout Control Acne Treatment Facial Lotion,48,4,1630,4,2 oz,0,Blemish & Acne Treatments
+465,Alpha-H,Beauty Sleep Power Peel,129,1,223,5,1.69 oz,0,Facial Peels
+466,Edible Beauty,Glowing Skin Smoothie Serum Protect and Smooth,39,3,418,5,1 oz,1,Face Serums
+467,DERMAdoctor,POETRY in Lotion®,75,184,1986,4.3533,1 oz,0,Moisturizer & Treatments
+468,Skin Laundry,Brightening Serum with Glycolic Acid,50,31,6299,4.1935,1 oz,0,Face Serums
+469,DERMAdoctor,Wrinkle Revenge® Ultimate Hyaluronic Serum,68,76,2068,4.0263,None,0,Anti-Aging
+470,Fresh,Umbrian Clay Mattifying Serum,38,95,5258,3.6947,1 oz,0,Face Serums
+471,Skin Inc Supplement Bar,Ceramide Serum STRENGTHEN & SOOTHE,35,14,3658,4.1429,0.34 oz,0,Moisturizer & Treatments
+472,Algenist,Genius White Brightening Anti-Aging Emulsion,75,9,1287,3.7778,3.3 oz,0,Toners
+473,Perricone MD,No:Rinse Exfoliating Peel,45,184,2973,4.2065,2 oz,0,Facial Peels
+474,Erborian,Yuza Sorbet Night Reinforced Nighttime Emulsion,55,17,3671,4.4118,1.7 oz,0,Night Creams
+475,Perricone MD,No:Rinse DMAE Firming Pads,80,180,1701,4.2611,None,0,Face Serums
+476,Mario Badescu,Herbal Hydrating Serum,30,3,1153,5,1 oz,0,None
+477,Eve Lom,Time Retreat Radiance Boost Treatment,95,4,898,4.75,1 oz,0,Face Serums
+478,Lancer,Corrective Lightening Treatment,125,185,203,4.1892,1 oz,0,Face Serums
+479,Omorovicza,Daily Vitamin C,150,2,449,3,None,1,Face Serums
+480,Dr. Dennis Gross Skincare,Clinical Concentrate Radiance Booster™ ,68,44,4421,3.9545,1 oz,0,Face Serums
+481,REN Clean Skincare,Rose O12 Moisture Defence Oil,80,96,1925,4.3542,1.02 oz,0,Face Oils
+482,REN Clean Skincare,Flash Rinse 1 Minute Facial,48,174,6368,3.8966,2.5 oz,1,Face Serums
+483,Indie Lee,Banish Stick,28,30,2788,3.7667,0.34 oz,1,Blemish & Acne Treatments
+484,Dior,Diorsnow Essence of Light Pure Concentrate of Light Brightening Milk Serum,140,8,2286,4.5,1 oz,0,Face Serums
+485,Skin Inc Supplement Bar,Coenzyme Q10 Serum ENERGIZE & RENEW,35,2,1960,4,0.34 oz,0,Face Serums
+486,Kate Somerville,Tight'N™ Cryogenic Tightening Gel,98,135,2783,4.037,3.75 oz,0,Anti-Aging
+487,DERMAdoctor,Photo Dynamic Therapy® 3–in–1  Facial Lotion With Broad Spectrum SPF 30,85,143,1493,3.9091,1 oz,0,Face Serums
+488,philosophy,Renewed Hope in A Jar Renewing Dew Concentrate,45,16,651,4.25,1 oz,0,Anti-Aging
+489,COVER FX,Super Power Antioxidant Booster Drops,45,5,520,4.8,1 oz,1,Face Serums
+490,Skin Inc Supplement Bar,French Pine Bark Serum ANTIOXIDANT PROTECTION,35,9,2254,4.3333,0.34 oz,0,Face Serums
+491,Volition Beauty,Eucalyptus Stretch Mark Minimizer,48,8,2656,3.5,3.6 oz,1,Blemish & Acne Treatments
+492,Estée Lauder,Perfectionist Pro Instant Resurfacing Peel,75,4,323,4.5,None,0,Facial Peels
+493,Eve Lom,Age Defying Smoothing Treatment,150,5,1021,4.2,None,0,Face Serums
+494,Blithe,Crystal Iceplant Pressed Serum,49,32,5154,4.3125,1.68 oz,0,Face Serums
+495,Erborian,Yuza Sorbet Featherweight Emulsion,48,20,2140,4.35,1.7 oz,0,Moisturizer & Treatments
+496,BIOEFFECT,EGF Day Serum,145,10,623,4.2,1.01 oz,0,Face Serums
+497,Alpha-H,Vitamin B Serum,70,1,158,5,0.85 oz,0,Face Serums
+498,Origins,Plantscription™ Powerful Lifting Concentrate,63,4,2026,4.25,1 oz,1,Face Serums
+499,Kate Somerville,EradiKate™ To-Go Acne Treatment,22,65,5692,3.0154,None,0,Blemish & Acne Treatments
+500,Kiehl's Since 1851,Nightly Refining Micro-Peel Concentrate,60,28,3774,4.3571,1 oz,0,Facial Peels
+501,Fresh,Crème Ancienne Face Oil Elixir,270,26,3199,3.6154,1.7 oz,0,Face Oils
+502,KENZOKI,Belle de Jour Fantastic Fluid,107,1,586,5,1.7 oz,0,Face Serums
+503,Perricone MD,Essential Fx Acyl-Glutathione Deep Crease Serum,179,149,797,4.5906,1 oz,0,Face Serums
+504,Dr. Jart+,Pore Master Patch,7.5,213,9108,3.3709,None,0,Face Serums
+505,NuFACE,LIFTER Vitamin C & Hyaluronic Acid Serum,84,11,1863,4,1 oz,0,Face Serums
+506,Dr. Jart+,Dermaclear™ Micro Milk Peel,42,0,178,0,5.07 oz,0,Facial Peels
+507,Anthony,High Performance Anti-Wrinkle Glycolic Peptide Serum,55,15,1796,4.4,None,0,Facial Peels
+508,Perricone MD,PRE:EMPT SERIES™ The Fixer Solid Oil Balm,38,13,3287,4.3077,0.7 oz,0,Face Oils
+509,DERMAdoctor,Ain’t Misbehavin’® Intensive 10% Sulfur Acne Mask & Emergency Spot Treatment,48,22,4170,4.1818,2.3 oz,0,Blemish & Acne Treatments
+510,Dr Roebuck's,Surf Chaser Reverse Aging Serum,60,13,541,3.8462,1 oz,1,Face Serums
+511,Anthony,High Performance Vitamin C Facial Serum,46,36,2870,4.5,1 oz,0,Face Serums
+512,Kate Somerville,Age Arrest Anti-Wrinkle Serum,95,22,1127,4.0909,1 oz,0,Face Serums
+513,Algenist,GENIUS White Brightening Essence,115,13,2469,4,1 oz,0,Face Serums
+514,StackedSkincare,PSC Peptide Serum,150,2,222,5,1 oz,0,Face Serums
+515,philosophy,Ultimate Miracle Worker Multi-Rejuvenating Lightweight Emulsion SPF 30,75,10,615,3.7,1.5 oz,0,Anti-Aging
+516,DERMAdoctor,Picture Porefect,42,305,4870,3.8361,1 oz,0,Face Serums
+517,AMOREPACIFIC,MOISTURE BOUND Hydration Boost,120,11,1166,4.7273,4 x 0.16 oz,0,Moisturizer & Treatments
+518,Eve Lom,Intense Hydration Serum,95,12,1415,3.8333,1 oz,0,Face Serums
+519,Dr. Brandt Skincare,MAGNETIGHT™ Age-Defier Mask Bundle,75,8,3117,4,None,0,Face Masks
+520,Mario Badescu,Cellufirm Drops,25,0,782,0,1 oz,0,Face Serums
+521,Anthony,Deep Pore Cleansing Clay,24,102,5261,4.4314,3 oz,0,Moisturizer & Treatments
+522,Shiseido,White Lucent OnMakeup Spot Correcting Serum Broad Spectrum SPF 25,42,11,1625,4.0909,0.16 oz,0,Face Serums
+523,COVER FX,Brightening Booster Drops,45,1,425,5,30 mL,1,Face Serums
+524,boscia,Charcoal Spot Corrector,28,17,3571,4,0.84 oz,1,Blemish & Acne Treatments
+525,Eve Lom,Dynaspot,34,11,2044,3.9091,0.3 oz,0,Face Serums
+526,Origins,Maskimizer™ Skin-Optimizing Mask Primer,24,136,6886,3.125,3.2 oz,1,Face Masks
+527,Conture,Kinetic Treatment Serum,65,0,158,0,1 oz,0,Face Serums
+528,Dermarche Labs,BioREWIND™ AM Full-Spectrum Antioxidant Serum,125,8,651,4.625,1 oz,0,Face Serums
+529,Anthony,High Performance Vitamin A Facial Treatment,49,30,765,4.3,1.6 oz,0,Face Serums
+530,Dr Roebuck's,Perky Collagen Boosting Serum,60,33,1826,3.9394,1 oz,1,Face Serums
+531,Alpha-H,Vitamin A Serum,70,1,137,5,0.85 oz,0,Face Serums
+532,DERMAFLASH,Flash & Glow Resurfacing Peel Pads,36,0,175,0,None,0,Facial Peels
+533,AMOREPACIFIC,All Day Balancing Care Serum,200,6,1194,3.6667,2.36 oz,0,Face Serums
+534,Skin Inc Supplement Bar,Chlorella Serum BRIGHTEN & TACKLE SPOTS,35,26,3767,3.6538,0.34 oz,0,Face Serums
+535,Omorovicza,Oxygen Booster,90,5,858,3.8,0.5 oz,1,Face Serums
+536,Kate Somerville,KateCeuticals™ Restor8 Replenishing Serum,170,4,820,4.25,1 oz,0,Face Serums
+537,Dr Roebuck's,Tassie Anti-Pollution Serum,60,2,907,5,1 oz,1,Face Serums
+538,NuFACE,Gel Primer 24K Gold Complex - Brighten,39,8,859,3.875,2 oz,0,Face Serums
+539,Kate Somerville,Mega-C™ Dual Radiance Serum,90,31,1938,3.6452,1 oz,0,Face Serums
+540,Skin Laundry,Wrinkle Release Repair Treatment with Retinol,40,8,1287,3.5,1 oz,0,Anti-Aging
+541,Dr. Brandt Skincare,Radiance Resurfacing Foam,72,293,1041,4.4573,1.7 oz,0,Facial Peels
+542,L'Occitane,Pivoine Sublime Skin Perfector Serum,49,15,1088,3.8667,1 oz,0,Face Serums
+543,The Inkey List,Hyaluronic Acid Serum,7.99,0,21,0,1 oz,0,Face Serums
+544,The Inkey List,Polyglutamic Acid,14.99,0,18,0,1 oz,0,Face Serums
+545,Erno Laszlo,Phormula 3-9 Repair Cream,275,3,1159,5,1.7 oz,0,Moisturizer & Treatments
+546,HUM Nutrition,Big Chill™ Stress Management Supplement,25,51,9808,4.549,None,0,Beauty Supplements
+547,First Aid Beauty,Facial Radiance® Intensive Peel,40,260,17640,4.5462,1.7 oz,0,Facial Peels
+548,L'Occitane,Immortelle Divine Extract,120,8,1281,4.5,1 oz,0,Mists & Essences
+549,Primary Raw,DoYou 2-Step Milk Peeling Kit,6,220,12357,4.3818,None,0,Facial Peels
+550,SK-II,Facial Treatment Repair C,170,63,2700,4.2857,1 oz,0,Face Serums
+551,Peter Thomas Roth,Acne System,35,166,14241,4.2831,None,0,Blemish & Acne Treatments
+552,Algenist,SPLASH Absolute Hydration Replenishing Emulsion,54,26,850,4.2308,3.3 oz,0,Face Serums
+553,Dr. Brandt Skincare,Power Dose Vitamin D,55,7,1158,4.1429,0.6 oz,0,Face Serums
+554,Eve Lom,WHITE Advanced Brightening Serum,150,11,1052,4.0909,1 oz,0,Face Serums
+555,philosophy,The Microdelivery Triple-Acid Brightening Peel,70,203,5009,4.0739,None,0,Facial Peels
+556,Algenist,ELEVATE Firming & Lifting Contouring Serum,108,18,1187,4.0556,1 oz,0,Anti-Aging
+557,IT Cosmetics,Anti-Aging Armour™ Super Smart Skin-Perfecting Beauty Fluid SPF 50+,38,120,11229,4.05,1 oz,0,Anti-Aging
+558,KENZOKI,Belle de Jour White Lotus Serum,105,2,308,4,1 oz,0,Face Serums
+559,Shiseido,Future Solution LX Superior Radiance Serum,225,5,787,3.8,1 oz,0,Face Serums
+560,Peter Thomas Roth,Un-Wrinkle® Turbo Face Serum ,150,44,2568,3.7955,1.0 oz,0,Face Serums
+561,NARS,Optimal Brightening Concentrate,74,12,2473,3.75,1 oz,0,Face Serums
+562,Natasha Denona,Lifting Primer Anti-Aging Serum,60,11,1003,2.8182,1.01 oz,0,Face Primer
+563,The Inkey List,Alpha Hydroxy Acid Serum,10.99,0,18,0,1 oz,0,Face Serums
+564,The Inkey List,Beta Hydroxy Acid,10.99,0,14,0,1 oz,0,Face Serums
+565,The Inkey List,Collagen Serum,10.99,0,18,0,1 oz,0,Face Serums
+566,The Inkey List,Hepta-Peptide Serum,14.99,0,13,0,1 oz,0,Face Serums
+567,Alpha-H,Instant Facial,62,0,113,0,3.38 oz,0,Face Serums
+568,Kate Somerville,Kx Active Concentrates Bio-Mimicking Peptides Serum,98,0,56,0,1 oz,0,Face Serums
+569,Kate Somerville,Kx Active Concentrates Ceramides + Omegas Serum,98,0,59,0,1 oz,0,Face Serums
+570,The Inkey List,Lactic Acid Serum,12.99,0,17,0,1 oz,0,Face Serums
+571,The Inkey List,Q10 Serum,6.99,0,13,0,1 oz,0,Face Serums
+572,BeautyBio,R45 The Lift 3-Phase Advanced Neck Contouring Treatment,95,0,3,0,None,0,Face Serums
+573,The Inkey List,Retinol Serum,9.99,0,19,0,1 oz,0,Face Serums
+574,Dermalogica,Skin Soothing Hydrating Lotion,22,0,164,0,2 oz,0,Moisturizer & Treatments
+575,AMOREPACIFIC,TIME RESPONSE Skin Reserve Serum,280,0,158,0,0.5 oz,0,Face Serums
+576,The Inkey List,Vitamin C Cream,9.99,0,17,0,1 oz,0,Face Serums
