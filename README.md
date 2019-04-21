@@ -59,9 +59,9 @@ Once the data was cleaned, and I had dropped all the observations that could pot
 
 With the data clean and ready to be explored, I made some visualizations to get to know my data better, and to understand relationships (if any) between my variables.
 
-![Most Popular Brand By Reviews](../master/images/Most_popular_by_review.png)
-
-![Most Popular Brand By Number of Products](../master/images/Most_popular_by_number_of_products.png)
+Most Popular Brand By Reviews                               |  Most Popular Brand By Number of Products
+:----------------------------------------------------------:|:------------------------------------------------------------:
+![]![Most Popular Brand By Reviews](../master/images/Most_popular_by_review.png) |  ![](../master/images/Most_popular_by_number_of_products.png)
 
 Once I had some nice plots of my data, I went ahead witha pairplot. That way I could visualize all relationships at once and decide my next steps from there.
 
@@ -77,9 +77,13 @@ At this point I was starting to feel that this was going to be an exercise in fu
 
 ## Linear Regression
 
-Before diving into multiple linear regression, I thought it would be a good exercise to do individual regressions between the numerical continuous variables and the target variable. The results were, *not impressive*, but again, they gave me a good idea of what my next steps should be. Below you can see the results of the most extreme one.
+Before diving into multiple linear regression, I thought it would be a good exercise to do individual regressions between the numerical continuous variables and the target variable. The results were, *not impressive*, but again, they gave me a good idea of what my next steps should be. Below you can see the results of the most extreme ones.
 
-![Linear Regression](../master/images/lin_reg_n_loves.png)
+Linear Regression - Number of Loves                         |  Linear Regresssion - Number of Reviews
+:----------------------------------------------------------:|:------------------------------------------------------------:
+![Linear Regression](../master/images/lin_reg_n_loves.png)  |  ![Linear Regression](../master/images/lin_reg_n_reviews.png)
+
+
 
 As I said, not very impressive. But still, let's take a minute and think about what the data is telling us. 
 
@@ -89,8 +93,49 @@ The p-value is quite high, which tells us that at a significance level alpha of 
 
 The coefficient is very **very** small, infinitely approaching 0. A perfect 0 coefficient means that there is **NO** linear relationship whatsoever between our two variables - A change in one does not produce a change in the other.
 
-With these results in my hands, and considering that some of the relationships in the pairplot looked like quadratic relationships, I decided to go ahead with a Polynomial Regression.
+With these results in my hands, and considering that some of the relationships in the pairplot looked like quadratic relationships (namely *Revie Score & Number of Reviews, Review Score & Number of Loves, and Review Score & Price*), I decided to go ahead with a **Polynomial Regression**. 
+
+There were three polynomial regressions, but only two yielded results worth reporting: *Number of Loves Vs. Review Score* and *Number of Reviews Vs. Review Score*.
+
+**Number of Loves Vs. Review Score**    |  **Residuals Plot**
+:--------------------------------------:|:------------------------------------------------------------:
+![](../master/images/poly_n_loves.png)  |  ![](../master/images/residuals_n_loves.png)
+
+**Number of Reviews Vs. Review Score**    |  **Residuals Plot**
+:----------------------------------------:|:------------------------------------------------------------:
+![](../master/images/poly_n_reviews.png)  |  ![](../master/images/residuals_n_reviews.png)
+
+The thing to notice here is the **residuals** plot. As you can see, both present heteroscedasticity - meaning that the variability of the error terms is not equal along the line, rather it presents as a cone shape.
+
+Since I was still not getting ideal results, I decided to try a log transformation on my three main numerical variables (Price, Number of Reviews, and Number of Loves). Below are how the distributiones looked after the transformations.
 
 
+**Price**                                    |**Reviews**                                    |**Loves**
+:-------------------------------------------:|:---------------------------------------------:|:------------------------------:
+![](../master/images/log_transform_price.png)|![](../master/images/log_transform_reviews.png)|![](../master/images/log_transform_loves.png)
+
+That's better!
+
+Now let's look at the results of the first multiple regression, and its corresponding residuals plot.
+
+**Coefficients, Intercept, and R- Sqaured**                      |**RMSE**
+:---------------------------------------------------------------:|:---------------------------------------------------------:
+![](../master/images/sklearn_ling_reg_all.png)                   |  ![](../master/images/RMSE.pgn)
+
+According to this particular model, oly 11.34% of the variability in **Review Score** (target variable) can be explained by our features. As you can see most of the coefficients are very close to zero, meaning they have very little effect in our target variable.
+
+The Root Mean Squared Error value indicates the model cannot very accurately predict the target variable. Let's take a look at the residuals plot.
+
+![Residuals](../master/images/residuals_sklearn_multi_reg.png)  
+
+At least in this case our residuals are more evenly distributed, or homoscedastic.
+
+At this point I was running out of things to try, but I decided to create two interaction terms and analyze their effect on the model. 
+
+The first interaction term was calculated between **Price and Clean (or not)**.
+
+**Interaction Plot**                               |  **Model Summary**
+:-------------------------------------------------:|:------------------------------------------------------------:
+![](../master/images/price_clean_interaction.png)  |  ![](../master/images/clean_price_interact.png)
 
 
