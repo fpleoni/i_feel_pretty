@@ -61,7 +61,7 @@ With the data clean and ready to be explored, I made some visualizations to get 
 
 Most Popular Brand By Reviews                               |  Most Popular Brand By Number of Products
 :----------------------------------------------------------:|:------------------------------------------------------------:
-![]![Most Popular Brand By Reviews](../master/images/Most_popular_by_review.png) |  ![](../master/images/Most_popular_by_number_of_products.png)
+![](../master/images/Most_popular_by_review.png)            |  ![](../master/images/Most_popular_by_number_of_products.png)
 
 Once I had some nice plots of my data, I went ahead witha pairplot. That way I could visualize all relationships at once and decide my next steps from there.
 
