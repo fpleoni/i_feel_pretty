@@ -120,7 +120,7 @@ Now let's look at the results of the first multiple regression, and its correspo
 
 **Coefficients, Intercept, and R- Sqaured**                      |**RMSE**
 :---------------------------------------------------------------:|:---------------------------------------------------------:
-![](../master/images/sklearn_ling_reg_all.png)                   |  ![](../master/images/RMSE.pgn)
+![](../master/images/sklearn_ling_reg_all.png)                   |  ![](../master/images/RMSE.png)
 
 According to this particular model, oly 11.34% of the variability in **Review Score** (target variable) can be explained by our features. As you can see most of the coefficients are very close to zero, meaning they have very little effect in our target variable.
 
@@ -132,10 +132,37 @@ At least in this case our residuals are more evenly distributed, or homoscedasti
 
 At this point I was running out of things to try, but I decided to create two interaction terms and analyze their effect on the model. 
 
+I first built a **baseline model** that had a score of **0.01026**.
+
 The first interaction term was calculated between **Price and Clean (or not)**.
 
 **Interaction Plot**                               |  **Model Summary**
 :-------------------------------------------------:|:------------------------------------------------------------:
 ![](../master/images/price_clean_interaction.png)  |  ![](../master/images/clean_price_interact.png)
 
+The Interaction plot shows there is a slight interaction interaction between the Clean(or not) feature and Price.
+
+As we can see from the model summary though, with coefficients this low and close to zero, the relationship between our dependent and independent variables is not very significant. The R-Squared is slightly higher than what I had see thus far, but so where the p-values.
+
+The second interaction term was calculated between **Number of Loves and Moisturizer (or not)**. 
+
+**Interaction Plot**                                       |  **Model Summary**
+:---------------------------------------------------------:|:------------------------------------------------------------:
+![](../master/images/n_loves_moisturizer_interaction.png)  |  ![](../master/images/love_moisturizer_interact.png)
+
+This model performed slightly better than the first one (R-Squared wise), but as you can see the p-values where even higher.
+
+I tried a few more multiple regression models before getting to my last one, removing the variables with the highest p-values at each iteration. Below are the results summary and residuals plot for the last model.
+
+**Model Summary**                                          |  **Residuals Plot**
+:---------------------------------------------------------:|:------------------------------------------------------------:
+![](../master/images/lin_reg_final.png)                    |  ![](../master/images/lin_reg_final_residuals.png)
+
+As you can see, not much better. Coefficients are still very very low, and according to the R-Squares, only **10.4%** of the variability in Review Score can be explained by the independent variables. The only improvement being than only two of the p-values are higher than the significance level **alpha = 0.05**.
+
+## Conclusions
+
+After thorough analysis, I can say with confidence that we can't predict Review Scores, at least with the features selected or with a linear model.
+
+That said, I don't believe the Review Scores are random, there are underlying causes at play that can't be seen through the lens of the chosen features, such as fake reviews, or paid reviews.
 
