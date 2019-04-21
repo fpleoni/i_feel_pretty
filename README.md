@@ -65,7 +65,7 @@ Most Popular Brand By Reviews                               |  Most Popular Bran
 
 Once I had some nice plots of my data, I went ahead witha pairplot. That way I could visualize all relationships at once and decide my next steps from there.
 
-![Pairplot](../master/images/pairplot.png)
+![Pairplot](../master/images/Pairplot.png)
 
 The **key** takeaway here is that there are no linear relationships between any of the features and my target variables. The next step was to create a correlation matrix and take a look at the correlation coefficients and check for multicollinearity (though at this point I was conviced that multicollinearity was not going to be a problem, if anything, quite the opposite).
 
